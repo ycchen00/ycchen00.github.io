@@ -94,7 +94,7 @@ index_with_subtitle: false
 menu:
   home: / || home
   archives: /archives/ || archive
-  categories: /categories/ || th
+  categories: /categories/ || categories
   tags: /tags/ || tags
   about: /about/ || user
   #schedule: /schedule/ || calendar
@@ -154,7 +154,7 @@ links:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-#avatar: /images/avatar.gif
+avatar: /images/avatar_blackRainbow.jpg
 
 # Table Of Contents in the Sidebar
 toc:
@@ -271,7 +271,7 @@ android_chrome_color: "#222"
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: false
-  image:
+  image: /images/avatar_blackRainbow.jpg
 
 # Code Highlight theme
 # Available value:
