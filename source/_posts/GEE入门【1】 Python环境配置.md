@@ -6,21 +6,22 @@
  tags:
  - Google Earth Engine
  - Remote sensing
+ copyright: true
 ---
 GEE系列第一篇系列，从CSDN博客搬过来~
 主要对GEE(Google Earth Engine)进行了简单介绍以及环境配置。
 <!--more-->
-# GEE简介
+
+## GEE简介
 &emsp;&emsp;GEE（Google Earth Engine）是谷歌的一个可以批量处理卫星影像数据的工具，属于Google Earth一系列的工具。相比于ENVI等传统的处理影像工具，GEE可以快速、批量处理数量“巨大”的影像，比如可以快速计算NDVI植被指数等。GEE数据集包括Landsat4、5、7、8、Modis、Sentinel、Atmospheric等超过 200 个公共的数据集，超过500万张影像，具有免费、云计算、数据获取方便等优点，缺点是需要科学上网，以及下载速度和tz质量有关。
 &emsp;&emsp;GEE提供了两个平台，分别是在线的JavaScript API和离线的Python API。通过这些API可以快速的建立基于Google Earth Engine 以及 Google云的Web服务。在线JavaScript API平台无需环境搭配，可直接线上下载处理卫星影像（[https://code.earthengine.google.com](https://code.earthengine.google.com)），如图。JavaScript平台使用方便，图形交互体验较强，但是如果需要进行深度学习的训练以及测试等时需要将线下使用python等完成训练。
 ![1](https://img-blog.csdnimg.cn/2020082221443350.png?x-oss-process)
 
  </br>
 
-# python API配置相关
+## python API配置相关
 &emsp;&emsp;本教程以python API为平台，结合Google Colab与GEE完成深度学习。使用python运行GEE需要进行环境配置，分为云端环境配置和本地环境配置，本地环境配置的优点是配置一次即可，由于本教程使用Colab云端运行，所以需要进行云端配置，云端配置需要每次重新配置，所幸Colab配置简单。本教程先介绍Colab云端配置，GEE本地python环境配置见后续教程。
-
-## Colab环境配置
+### Colab环境配置
 &emsp;&emsp;Google Colab是一个 Google 研究项目，旨在帮助传播机器学习培训和研究成果。它是一个 Jupyter 笔记本环境，不需要进行任何设置就可以使用，并且完全在云端运行。Colaboratory 笔记本存储在 Google 云端硬盘 ([https://drive.google.com/](https://drive.google.com/)) 中，并且可以共享。由于Google Colab在linux系统下，所以我们可以用linux系统命令来控制Colab。优点即可以免费试用各个谷歌应用，在无可用GPU时比较合适，缺点仍然是使用谷歌相关需要科学上网。
 &emsp;&emsp;建议在Google drive中新建Colab。因为编辑运行完程序后，程序是存在Google drive里的，下一次可以直接进入。而Colab的硬盘是云端的，如果直接新建Colaboratory，那么下次打开colab可能上次编写的程序就没有了。具体步骤如下：
 
@@ -54,7 +55,7 @@ GEE系列第一篇系列，从CSDN博客搬过来~
    具体其他操作可参考网上教程或者官方文档。
 
 
-## GEE开发环境配置
+### GEE开发环境配置
 具体步骤如下：
 
 1.	安装必要的库 !pip install earthengine-api
@@ -73,7 +74,7 @@ GEE系列第一篇系列，从CSDN博客搬过来~
 <img src="https://img-blog.csdnimg.cn/20200822220521198.png?x-oss-process" />
 
 
-## GEE的本地python环境搭建
+### GEE的本地python环境搭建
 
 本教程主要面向Windows系统，Mac或者Linux配置相对简单，出现的问题可能较少，网上有大量线上资源。主要步骤如下。
 1.	安装python和pip（略
@@ -98,11 +99,11 @@ python -c "import ee; ee.Initialize()"
 </br>
 注：其中可能遇到“[WinError 10060] 由于连接方在一段时间没有正确答复…”问题。一方面检查注册账号是否授权，电脑用户名中文也有可能造成问题。另一方面，检查科学上网软件是否为全局模式。
 
-# 相关网站
+## 相关网站
 JavaScript在线平台： [https://code.earthengine.google.com/](https://code.earthengine.google.com/)
 入门介绍文档：[https://developers.google.com/earth-engine/](https://developers.google.com/earth-engine/)
 
-## Python API相关资源
+### Python API相关资源
 [https://github.com/google/earthengine-api](https://github.com/google/earthengine-api)
 （包含基本操作，决策树等机器学习代码，无深度学习相关）
 [https://github.com/shiweihappy/earthengine-py-notebooks](https://github.com/shiweihappy/earthengine-py-notebooks)

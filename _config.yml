@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小鱼干的空间
+title: 猫咪的小鱼干
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://ycchen00.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -106,3 +106,50 @@ deploy:
   type: git
   repo: git@github.com:ycchen00/ycchen00.github.io.git #https://ycchen00:yuchiTOMMY1234@github.com/ycchen00/ycchen00.github.io.git
   branch: master
+
+# 本地搜索
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 100
+  
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
+  
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  model:
+    use: live2d-widget-model-hijiki  #选择哪种模型
+  display: #放置位置和大小
+    position: left
+    width: 150
+    height: 300
+  mobile:
+    show: false #是否在手机端显示
+
+# Security
+##
+encrypt:
+    enable: true
