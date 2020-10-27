@@ -1,16 +1,15 @@
 ﻿---
- title: GEE入门[1]Python环境配置
+ title: GEE入门[1] | Python环境配置
  date: 2020-10-23 21:01:45
  categories:
  - GEE
  tags:
  - Google Earth Engine
  - Remote sensing
- copyright: true
 ---
-GEE系列第一篇系列，从CSDN博客搬过来~
+GEE系列第一篇，从CSDN博客搬过来~
 主要对GEE(Google Earth Engine)进行了简单介绍以及环境配置。
-<!--more-->
+<!--less-->
 
 ## GEE简介
 &emsp;&emsp;GEE（Google Earth Engine）是谷歌的一个可以批量处理卫星影像数据的工具，属于Google Earth一系列的工具。相比于ENVI等传统的处理影像工具，GEE可以快速、批量处理数量“巨大”的影像，比如可以快速计算NDVI植被指数等。GEE数据集包括Landsat4、5、7、8、Modis、Sentinel、Atmospheric等超过 200 个公共的数据集，超过500万张影像，具有免费、云计算、数据获取方便等优点，缺点是需要科学上网，以及下载速度和tz质量有关。

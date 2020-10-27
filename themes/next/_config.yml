@@ -104,17 +104,6 @@ menu:
 # Enable/Disable menu icons.
 menu_icons:
   enable: true
-  home: home
-  about: fa-user
-  categories: fa-th
-  schedule: fa-calendar
-  tags: fa-tags
-  archives: archive
-  sitemap: sitemap
-  commonweal: heartbeat
-  #新增menu_icon
-  catalogue: th-list
-
 
 # ---------------------------------------------------------------
 # Scheme Settings

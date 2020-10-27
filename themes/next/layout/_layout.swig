@@ -102,3 +102,5 @@
 
 <!--单击显示文字-->
 <script type="text/javascript" src="/js/src/coreSocialistValues.js"></script>
+<!--浏览器搞笑标题-->
+<script type="text/javascript" src="/js/src/funnyTitle.js"></script>
