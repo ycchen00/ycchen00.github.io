@@ -3,6 +3,7 @@
  date: 
  categories:
  - GEE
+ - GEE实战
  tags:
  - Google Earth Engine
  - Remote sensing

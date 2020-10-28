@@ -3,6 +3,7 @@
  date: 2020-10-23 21:01:45
  categories:
  - GEE
+ - GEE入门
  tags:
  - Google Earth Engine
  - Remote sensing
