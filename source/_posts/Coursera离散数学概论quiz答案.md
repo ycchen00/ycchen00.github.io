@@ -1,5 +1,5 @@
 ﻿---
- title: Coursera离散数学概论quiz答案
+ title: Coursera | 离散数学概论（北大）| quiz答案
  date: 2020-10-23 22:38:45
  categories:
  - 数学
@@ -9,8 +9,8 @@
  - 离散数学
  - Coursera
 ---
-Coursera离散数学概论quiz答案
-<!--more-->
+>Coursera离散数学概论quiz答案
+<!--less-->
 &emsp;&emsp;先放下Coursera上找的离散数学部分相关课程：
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201011161356603.png#pic_center)

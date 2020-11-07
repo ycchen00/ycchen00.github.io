@@ -8,8 +8,8 @@
  - Google Earth Engine
  - Remote sensing
 ---
-GEE系列第一篇，从CSDN博客搬过来~
-主要对GEE(Google Earth Engine)进行了简单介绍以及环境配置。
+>GEE系列第一篇，从CSDN博客搬过来~
+>主要对GEE(Google Earth Engine)进行了简单介绍以及环境配置。
 <!--less-->
 
 ## GEE简介

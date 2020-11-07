@@ -9,7 +9,7 @@
  - Remote sensing
  copyright: true
 ---
-GEE实战系列，简单介绍LULC(Land cover & land classification)的相关数据库和相关代码。
+>GEE实战系列，简单介绍LULC(Land cover & land classification)的相关数据库和相关代码。
 <!--less-->
 # LULC数据库
 &emsp;&emsp;LULC百度百科：LULC（the land-use/land-cover 土地利用和土地覆盖）数据包括城市和建筑区、农田、牧场、林地、水、湿地、荒地、冻土带和终年积雪或终年结冰地带的有关信息。

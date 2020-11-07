@@ -9,7 +9,7 @@
  - Remote sensing
  copyright: true
 ---
-介绍了如何通过GEE计算NDVI和NDWI
+>介绍了如何通过GEE计算NDVI和NDWI
 <!--less-->
 
 # NDVI

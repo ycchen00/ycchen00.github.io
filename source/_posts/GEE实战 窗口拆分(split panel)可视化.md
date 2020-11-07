@@ -9,7 +9,7 @@
  - Remote sensing
  copyright: true
 ---
-GEE实践系列，介绍如何在GEE上窗口拆分(split panel)可视化图片。
+>GEE实践系列，介绍如何在GEE上窗口拆分(split panel)可视化图片。
 <!--less-->
 
 &emsp;&emsp;Split panel适合在可视化时同时对比效果，而且可以通过拖动，改变两边图像显示范围，可谓高大上可视化以及分析结果的利器。先看效果：

@@ -8,7 +8,7 @@
  - Google Earth Engine
  - Remote sensing
 ---
-GEE系列第四篇，介绍矢量数据FeatureCollection相关操作，并用行政区矢量划分数据作为例子。
+>GEE系列第四篇，介绍矢量数据FeatureCollection相关操作，并用行政区矢量划分数据作为例子。
 <!--less-->
 
 &emsp;&emsp;这节介绍下FeatureCollection相关操作。以行政区域矢量数据为例，介绍如何导入行政区域矢量数据并进行相关操作~

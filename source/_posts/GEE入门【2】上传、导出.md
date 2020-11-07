@@ -9,7 +9,7 @@
  - Remote sensing
  copyright: true
 ---
-GEE系列第二篇，介绍GEE的上传于导出资源方法和函数等。
+>GEE系列第二篇，介绍GEE的上传于导出资源方法和函数等。
 <!--less-->
 
 # GEE数据库
