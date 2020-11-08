@@ -8,7 +8,7 @@ subtitle: ''
 description: overthinker
 keywords:
 author: '买猫咪的小鱼干'
-language: zh-Hans #en
+language: zh-CN #en
 timezone: ''
 
 # URL
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: next-reloaded
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -107,13 +107,7 @@ deploy:
   repo: git@github.com:ycchen00/ycchen00.github.io.git #https://ycchen00:yuchiTOMMY1234@github.com/ycchen00/ycchen00.github.io.git
   branch: master
 
-# 本地搜索
-search:
-  path: search.xml
-  field: post
-  format: html
-  limit: 100
-  
+
 feed:
   type: atom
   path: atom.xml
@@ -149,7 +143,64 @@ live2d:
   mobile:
     show: false #是否在手机端显示
 
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
+
+# hexo-tag-cloud
+tag_cloud:
+    textFont: 'Trebuchet MS, Helvetica'
+    textColor: '#333'
+    textHeight: 20
+    outlineColor: '#E2E1D1'
+    maxSpeed: 0.3 # range from [0.01 ~ 1]
+    pauseOnSelected: false # true means pause the cloud tag movement when highlight a tag
 # Security
 ##
-encrypt:
-    enable: true
+
+# 通用站点地图
+sitemap:
+  path: sitemap.xml
+  
+# 百度站点地图
+baidusitemap:
+  path: baidusitemap.xml
+  
+# 百度主动推送
+baidu_url_submit:
+  count: 5 				     ## 提交最新的1个链接
+  host: tding.top 	     ## 百度站长平台中注册的域名
+  token: 	 ## 准入秘钥
+  path: baidu_urls.txt 		 ## 文本文档的地址， 新链接会保存在此文本文档里
+  
+# 博文压缩
+neat_enable: true
+# 压缩html
+neat_html:
+  enable: true
+  exclude:
+# 压缩css  
+neat_css:
+  enable: true
+  exclude:
+    - '**/*.min.css'
+# 压缩js
+neat_js:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+  
+douban:
+  user: 162542457
+  builtin: true
+  book:
+    title: '阅读'
+    quote: '......'
+  movie:
+    title: '观影'
+    quote: '......'
+  timeout: 10000

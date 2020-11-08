@@ -1,0 +1,133 @@
+// Custom styles.
+
+
+
+.main-inner{
+	opacity: 1;
+	border-radius: 1em; //边框圆角
+}
+
+.header-inner{
+	opacity: 1;
+	z-index: 10;
+	background: rgba(255,255,255,0.8);
+}
+.content.index.posts-expand{
+  margin-top: 60px;
+}
+
+.content-wrap {
+  opacity: 1;
+}
+
+.post-block {
+  margin-bottom: 50px;
+  padding: $content-desktop-padding;
+  background: rgba(255,255,255,0);
+  box-shadow: $box-shadow-inner;
+  border-radius: $border-radius-inner;
+}
+
+.post {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 10px;
+	-webkit-box-shadow: 0 0 5px rgba(202, 203, 203, .5);
+	-moz-box-shadow: 0 0 5px rgba(202, 203, 204, .5);
+}
+
+
+.sidebar{
+  background: rgba(255,255,255,0);
+}
+.sidebar-inner {
+  background: rgba(255,255,255,0.8);
+}
+
+//文章目录默认展开
+.post-toc .nav .nav-child { display: block; }
+
+
+
+//自定义回到顶部样式
+.back-to-top {
+  right: 60px;
+  width: 70px;  //图片素材宽度
+  height: 900px;  //图片素材高度
+  top: -900px;
+  opacity: 1;
+  bottom: unset;
+  transition: all .5s ease-in-out;
+  background: url("/images/scroll.png");
+
+  //隐藏箭头图标
+  > i {
+    display: none;
+  }
+
+  &.back-to-top-on {
+    bottom: unset;
+    top: 100vh < (900px + 200px) ? calc( 100vh - 900px - 200px ) : 0px;
+  }
+}
+
+// 网站背景（自适应）
+body {
+    // background:url(https://i.loli.net/2019/08/02/5d43c6f0b266178355.jpeg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position:50% 50%;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+
+    /*这是设置底部文字, 看个人需要修改*/
+#footer > div > div {    
+        color:#de5e5e;
+    }
+}
+
+a:hover, span.exturl:hover {
+    color: #e64242e3; // 鼠标经过时文字颜色
+    border-bottom-color: #222; // 鼠标经过时下划线颜色
+}
+
+
+.chinese-zodiac {
+    float: right;
+}
+@font-face {
+  font-family: 'chinese-zodiac';
+  font-display: swap;
+  src: url('/fonts/chinese-zodiac.eot');
+  src: url('/fonts/chinese-zodiac.eot') format('embedded-opentype'),
+       url('/fonts/chinese-zodiac.woff2') format('woff2'),
+       url('/fonts/chinese-zodiac.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+.symbolic-animals {
+  display: inline-block;
+  font: normal normal normal 14px/1 chinese-zodiac;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-dragon:before { content: '\e806'; }
+.icon-tiger:before { content: '\e809'; }
+.icon-pig:before { content: '\e810'; }
+.icon-horse:before { content: '\e813'; }
+.icon-rat:before { content: '\e816'; }
+.icon-goat:before { content: '\e818'; }
+.icon-snake:before { content: '\e820'; }
+.icon-ox:before { content: '\e822'; }
+.icon-dog:before { content: '\e825'; }
+.icon-rabbit:before { content: '\e826'; }
+.icon-monkey:before { content: '\e829'; }
+.icon-rooster:before { content: '\e82f'; }
+
+
+
