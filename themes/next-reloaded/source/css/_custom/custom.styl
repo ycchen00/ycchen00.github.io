@@ -1,0 +1,78 @@
+// Custom styles.
+.post {
+margin-top: 60px;
+margin-bottom: 60px;
+padding: 25px;
+-webkit-box-shadow: 0 0 5px rgba(202, 203, 203, .5);
+-moz-box-shadow: 0 0 5px rgba(202, 203, 204, .5);
+}
+
+.main-inner{
+	opacity: 1;
+	border-radius: 1em; //边框圆角
+}
+.header-inner{
+	opacity: 1;
+	z-index: 10;
+	background: rgba(255,255,255,0.8);
+}
+
+.sidebar{
+  background: rgba(255,255,255,0);
+}
+.sidebar-inner {
+  background: rgba(255,255,255,0.8);
+}
+
+//文章目录默认展开
+.post-toc .nav .nav-child { display: block; }
+
+
+
+//自定义回到顶部样式
+.back-to-top {
+  right: 60px;
+  width: 70px;  //图片素材宽度
+  height: 900px;  //图片素材高度
+  top: -900px;
+  bottom: unset;
+  transition: all .5s ease-in-out;
+  background: url("/images/scroll.png");
+
+  //隐藏箭头图标
+  > i {
+    display: none;
+  }
+
+  &.back-to-top-on {
+    bottom: unset;
+    top: 100vh < (900px + 200px) ? calc( 100vh - 900px - 200px ) : 0px;
+  }
+}
+
+// 网站背景（自适应）
+body {
+    // background:url(https://i.loli.net/2019/08/02/5d43c6f0b266178355.jpeg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position:50% 50%;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+
+    /*这是设置底部文字, 看个人需要修改*/
+#footer > div > div {    
+        color:#de5e5e;
+    }
+}
+
+a:hover, span.exturl:hover {
+    color: #e64242e3; // 鼠标经过时文字颜色
+    border-bottom-color: #222; // 鼠标经过时下划线颜色
+}
+
+
+
+
