@@ -14,7 +14,7 @@
 ## 搭建日志
 
 	待解决：
-	202011?? ：在线编辑Netylify  **失败 20201109**
+	202011?? ：在线编辑Netylify 成功一半 可以在线编辑，但是与Netylify无关
 	202011?? ：多级目录/https://guanqr.com/tech/website/hexo-theme-next-customization/#
 	
 	20201109 ：加入评论板块&热度-次数
