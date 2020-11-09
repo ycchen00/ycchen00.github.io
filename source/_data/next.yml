@@ -594,8 +594,8 @@ comments:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: ycchen00
   count: true
   #post_meta_order: 0
 
