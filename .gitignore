@@ -4,6 +4,7 @@
 *.iml
 yarn.lock
 package-lock.json
+.deploy_git
 node_modules/
 
 # Ignore optional external libraries

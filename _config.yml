@@ -205,5 +205,3 @@ douban:
     quote: '......'
   timeout: 10000
   
-skip_render:
-  - admin/*
