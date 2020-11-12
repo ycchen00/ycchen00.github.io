@@ -6,7 +6,7 @@
   <link href="https://ycchen00.github.io/atom.xml" rel="self"/>
   
   <link href="https://ycchen00.github.io/"/>
-  <updated>2020-11-07T03:50:57.490Z</updated>
+  <updated>2020-11-10T02:49:32.446Z</updated>
   <id>https://ycchen00.github.io/</id>
   
   <author>
@@ -17,15 +17,15 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| quiz答案</title>
-    <link href="https://ycchen00.github.io/2020/11/07/Coursera%20Introduction%20to%20Data%20Science%20in%20Python%EF%BC%88University%20of%20Michigan%EF%BC%89%20quiz%E7%AD%94%E6%A1%88/"/>
-    <id>https://ycchen00.github.io/2020/11/07/Coursera%20Introduction%20to%20Data%20Science%20in%20Python%EF%BC%88University%20of%20Michigan%EF%BC%89%20quiz%E7%AD%94%E6%A1%88/</id>
-    <published>2020-11-07T03:34:15.205Z</published>
-    <updated>2020-11-07T03:50:57.490Z</updated>
+    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz答案</title>
+    <link href="https://ycchen00.github.io/2020/11/09/Intro2DS/Quiz/"/>
+    <id>https://ycchen00.github.io/2020/11/09/Intro2DS/Quiz/</id>
+    <published>2020-11-09T12:13:30.783Z</published>
+    <updated>2020-11-10T02:49:32.446Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python quiz答案&lt;/p&gt;
+&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python Quiz答案&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
@@ -34,12 +34,159 @@
     
     <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
     
+    <category term="Intro2DS" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/Intro2DS/"/>
+    
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
     
     <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
     
     <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
     
+  </entry>
+  
+  <entry>
+    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment1</title>
+    <link href="https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment1/"/>
+    <id>https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment1/</id>
+    <published>2020-11-09T12:13:21.856Z</published>
+    <updated>2020-11-10T02:49:32.442Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python Assignment1代码&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
+    
+    <category term="Intro2DS" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/Intro2DS/"/>
+    
+    
     <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
+    
+    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment2</title>
+    <link href="https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment2/"/>
+    <id>https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment2/</id>
+    <published>2020-11-09T12:13:14.863Z</published>
+    <updated>2020-11-10T02:49:32.438Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python Assignment2代码&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
+    
+    <category term="Intro2DS" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/Intro2DS/"/>
+    
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
+    
+    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment3</title>
+    <link href="https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment3/"/>
+    <id>https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment3/</id>
+    <published>2020-11-09T12:13:09.721Z</published>
+    <updated>2020-11-10T02:49:32.432Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python Assignment3代码&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
+    
+    <category term="Intro2DS" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/Intro2DS/"/>
+    
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
+    
+    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment4</title>
+    <link href="https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment4/"/>
+    <id>https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment4/</id>
+    <published>2020-11-09T12:13:03.918Z</published>
+    <updated>2020-11-10T02:49:32.420Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python Assignment4代码&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
+    
+    <category term="Intro2DS" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/Intro2DS/"/>
+    
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
+    
+    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz和Assignment1-4答案</title>
+    <link href="https://ycchen00.github.io/2020/11/09/Intro2DS/Quiz+Assignment1-4/"/>
+    <id>https://ycchen00.github.io/2020/11/09/Intro2DS/Quiz+Assignment1-4/</id>
+    <published>2020-11-09T12:12:56.759Z</published>
+    <updated>2020-11-10T02:49:32.451Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python quiz答案和assignment链接目录&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
+    
+    <category term="Intro2DS" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/Intro2DS/"/>
+    
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
+    
+    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
     
   </entry>
   
@@ -48,7 +195,7 @@
     <link href="https://ycchen00.github.io/2020/11/05/%E8%B0%83%E9%85%92%E8%AE%B0%E5%BD%95/"/>
     <id>https://ycchen00.github.io/2020/11/05/%E8%B0%83%E9%85%92%E8%AE%B0%E5%BD%95/</id>
     <published>2020-11-05T14:17:45.000Z</published>
-    <updated>2020-11-08T03:52:15.259Z</updated>
+    <updated>2020-11-12T06:00:40.661Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -68,10 +215,10 @@
   
   <entry>
     <title>GEE(Google Earth Engine)目录</title>
-    <link href="https://ycchen00.github.io/2020/10/28/GEE%E7%9B%AE%E5%BD%95/"/>
-    <id>https://ycchen00.github.io/2020/10/28/GEE%E7%9B%AE%E5%BD%95/</id>
+    <link href="https://ycchen00.github.io/2020/10/28/GEE/GEE%E7%9B%AE%E5%BD%95/"/>
+    <id>https://ycchen00.github.io/2020/10/28/GEE/GEE%E7%9B%AE%E5%BD%95/</id>
     <published>2020-10-28T14:05:21.567Z</published>
-    <updated>2020-11-07T03:42:36.354Z</updated>
+    <updated>2020-11-12T06:14:36.796Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -94,7 +241,7 @@
     <link href="https://ycchen00.github.io/2020/10/28/Moive/"/>
     <id>https://ycchen00.github.io/2020/10/28/Moive/</id>
     <published>2020-10-28T13:53:04.000Z</published>
-    <updated>2020-10-28T13:53:04.000Z</updated>
+    <updated>2020-11-09T05:24:14.618Z</updated>
     
     
     <summary type="html">记录看过的电影，评分，评论等。(暂时加密)</summary>
@@ -116,10 +263,10 @@
   
   <entry>
     <title>GEE实战 | 窗口拆分(split panel)可视化</title>
-    <link href="https://ycchen00.github.io/2020/10/27/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
-    <id>https://ycchen00.github.io/2020/10/27/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/</id>
+    <link href="https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    <id>https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/</id>
     <published>2020-10-27T08:49:22.771Z</published>
-    <updated>2020-11-07T03:43:25.052Z</updated>
+    <updated>2020-11-10T02:29:22.843Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -141,10 +288,10 @@
   
   <entry>
     <title>GEE入门[2] | 上传、导出</title>
-    <link href="https://ycchen00.github.io/2020/10/27/GEE%E5%85%A5%E9%97%A8%E3%80%902%E3%80%91%E4%B8%8A%E4%BC%A0%E3%80%81%E5%AF%BC%E5%87%BA/"/>
-    <id>https://ycchen00.github.io/2020/10/27/GEE%E5%85%A5%E9%97%A8%E3%80%902%E3%80%91%E4%B8%8A%E4%BC%A0%E3%80%81%E5%AF%BC%E5%87%BA/</id>
+    <link href="https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%85%A5%E9%97%A8%E3%80%902%E3%80%91%E4%B8%8A%E4%BC%A0%E3%80%81%E5%AF%BC%E5%87%BA/"/>
+    <id>https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%85%A5%E9%97%A8%E3%80%902%E3%80%91%E4%B8%8A%E4%BC%A0%E3%80%81%E5%AF%BC%E5%87%BA/</id>
     <published>2020-10-27T08:48:15.372Z</published>
-    <updated>2020-11-07T03:42:48.699Z</updated>
+    <updated>2020-11-10T02:29:22.829Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -166,10 +313,10 @@
   
   <entry>
     <title>GEE实战 | LULC获取与处理</title>
-    <link href="https://ycchen00.github.io/2020/10/27/GEE%E5%AE%9E%E6%88%98%20LULC%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%A4%84%E7%90%86/"/>
-    <id>https://ycchen00.github.io/2020/10/27/GEE%E5%AE%9E%E6%88%98%20LULC%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%A4%84%E7%90%86/</id>
+    <link href="https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%AE%9E%E6%88%98%20LULC%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%A4%84%E7%90%86/"/>
+    <id>https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%AE%9E%E6%88%98%20LULC%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%A4%84%E7%90%86/</id>
     <published>2020-10-27T08:48:02.429Z</published>
-    <updated>2020-11-07T03:43:25.041Z</updated>
+    <updated>2020-11-10T02:29:22.839Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -191,10 +338,10 @@
   
   <entry>
     <title>GEE入门[4] | 矢量数据FeatureCollection（行政区划分）</title>
-    <link href="https://ycchen00.github.io/2020/10/27/GEE%E5%85%A5%E9%97%A8%E3%80%904%E3%80%91%E7%9F%A2%E9%87%8F%E6%95%B0%E6%8D%AEFeatureCollection%EF%BC%88%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E5%88%86%EF%BC%89/"/>
-    <id>https://ycchen00.github.io/2020/10/27/GEE%E5%85%A5%E9%97%A8%E3%80%904%E3%80%91%E7%9F%A2%E9%87%8F%E6%95%B0%E6%8D%AEFeatureCollection%EF%BC%88%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E5%88%86%EF%BC%89/</id>
+    <link href="https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%85%A5%E9%97%A8%E3%80%904%E3%80%91%E7%9F%A2%E9%87%8F%E6%95%B0%E6%8D%AEFeatureCollection%EF%BC%88%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E5%88%86%EF%BC%89/"/>
+    <id>https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%85%A5%E9%97%A8%E3%80%904%E3%80%91%E7%9F%A2%E9%87%8F%E6%95%B0%E6%8D%AEFeatureCollection%EF%BC%88%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E5%88%86%EF%BC%89/</id>
     <published>2020-10-27T08:47:56.126Z</published>
-    <updated>2020-11-07T03:43:25.037Z</updated>
+    <updated>2020-11-10T02:29:22.834Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -216,10 +363,10 @@
   
   <entry>
     <title>GEE入门[3] | 相关学习网站</title>
-    <link href="https://ycchen00.github.io/2020/10/27/GEE%E5%85%A5%E9%97%A8%E3%80%903%E3%80%91%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/"/>
-    <id>https://ycchen00.github.io/2020/10/27/GEE%E5%85%A5%E9%97%A8%E3%80%903%E3%80%91%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/</id>
+    <link href="https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%85%A5%E9%97%A8%E3%80%903%E3%80%91%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/"/>
+    <id>https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%85%A5%E9%97%A8%E3%80%903%E3%80%91%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/</id>
     <published>2020-10-27T08:47:45.900Z</published>
-    <updated>2020-11-07T03:43:25.032Z</updated>
+    <updated>2020-11-09T05:25:12.617Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -241,10 +388,10 @@
   
   <entry>
     <title>GEE实战 | 计算NDVI &amp; NDWI</title>
-    <link href="https://ycchen00.github.io/2020/10/27/GEE%E5%AE%9E%E6%88%98%20%E8%AE%A1%E7%AE%97NDVI&amp;NDWI/"/>
-    <id>https://ycchen00.github.io/2020/10/27/GEE%E5%AE%9E%E6%88%98%20%E8%AE%A1%E7%AE%97NDVI&amp;NDWI/</id>
+    <link href="https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E8%AE%A1%E7%AE%97NDVI&amp;NDWI/"/>
+    <id>https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E8%AE%A1%E7%AE%97NDVI&amp;NDWI/</id>
     <published>2020-10-27T08:47:35.852Z</published>
-    <updated>2020-11-07T03:43:25.057Z</updated>
+    <updated>2020-11-10T02:29:22.847Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -269,7 +416,7 @@
     <link href="https://ycchen00.github.io/2020/10/23/Coursera%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E6%A6%82%E8%AE%BAquiz%E7%AD%94%E6%A1%88/"/>
     <id>https://ycchen00.github.io/2020/10/23/Coursera%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E6%A6%82%E8%AE%BAquiz%E7%AD%94%E6%A1%88/</id>
     <published>2020-10-23T14:38:45.000Z</published>
-    <updated>2020-11-07T03:37:00.244Z</updated>
+    <updated>2020-11-10T02:30:37.356Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -283,20 +430,20 @@
     <category term="离散数学" scheme="https://ycchen00.github.io/categories/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/"/>
     
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
-    
     <category term="数学" scheme="https://ycchen00.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
     
     <category term="离散数学" scheme="https://ycchen00.github.io/tags/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
     
   </entry>
   
   <entry>
     <title>GEE入门[1] | Python环境配置</title>
-    <link href="https://ycchen00.github.io/2020/10/23/GEE%E5%85%A5%E9%97%A8%E3%80%901%E3%80%91Python%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
-    <id>https://ycchen00.github.io/2020/10/23/GEE%E5%85%A5%E9%97%A8%E3%80%901%E3%80%91Python%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</id>
+    <link href="https://ycchen00.github.io/2020/10/23/GEE/GEE%E5%85%A5%E9%97%A8%E3%80%901%E3%80%91Python%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
+    <id>https://ycchen00.github.io/2020/10/23/GEE/GEE%E5%85%A5%E9%97%A8%E3%80%901%E3%80%91Python%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</id>
     <published>2020-10-23T13:01:45.000Z</published>
-    <updated>2020-11-07T03:42:42.419Z</updated>
+    <updated>2020-11-10T02:29:22.824Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -313,29 +460,6 @@
     <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>
     
     <category term="Remote sensing" scheme="https://ycchen00.github.io/tags/Remote-sensing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo问题解决随笔</title>
-    <link href="https://ycchen00.github.io/2020/10/19/hexoDiaries/"/>
-    <id>https://ycchen00.github.io/2020/10/19/hexoDiaries/</id>
-    <published>2020-10-19T10:55:07.549Z</published>
-    <updated>2020-11-09T05:00:00.733Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;记录解决hexo相关问题与其时间的日志&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="hexo" scheme="https://ycchen00.github.io/categories/hexo/"/>
-    
-    
-    <category term="个人博客" scheme="https://ycchen00.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    <category term="hexo" scheme="https://ycchen00.github.io/tags/hexo/"/>
     
   </entry>
   
@@ -359,6 +483,29 @@
     <category term="随笔" scheme="https://ycchen00.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
     <category term="个人博客" scheme="https://ycchen00.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo问题解决随笔</title>
+    <link href="https://ycchen00.github.io/2020/10/18/hexoDiaries/"/>
+    <id>https://ycchen00.github.io/2020/10/18/hexoDiaries/</id>
+    <published>2020-10-18T12:20:00.000Z</published>
+    <updated>2020-11-09T05:28:26.721Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;记录解决hexo相关问题与其时间的日志&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="hexo" scheme="https://ycchen00.github.io/categories/hexo/"/>
+    
+    
+    <category term="个人博客" scheme="https://ycchen00.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="hexo" scheme="https://ycchen00.github.io/tags/hexo/"/>
     
   </entry>
   
