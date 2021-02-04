@@ -6,7 +6,7 @@
   <link href="https://ycchen00.github.io/atom.xml" rel="self"/>
   
   <link href="https://ycchen00.github.io/"/>
-  <updated>2020-12-12T12:05:26.064Z</updated>
+  <updated>2021-02-04T08:40:20.936Z</updated>
   <id>https://ycchen00.github.io/</id>
   
   <author>
@@ -17,572 +17,512 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment4</title>
-    <link href="https://ycchen00.github.io/2020/12/12/AppliedML/Assignment4/"/>
-    <id>https://ycchen00.github.io/2020/12/12/AppliedML/Assignment4/</id>
-    <published>2020-12-12T11:55:49.432Z</published>
-    <updated>2020-12-12T12:05:26.064Z</updated>
+    <title>PayPal大陆付款问题</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Tip/PayPal%E4%BB%98%E6%AC%BE/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Tip/PayPal%E4%BB%98%E6%AC%BE/</id>
+    <published>2021-02-04T05:13:40.368Z</published>
+    <updated>2021-02-04T08:40:20.936Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第三门课程Applied Machine Learning in Python Assignment4代码&lt;/p&gt;
+&lt;p&gt;PayPal账号的国家/地区信息与付款资料中的国家/地区信息不符。请使用其他付款方式。&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
     
-    <category term="AppliedML" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/AppliedML/"/>
+    <category term="PayPal" scheme="https://ycchen00.github.io/tags/PayPal/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Debug | AttributeError： module ‘keras.backend‘ has no attribute ‘image_dim_ordering</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Debug/%E2%80%98image_dim_ordering%E2%80%98/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Debug/%E2%80%98image_dim_ordering%E2%80%98/</id>
+    <published>2021-02-04T03:26:06.839Z</published>
+    <updated>2021-02-04T07:44:22.365Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;AttributeError: module ‘keras.backend’ has no attribute ‘image_dim_ordering’&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Debug" scheme="https://ycchen00.github.io/categories/Debug/"/>
+    
+    
+    <category term="Debug" scheme="https://ycchen00.github.io/tags/Debug/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coursera | Using Python to Access Web Data (University of Michigan) | Quiz</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Coursera/P2Web-Quiz/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Coursera/P2Web-Quiz/</id>
+    <published>2021-02-04T03:23:26.702Z</published>
+    <updated>2021-02-04T06:40:26.845Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;经典密歇根python课程Python for Everybody Specialization的第三门。缘由是之前学的爬虫有点忘了，打算复习下。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/categories/Coursera/"/>
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/"/>
     
     
     <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
     
     <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
     
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
+    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
     
-    <category term="Machine learning" scheme="https://ycchen00.github.io/tags/Machine-learning/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Coursera | Applied Machine Learning in Python（University of Michigan）| Quiz</title>
-    <link href="https://ycchen00.github.io/2020/12/12/AppliedML/Quiz/"/>
-    <id>https://ycchen00.github.io/2020/12/12/AppliedML/Quiz/</id>
-    <published>2020-12-12T11:55:40.816Z</published>
-    <updated>2020-12-12T12:10:43.514Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第三门课程Applied Machine Learning in Python Quiz答案&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
-    
-    <category term="AppliedML" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/AppliedML/"/>
-    
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
-    
-    <category term="Machine learning" scheme="https://ycchen00.github.io/tags/Machine-learning/"/>
+    <category term="crawler" scheme="https://ycchen00.github.io/tags/crawler/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment1</title>
-    <link href="https://ycchen00.github.io/2020/12/12/AppliedML/Assignment1/"/>
-    <id>https://ycchen00.github.io/2020/12/12/AppliedML/Assignment1/</id>
-    <published>2020-12-12T11:55:14.964Z</published>
-    <updated>2020-12-12T12:10:43.444Z</updated>
+    <title>Python | pip设置代理 &amp; 更换镜像</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Python/pip%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86%20&amp;%20%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Python/pip%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86%20&amp;%20%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F/</id>
+    <published>2021-02-04T03:23:17.061Z</published>
+    <updated>2021-02-04T07:15:03.080Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第三门课程Applied Machine Learning in Python Assignment1代码&lt;/p&gt;
+&lt;p&gt;pip设置代理或者更换国内镜像源&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
-    
-    <category term="AppliedML" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/AppliedML/"/>
+    <category term="Python" scheme="https://ycchen00.github.io/categories/Python/"/>
     
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
+    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
-    
-    <category term="Machine learning" scheme="https://ycchen00.github.io/tags/Machine-learning/"/>
+    <category term="pip" scheme="https://ycchen00.github.io/tags/pip/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment3</title>
-    <link href="https://ycchen00.github.io/2020/12/12/AppliedML/Assignment3/"/>
-    <id>https://ycchen00.github.io/2020/12/12/AppliedML/Assignment3/</id>
-    <published>2020-12-12T11:55:11.998Z</published>
-    <updated>2020-12-12T12:05:26.022Z</updated>
+    <title>Tip | cmder安装与常用配置</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Tip/cmder%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Tip/cmder%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/</id>
+    <published>2021-02-04T03:23:09.253Z</published>
+    <updated>2021-02-04T08:42:43.590Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第三门课程Applied Machine Learning in Python Assignment3代码&lt;/p&gt;
+&lt;p&gt;cmder安装与常用配置，cmd和Powershell替代&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
-    
-    <category term="AppliedML" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/AppliedML/"/>
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
     
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
-    
-    <category term="Machine learning" scheme="https://ycchen00.github.io/tags/Machine-learning/"/>
+    <category term="cmder" scheme="https://ycchen00.github.io/tags/cmder/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment2</title>
-    <link href="https://ycchen00.github.io/2020/12/12/AppliedML/Assignment2/"/>
-    <id>https://ycchen00.github.io/2020/12/12/AppliedML/Assignment2/</id>
-    <published>2020-12-12T11:55:07.919Z</published>
-    <updated>2020-12-12T12:10:43.483Z</updated>
+    <title>Tip | Git复制粘贴 快捷键</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Tip/Git%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4_%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Tip/Git%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4_%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+    <published>2021-02-04T03:22:58.895Z</published>
+    <updated>2021-02-04T05:40:58.400Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第三门课程Applied Machine Learning in Python Assignment2代码&lt;/p&gt;
+&lt;p&gt;复制：&lt;code&gt;Ctrl + Insert&lt;/code&gt;&lt;br&gt;粘贴：&lt;code&gt;Shift + Insert&lt;/code&gt;&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
-    
-    <category term="AppliedML" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/AppliedML/"/>
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
     
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
+    <category term="Git" scheme="https://ycchen00.github.io/tags/Git/"/>
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
-    
-    <category term="Machine learning" scheme="https://ycchen00.github.io/tags/Machine-learning/"/>
+    <category term="shortcuts" scheme="https://ycchen00.github.io/tags/shortcuts/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Applied Plotting, Charting &amp; Data Representation in Python（University of Michigan）| Assignment4</title>
-    <link href="https://ycchen00.github.io/2020/12/11/AppliedV/Assignment4/"/>
-    <id>https://ycchen00.github.io/2020/12/11/AppliedV/Assignment4/</id>
-    <published>2020-12-11T09:55:13.366Z</published>
-    <updated>2020-12-11T10:21:00.559Z</updated>
+    <title>SQL | SQL+Python API相关入门教程</title>
+    <link href="https://ycchen00.github.io/2021/02/04/DSci/SQL/SQL+Python%20API%E7%9B%B8%E5%85%B3%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B(SQL4DS%E7%AC%94%E8%AE%B0)/"/>
+    <id>https://ycchen00.github.io/2021/02/04/DSci/SQL/SQL+Python%20API%E7%9B%B8%E5%85%B3%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B(SQL4DS%E7%AC%94%E8%AE%B0)/</id>
+    <published>2021-02-04T03:22:48.421Z</published>
+    <updated>2021-02-04T09:04:56.757Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第二门课程Applied Plotting, Charting &amp;amp; Data Representation in Python Assignment4代码&lt;/p&gt;
+&lt;p&gt;介绍了SQL基本用法以及相关Python API的用法，同SQL4DS笔记~&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    <category term="DSci" scheme="https://ycchen00.github.io/categories/DSci/"/>
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
-    
-    <category term="AppliedV" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/AppliedV/"/>
+    <category term="SQL" scheme="https://ycchen00.github.io/categories/DSci/SQL/"/>
     
     
     <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
     
     <category term="Visualization" scheme="https://ycchen00.github.io/tags/Visualization/"/>
     
+    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
+    
+    <category term="SQL" scheme="https://ycchen00.github.io/tags/SQL/"/>
+    
   </entry>
   
   <entry>
-    <title>Coursera | Applied Plotting, Charting &amp; Data Representation in Python（University of Michigan）| Assignment3</title>
-    <link href="https://ycchen00.github.io/2020/12/11/AppliedV/Assignment3/"/>
-    <id>https://ycchen00.github.io/2020/12/11/AppliedV/Assignment3/</id>
-    <published>2020-12-11T09:55:08.063Z</published>
-    <updated>2020-12-11T10:21:00.521Z</updated>
+    <title>Coursera | Databases and SQL for Data Science (IBM) | Assignment</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Coursera/SQL4DS/Assignment/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Coursera/SQL4DS/Assignment/</id>
+    <published>2021-02-04T03:22:38.429Z</published>
+    <updated>2021-02-04T09:05:40.976Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第二门课程Applied Plotting, Charting &amp;amp; Data Representation in Python Assignment3代码&lt;/p&gt;
+&lt;p&gt;IBM下Databases and SQL for Data Science的Assignments答案~&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    <category term="Coursera" scheme="https://ycchen00.github.io/categories/Coursera/"/>
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
+    <category term="DataScience" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/"/>
     
-    <category term="AppliedV" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/AppliedV/"/>
+    <category term="SQL4DS" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/SQL4DS/"/>
     
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
     
     <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
     
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
+    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
+    
+    <category term="SQL" scheme="https://ycchen00.github.io/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coursera | Databases and SQL for Data Science (IBM) | Quiz</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Coursera/SQL4DS/Quiz/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Coursera/SQL4DS/Quiz/</id>
+    <published>2021-02-04T03:21:57.970Z</published>
+    <updated>2021-02-04T09:05:36.722Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;IBM下Databases and SQL for Data Science的Quiz答案~&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/categories/Coursera/"/>
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/"/>
+    
+    <category term="SQL4DS" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/SQL4DS/"/>
+    
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
+    
+    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
+    
+    <category term="SQL" scheme="https://ycchen00.github.io/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jupyter Notebook | Markdown隐藏内容</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Python/JupyterNotebook/Markdown%E9%9A%90%E8%97%8F%E5%86%85%E5%AE%B9/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Python/JupyterNotebook/Markdown%E9%9A%90%E8%97%8F%E5%86%85%E5%AE%B9/</id>
+    <published>2021-02-04T03:21:49.302Z</published>
+    <updated>2021-02-04T07:25:56.330Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Jupyter Notebook系列，如何Markdown中隐藏内容，增强可视化~&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Python" scheme="https://ycchen00.github.io/categories/Python/"/>
+    
+    <category term="Jupyter Notebook" scheme="https://ycchen00.github.io/categories/Python/Jupyter-Notebook/"/>
+    
+    
+    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
+    
+    <category term="Jupyter Notebook" scheme="https://ycchen00.github.io/tags/Jupyter-Notebook/"/>
+    
+    <category term="Markdown" scheme="https://ycchen00.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Folium | Tutorials</title>
+    <link href="https://ycchen00.github.io/2021/02/04/DSci/Visualization/Folium%E6%95%99%E7%A8%8B(DVwP%E7%AC%94%E8%AE%B0)/"/>
+    <id>https://ycchen00.github.io/2021/02/04/DSci/Visualization/Folium%E6%95%99%E7%A8%8B(DVwP%E7%AC%94%E8%AE%B0)/</id>
+    <published>2021-02-04T03:21:38.850Z</published>
+    <updated>2021-02-04T08:35:40.135Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Folium基础教程，同DVwP笔记~&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="DSci" scheme="https://ycchen00.github.io/categories/DSci/"/>
+    
+    <category term="Visualization" scheme="https://ycchen00.github.io/categories/DSci/Visualization/"/>
+    
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
     
     <category term="Visualization" scheme="https://ycchen00.github.io/tags/Visualization/"/>
     
+    <category term="Folium" scheme="https://ycchen00.github.io/tags/Folium/"/>
+    
   </entry>
   
   <entry>
-    <title>Coursera | Applied Plotting, Charting &amp; Data Representation in Python（University of Michigan）| W3 Practice Assignment</title>
-    <link href="https://ycchen00.github.io/2020/12/11/AppliedV/W3_Practice_Assignment/"/>
-    <id>https://ycchen00.github.io/2020/12/11/AppliedV/W3_Practice_Assignment/</id>
-    <published>2020-12-11T09:54:31.533Z</published>
-    <updated>2020-12-11T10:22:04.720Z</updated>
+    <title>Tip | windows蓝牙忽然消失</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Tip/windows%E8%93%9D%E7%89%99%E6%B6%88%E5%A4%B1/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Tip/windows%E8%93%9D%E7%89%99%E6%B6%88%E5%A4%B1/</id>
+    <published>2021-02-04T03:21:30.779Z</published>
+    <updated>2021-02-04T08:45:04.557Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第二门课程Applied Plotting, Charting &amp;amp; Data Representation in Python Week3 Pratice Assignment(Optional)代码&lt;/p&gt;
+&lt;p&gt;Windows总是没事跳出个问题刷存在感 :(&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
     
-    <category term="AppliedV" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/AppliedV/"/>
+    <category term="Windows" scheme="https://ycchen00.github.io/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Matplotlib | 架构概述</title>
+    <link href="https://ycchen00.github.io/2021/02/04/DSci/Visualization/Matplotlib%E6%9E%B6%E6%9E%84%E6%A6%82%E8%BF%B0/"/>
+    <id>https://ycchen00.github.io/2021/02/04/DSci/Visualization/Matplotlib%E6%9E%B6%E6%9E%84%E6%A6%82%E8%BF%B0/</id>
+    <published>2021-02-04T03:21:20.383Z</published>
+    <updated>2021-02-04T08:23:31.590Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;这里记下关于Matplotlib体系结构的笔记，主要是上课内容加上自己找的资料，夹英夹中，大家可以当个参考。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="DSci" scheme="https://ycchen00.github.io/categories/DSci/"/>
+    
+    <category term="Visualization" scheme="https://ycchen00.github.io/categories/DSci/Visualization/"/>
     
     
     <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
     
     <category term="Visualization" scheme="https://ycchen00.github.io/tags/Visualization/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Coursera | Applied Plotting, Charting &amp; Data Representation in Python（University of Michigan）| Assignment2</title>
-    <link href="https://ycchen00.github.io/2020/12/11/AppliedV/Assignment2/"/>
-    <id>https://ycchen00.github.io/2020/12/11/AppliedV/Assignment2/</id>
-    <published>2020-12-11T09:54:25.107Z</published>
-    <updated>2020-12-11T10:21:00.477Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第二门课程Applied Plotting, Charting &amp;amp; Data Representation in Python Assignment2代码&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
-    
-    <category term="AppliedV" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/AppliedV/"/>
-    
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
-    
-    <category term="Visualization" scheme="https://ycchen00.github.io/tags/Visualization/"/>
+    <category term="Matplotlib" scheme="https://ycchen00.github.io/tags/Matplotlib/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Applied Plotting, Charting &amp; Data Representation in Python（University of Michigan）| Assignment1</title>
-    <link href="https://ycchen00.github.io/2020/12/11/AppliedV/Assignment1/"/>
-    <id>https://ycchen00.github.io/2020/12/11/AppliedV/Assignment1/</id>
-    <published>2020-12-11T09:54:18.854Z</published>
-    <updated>2020-12-11T10:21:00.591Z</updated>
+    <title>Jupyter Notebook | 扩展插件安装与推荐</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Python/JupyterNotebook/%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E6%8E%A8%E8%8D%90/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Python/JupyterNotebook/%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E6%8E%A8%E8%8D%90/</id>
+    <published>2021-02-04T03:21:02.319Z</published>
+    <updated>2021-02-04T07:23:51.289Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第二门课程Applied Plotting, Charting &amp;amp; Data Representation in Python Assignment1代码&lt;/p&gt;
+&lt;p&gt;Jupyter Notebook系列，这里介绍下怎么安装以及推荐一些常用的插件~&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    <category term="Python" scheme="https://ycchen00.github.io/categories/Python/"/>
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
-    
-    <category term="AppliedV" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/AppliedV/"/>
+    <category term="Jupyter Notebook" scheme="https://ycchen00.github.io/categories/Python/Jupyter-Notebook/"/>
     
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
+    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
     
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
-    
-    <category term="Visualization" scheme="https://ycchen00.github.io/tags/Visualization/"/>
+    <category term="Jupyter Notebook" scheme="https://ycchen00.github.io/tags/Jupyter-Notebook/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz答案</title>
-    <link href="https://ycchen00.github.io/2020/11/09/Intro2DS/Quiz/"/>
-    <id>https://ycchen00.github.io/2020/11/09/Intro2DS/Quiz/</id>
-    <published>2020-11-09T12:13:30.783Z</published>
-    <updated>2020-11-10T02:49:32.446Z</updated>
+    <title>Jupyter Notebook | 更改默认目录、浏览器</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Python/JupyterNotebook/%E6%9B%B4%E6%94%B9%E9%BB%98%E8%AE%A4%E7%9B%AE%E5%BD%95%E3%80%81%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Python/JupyterNotebook/%E6%9B%B4%E6%94%B9%E9%BB%98%E8%AE%A4%E7%9B%AE%E5%BD%95%E3%80%81%E6%B5%8F%E8%A7%88%E5%99%A8/</id>
+    <published>2021-02-04T03:20:50.194Z</published>
+    <updated>2021-02-04T07:23:51.277Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python Quiz答案&lt;/p&gt;
+&lt;p&gt;每次装jupyter notebook都会更改默认目录和默认浏览器，这里码一下步骤~&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    <category term="Python" scheme="https://ycchen00.github.io/categories/Python/"/>
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
+    <category term="Jupyter Notebook" scheme="https://ycchen00.github.io/categories/Python/Jupyter-Notebook/"/>
     
-    <category term="Intro2DS" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/Intro2DS/"/>
+    
+    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
+    
+    <category term="Jupyter Notebook" scheme="https://ycchen00.github.io/tags/Jupyter-Notebook/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tip | iPhone照片按相册导入电脑</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Tip/iPhone%E5%AF%BC%E5%85%A5/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Tip/iPhone%E5%AF%BC%E5%85%A5/</id>
+    <published>2021-02-04T03:20:42.709Z</published>
+    <updated>2021-02-04T08:50:20.147Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;iPhone照片按相册导入电脑&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
+    
+    
+    <category term="iPhone" scheme="https://ycchen00.github.io/tags/iPhone/"/>
+    
+    <category term="Photography" scheme="https://ycchen00.github.io/tags/Photography/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tip | 佳能(EOS 750D) USB无法连接电脑</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/</id>
+    <published>2021-02-04T03:20:30.827Z</published>
+    <updated>2021-02-04T05:40:58.419Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;终于解决了！巨坑！&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
+    
+    
+    <category term="Photography" scheme="https://ycchen00.github.io/tags/Photography/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coursera | Introduction to Data Analytics (IBM) | Quiz</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Coursera/Intro2DA/Quiz/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Coursera/Intro2DA/Quiz/</id>
+    <published>2021-02-04T03:20:19.971Z</published>
+    <updated>2021-02-04T07:04:04.743Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;IBM下Introduction to Data Analytics的Quiz答案，课程挺好~&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Coursera" scheme="https://ycchen00.github.io/categories/Coursera/"/>
+    
+    <category term="DataScience" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/"/>
+    
+    <category term="Intro2DA" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/Intro2DA/"/>
     
     
     <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
     
     <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
     
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
+    <category term="Data analytics" scheme="https://ycchen00.github.io/tags/Data-analytics/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment1</title>
-    <link href="https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment1/"/>
-    <id>https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment1/</id>
-    <published>2020-11-09T12:13:21.856Z</published>
-    <updated>2020-11-10T02:49:32.442Z</updated>
+    <title>Coursera | Introduction to Data Analytics (IBM) | Final Assignment</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Coursera/Intro2DA/Assignment/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Coursera/Intro2DA/Assignment/</id>
+    <published>2021-02-04T03:20:06.810Z</published>
+    <updated>2021-02-04T07:04:04.735Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python Assignment1代码&lt;/p&gt;
+&lt;p&gt;IBM下Introduction to Data Analytics的Final Assignment答案~&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    <category term="Coursera" scheme="https://ycchen00.github.io/categories/Coursera/"/>
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
+    <category term="DataScience" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/"/>
     
-    <category term="Intro2DS" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/Intro2DS/"/>
+    <category term="Intro2DA" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/Intro2DA/"/>
     
     
     <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
     
     <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
     
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
+    <category term="Data analytics" scheme="https://ycchen00.github.io/tags/Data-analytics/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment2</title>
-    <link href="https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment2/"/>
-    <id>https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment2/</id>
-    <published>2020-11-09T12:13:14.863Z</published>
-    <updated>2020-11-10T02:49:32.438Z</updated>
+    <title>Coursera | Introduction to Data Analysis Using Excel (Rice University) | Quiz</title>
+    <link href="https://ycchen00.github.io/2021/02/04/Coursera/DAuE-Quiz/"/>
+    <id>https://ycchen00.github.io/2021/02/04/Coursera/DAuE-Quiz/</id>
+    <published>2021-02-04T03:19:55.226Z</published>
+    <updated>2021-02-04T09:02:15.970Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python Assignment2代码&lt;/p&gt;
+&lt;p&gt;Coursera平台Introduction to Data Analysis Using Excel，Excel复习/入门课程。&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
+    <category term="Coursera" scheme="https://ycchen00.github.io/categories/Coursera/"/>
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
-    
-    <category term="Intro2DS" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/Intro2DS/"/>
+    <category term="DataScience" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/"/>
     
     
     <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
     
     <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
     
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment3</title>
-    <link href="https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment3/"/>
-    <id>https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment3/</id>
-    <published>2020-11-09T12:13:09.721Z</published>
-    <updated>2020-11-10T02:49:32.432Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python Assignment3代码&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
-    
-    <category term="Intro2DS" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/Intro2DS/"/>
-    
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment4</title>
-    <link href="https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment4/"/>
-    <id>https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment4/</id>
-    <published>2020-11-09T12:13:03.918Z</published>
-    <updated>2020-11-10T02:49:32.420Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python Assignment4代码&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
-    
-    <category term="Intro2DS" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/Intro2DS/"/>
-    
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz和Assignment1-4答案</title>
-    <link href="https://ycchen00.github.io/2020/11/09/Intro2DS/Quiz+Assignment1-4/"/>
-    <id>https://ycchen00.github.io/2020/11/09/Intro2DS/Quiz+Assignment1-4/</id>
-    <published>2020-11-09T12:12:56.759Z</published>
-    <updated>2020-11-10T02:49:32.451Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera密歇根大学的 Applied Data Science with Python 专项课程第一门课程Introduction to Data Science in Python quiz答案和assignment链接目录&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/DataScience/"/>
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/"/>
-    
-    <category term="Intro2DS" scheme="https://ycchen00.github.io/categories/DataScience/Coursera/Intro2DS/"/>
-    
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Pandas" scheme="https://ycchen00.github.io/tags/Pandas/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>调酒记录</title>
-    <link href="https://ycchen00.github.io/2020/11/05/%E8%B0%83%E9%85%92%E8%AE%B0%E5%BD%95/"/>
-    <id>https://ycchen00.github.io/2020/11/05/%E8%B0%83%E9%85%92%E8%AE%B0%E5%BD%95/</id>
-    <published>2020-11-05T14:17:45.000Z</published>
-    <updated>2020-12-10T02:20:51.731Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;记个学调酒曲折路线&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="生活" scheme="https://ycchen00.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    <category term="调酒" scheme="https://ycchen00.github.io/categories/%E7%94%9F%E6%B4%BB/%E8%B0%83%E9%85%92/"/>
-    
-    
-    <category term="调酒" scheme="https://ycchen00.github.io/tags/%E8%B0%83%E9%85%92/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GEE(Google Earth Engine)目录</title>
-    <link href="https://ycchen00.github.io/2020/10/28/GEE/GEE%E7%9B%AE%E5%BD%95/"/>
-    <id>https://ycchen00.github.io/2020/10/28/GEE/GEE%E7%9B%AE%E5%BD%95/</id>
-    <published>2020-10-28T14:05:21.567Z</published>
-    <updated>2020-11-12T06:14:36.796Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;GEE系列目录&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="GEE" scheme="https://ycchen00.github.io/categories/GEE/"/>
-    
-    
-    <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>
-    
-    <category term="Remote sensing" scheme="https://ycchen00.github.io/tags/Remote-sensing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>电影记录</title>
-    <link href="https://ycchen00.github.io/2020/10/28/Moive/"/>
-    <id>https://ycchen00.github.io/2020/10/28/Moive/</id>
-    <published>2020-10-28T13:53:04.000Z</published>
-    <updated>2020-11-09T05:24:14.618Z</updated>
-    
-    
-    <summary type="html">记录看过的电影，评分，评论等。(暂时加密)</summary>
-    
-    
-    
-    <category term="书影音" scheme="https://ycchen00.github.io/categories/%E4%B9%A6%E5%BD%B1%E9%9F%B3/"/>
-    
-    <category term="电影" scheme="https://ycchen00.github.io/categories/%E4%B9%A6%E5%BD%B1%E9%9F%B3/%E7%94%B5%E5%BD%B1/"/>
-    
-    <category term="已看" scheme="https://ycchen00.github.io/categories/%E4%B9%A6%E5%BD%B1%E9%9F%B3/%E7%94%B5%E5%BD%B1/%E5%B7%B2%E7%9C%8B/"/>
-    
-    
-    <category term="电影" scheme="https://ycchen00.github.io/tags/%E7%94%B5%E5%BD%B1/"/>
-    
-    <category term="影评" scheme="https://ycchen00.github.io/tags/%E5%BD%B1%E8%AF%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GEE实战 | 窗口拆分(split panel)可视化</title>
-    <link href="https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
-    <id>https://ycchen00.github.io/2020/10/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/</id>
-    <published>2020-10-27T08:49:22.771Z</published>
-    <updated>2020-11-10T02:29:22.843Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;GEE实践系列，介绍如何在GEE上窗口拆分(split panel)可视化图片。&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="GEE" scheme="https://ycchen00.github.io/categories/GEE/"/>
-    
-    <category term="GEE实战" scheme="https://ycchen00.github.io/categories/GEE/GEE%E5%AE%9E%E6%88%98/"/>
-    
-    
-    <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>
-    
-    <category term="Remote sensing" scheme="https://ycchen00.github.io/tags/Remote-sensing/"/>
+    <category term="Excel" scheme="https://ycchen00.github.io/tags/Excel/"/>
     
   </entry>
   

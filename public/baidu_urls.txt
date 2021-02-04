@@ -1,5 +1,5 @@
-https://ycchen00.github.io/2020/12/12/AppliedML/Assignment4/
-https://ycchen00.github.io/2020/12/12/AppliedML/Quiz/
-https://ycchen00.github.io/2020/12/12/AppliedML/Assignment1/
-https://ycchen00.github.io/2020/12/12/AppliedML/Assignment3/
-https://ycchen00.github.io/2020/12/12/AppliedML/Assignment2/
+https://ycchen00.github.io/2021/02/04/Tip/PayPal%E4%BB%98%E6%AC%BE/
+https://ycchen00.github.io/2021/02/04/Debug/%E2%80%98image_dim_ordering%E2%80%98/
+https://ycchen00.github.io/2021/02/04/Coursera/P2Web-Quiz/
+https://ycchen00.github.io/2021/02/04/Python/pip%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86%20&%20%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F/
+https://ycchen00.github.io/2021/02/04/Tip/cmder%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/
