@@ -19,6 +19,7 @@
 	
 	202011?? ：多级目录/https://guanqr.com/tech/website/hexo-theme-next-customization/#
 	
+	20210204 ：修改busuanzi无法统计人数的问题(放弃统计:))
 	20210204 ：CSDN大量转移至Hexo！
 	20201109 ：在线编辑Netylify 成功一半 可以在线编辑，但是与Netylify无关
 	20201109 ：加入评论板块&热度-次数

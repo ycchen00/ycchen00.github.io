@@ -16,12 +16,11 @@
 <!--less-->
 
 &emsp;&emsp; 所有quiz和assignment链接：
-&emsp;&emsp;[Coursera | Applied Machine Learning in Python（University of Michigan）| Quiz](https://ycchen00.github.io/2020/12/12/AppliedML/Quiz/)
-&emsp;&emsp;[Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment1](https://ycchen00.github.io/2020/12/12/AppliedML/Assignment1/)
-&emsp;&emsp;[Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment2](https://ycchen00.github.io/2020/12/12/AppliedML/Assignment2/)
-&emsp;&emsp;[Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment3](https://ycchen00.github.io/2020/12/12/AppliedML/Assignment3/)
-&emsp;&emsp;[Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment4](https://ycchen00.github.io/2020/12/12/AppliedML/Assignment4/)
-&emsp;&emsp; 有时间（需求）就把所有代码放到github上
+&emsp;&emsp;[Coursera | Applied Machine Learning in Python（University of Michigan）| Quiz](https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Quiz/)
+&emsp;&emsp;[Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment1](https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment1/)
+&emsp;&emsp;[Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment2](https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment2/)
+&emsp;&emsp;[Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment3](https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment3/)
+&emsp;&emsp;[Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment4](https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment4/)
 <br>
 
 

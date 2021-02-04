@@ -17,12 +17,12 @@
 &emsp;&emsp; u1s1，这门课的assignment还是有点难度的，特别是assigment4（哀怨），放给大家参考啦~
 &emsp;&emsp; 有时间（需求）就把所有代码放到github上（好担心被河蟹啊）
 &emsp;&emsp; 相关链接：
-&emsp;&emsp; [Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz答案](https://ycchen00.github.io/2020/11/09/Intro2DS/Quiz/)
-&emsp;&emsp; [Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment1](https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment1/)
-&emsp;&emsp; [Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment2](https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment2/)
-&emsp;&emsp; [Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment3](https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment3/)
+&emsp;&emsp; [Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz](https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Quiz/)
+&emsp;&emsp; [Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment1](https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Assignment1/)
+&emsp;&emsp; [Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment2](https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Assignment2/)
+&emsp;&emsp; [Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment3](https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Assignment3/)
 &emsp;&emsp; [Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment4](
-https://ycchen00.github.io/2020/11/09/Intro2DS/Assignment4/)
+https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Assignment4/)
 &emsp;&emsp; CSDN链接：
 &emsp;&emsp; [Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz答案](https://blog.csdn.net/weixin_43360896/article/details/109544058)
 &emsp;&emsp; [Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment1](https://blog.csdn.net/weixin_43360896/article/details/109583609)

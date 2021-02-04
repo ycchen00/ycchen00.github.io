@@ -85,6 +85,8 @@ footer:
     gongan_num:
     # The icon for gongan beian. See: http://www.beian.gov.cn/portal/download
     gongan_icon_url:
+    
+  counter: true
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/share-your-work/licensing-types-examples
@@ -124,6 +126,7 @@ darkmode: false
 menu:
   home: / || fa fa-home
   archives: /archives/ || fa fa-archive
+  #hot: /hot/ || fa fa-thermometer-half
   categories: /categories/ || fa fa-th
   tags: /tags/ || fa fa-tags
   about: /about/ || fa fa-user
@@ -699,11 +702,11 @@ cnzz_siteid:
 # AppID and AppKey are recommended to be the same as valine's for counter compatibility.
 # Do not enable both `valine.visitor` and `leancloud_visitors`.
 leancloud_visitors:
-  enable: true
-  app_id: # <your app id>
-  app_key: # <your app key>
+  enable: false
+  app_id: IIxoA3ee1ciYV5xd5SgDvW6L-gzGzoHsz
+  app_key: qAn9F29OLCHlKc9xCSCxInWT
   # Required for apps from CN region
-  server_url: # <your server url>
+  server_url: https://leancloud.cn
   # Dependencies: https://github.com/theme-next/hexo-leancloud-counter-security
   # If you don't care about security in leancloud counter and just want to use it directly
   # (without hexo-leancloud-counter-security plugin), set `security` to `false`.

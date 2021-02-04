@@ -16,11 +16,11 @@
 <!--less-->
 
 &emsp;&emsp; 所有assignment相关链接：
-&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment1](https://ycchen00.github.io/2020/12/11/AppliedV/Assignment1/)
-&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment2](https://ycchen00.github.io/2020/12/11/AppliedV/Assignment2/)
-&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment3](https://ycchen00.github.io/2020/12/11/AppliedV/Assignment3/)
-&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Week3 Practice Assignment ](https://ycchen00.github.io/2020/12/11/AppliedV/W3_Practice_Assignment/)
-&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment4](https://ycchen00.github.io/2020/12/11/AppliedV/Assignment4/)
+&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment1](https://ycchen00.github.io/2020/12/11/Coursera/AppliedV/Assignment1/)
+&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment2](https://ycchen00.github.io/2020/12/11/Coursera/AppliedV/Assignment2/)
+&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment3](https://ycchen00.github.io/2020/12/11/Coursera/AppliedV/Assignment3/)
+&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Week3 Practice Assignment ](https://ycchen00.github.io/2020/12/11/Coursera/AppliedV/W3_Practice_Assignment/)
+&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment4](https://ycchen00.github.io/2020/12/11/Coursera/AppliedV/Assignment4/)
 &emsp;&emsp;  有时间（需求）就把所有代码放到github上
 
 # Practice Assignment: Understanding Distributions Through Sampling

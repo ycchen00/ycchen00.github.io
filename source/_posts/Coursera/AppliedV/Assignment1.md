@@ -21,11 +21,11 @@
 
 &emsp;&emsp; 这个课程与第一门[Coursera | Introduction to Data Science in Python（University of Michigan）](https://blog.csdn.net/weixin_43360896/article/details/109585131)不一样在于，每周没了quiz，四周课程的assignment都是peer review,你的成绩由他人审阅出来，你也要去审阅他人作业一定次数，真会玩。上完课后感觉质量还是很高的，继承第一门课程的舒适体验，通过看到他人的作业对于提升自己也很有帮助。
 &emsp;&emsp; 所有assignment相关链接：
-&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment1](https://ycchen00.github.io/2020/12/11/AppliedV/Assignment1/)
-&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment2](https://ycchen00.github.io/2020/12/11/AppliedV/Assignment2/)
-&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment3](https://ycchen00.github.io/2020/12/11/AppliedV/Assignment3/)
-&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Week3 Practice Assignment ](https://ycchen00.github.io/2020/12/11/AppliedV/W3_Practice_Assignment/)
-&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment4](https://ycchen00.github.io/2020/12/11/AppliedV/Assignment4/)
+&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment1](https://ycchen00.github.io/2020/12/11/Coursera/AppliedV/Assignment1/)
+&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment2](https://ycchen00.github.io/2020/12/11/Coursera/AppliedV/Assignment2/)
+&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment3](https://ycchen00.github.io/2020/12/11/Coursera/AppliedV/Assignment3/)
+&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Week3 Practice Assignment ](https://ycchen00.github.io/2020/12/11/Coursera/AppliedV/W3_Practice_Assignment/)
+&emsp;&emsp;[Coursera | Applied Plotting, Charting & Data Representation in Python（University of Michigan）| Assignment4](https://ycchen00.github.io/2020/12/11/Coursera/AppliedV/Assignment4/)
 &emsp;&emsp;  有时间（需求）就把所有代码放到github上
 
 

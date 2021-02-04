@@ -103,9 +103,10 @@ theme: next-reloaded
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@github.com:ycchen00/ycchen00.github.io.git #https://ycchen00:yuchiTOMMY1234@github.com/ycchen00/ycchen00.github.io.git
-  branch: master
+  - type: git
+    repo: git@github.com:ycchen00/ycchen00.github.io.git #https://ycchen00:yuchiTOMMY1234@github.com/ycchen00/ycchen00.github.io.git
+    branch: master
+  # - type: leancloud_counter_security_sync
 
 
 feed:
@@ -205,3 +206,10 @@ douban:
     quote: '......'
   timeout: 10000
   
+leancloud_counter_security:
+  enable_sync: false
+  app_id: IIxoA3ee1ciYV5xd5SgDvW6L-gzGzoHsz
+  app_key: qAn9F29OLCHlKc9xCSCxInWT
+  server_url: https://leancloud.cn
+  username: ycchen00
+  password: yuchiTOMMY1234

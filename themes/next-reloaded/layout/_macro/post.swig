@@ -96,15 +96,27 @@
             </span>
           {%- endif %}
 
-          {# LeanCloud PageView #}
-          {%- if theme.leancloud_visitors.enable or (theme.valine.enable and theme.valine.appid and theme.valine.appkey and theme.valine.visitor) %}
+		{# Busuanzi PageView #}
+          {%- if theme.busuanzi_count.enable and theme.busuanzi_count.post_views %}
+            <span class="post-meta-item" title="{{ __('post.views') }}" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="{{ theme.busuanzi_count.post_views_icon }}"></i>
+              </span>
+              <span class="post-meta-item-text">{{ __('post.views') + __('symbol.colon') }}</span>
+              <span id="busuanzi_value_page_pv"></span>
+			  <span>℃</span>
+            </span>
+          {%- endif %}
+
+         {# LeanCloud PageView #}
+          {%- if false %}
             <span id="{{ url_for(post.path) }}" class="post-meta-item leancloud_visitors" data-flag-title="{{ post.title }}" title="{{ __('post.views') }}">
               <span class="post-meta-item-icon">
                 <i class="fa fa-eye"></i>
               </span>
               <span class="post-meta-item-text">{{ __('post.views') + __('symbol.colon') }}</span>
               <span class="leancloud-visitors-count"></span>
-			  <span>℃</span>
+			  <span>test</span>
             </span>
           {%- endif %}
 
@@ -118,15 +130,7 @@
             </span>
           {%- endif %}
 
-          {%- if not is_index and theme.busuanzi_count.enable and theme.busuanzi_count.post_views %}
-            <span class="post-meta-item" title="{{ __('post.views') }}" id="busuanzi_container_page_pv" style="display: none;">
-              <span class="post-meta-item-icon">
-                <i class="{{ theme.busuanzi_count.post_views_icon }}"></i>
-              </span>
-              <span class="post-meta-item-text">{{ __('post.views') + __('symbol.colon') }}</span>
-              <span id="busuanzi_value_page_pv"></span>
-            </span>
-          {%- endif %}
+          
 
           {{- next_inject('postMeta') }}
 
