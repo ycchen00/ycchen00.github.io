@@ -10,10 +10,10 @@ tags:
 - 英语
 - GRE
 password: GREcyc
-abstract: >叨下GRE备考策略(暂时空的)
+abstract: 叨下GRE备考策略(暂时空的)
 top: 
 ---
->叨下GRE备考策略(暂时空的)
+叨下GRE备考策略(暂时空的)
 
 <!--less-->
 

@@ -208,8 +208,8 @@ douban:
   
 leancloud_counter_security:
   enable_sync: false
-  app_id: IIxoA3ee1ciYV5xd5SgDvW6L-gzGzoHsz
-  app_key: qAn9F29OLCHlKc9xCSCxInWT
-  server_url: https://leancloud.cn
+  app_id: Q6HNGTtOPGta1RiawrPGfDug-MdYXbMMI
+  app_key: T9ijybUJinTN0Ndp7CysyFMl
+  # server_url: https://ycchen00.github.io
   username: ycchen00
   password: yuchiTOMMY1234
