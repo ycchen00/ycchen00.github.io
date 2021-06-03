@@ -103,7 +103,7 @@ theme: next-reloaded
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  - type: git
+    type: git
     repo: git@github.com:ycchen00/ycchen00.github.io.git #https://ycchen00:yuchiTOMMY1234@github.com/ycchen00/ycchen00.github.io.git
     branch: master
   # - type: leancloud_counter_security_sync

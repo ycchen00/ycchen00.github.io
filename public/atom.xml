@@ -6,7 +6,7 @@
   <link href="https://ycchen00.github.io/atom.xml" rel="self"/>
   
   <link href="https://ycchen00.github.io/"/>
-  <updated>2021-02-04T08:40:20.936Z</updated>
+  <updated>2021-06-03T15:24:51.600Z</updated>
   <id>https://ycchen00.github.io/</id>
   
   <author>
@@ -17,15 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>PayPal大陆付款问题</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Tip/PayPal%E4%BB%98%E6%AC%BE/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Tip/PayPal%E4%BB%98%E6%AC%BE/</id>
-    <published>2021-02-04T05:13:40.368Z</published>
-    <updated>2021-02-04T08:40:20.936Z</updated>
+    <title>湖北三人游</title>
+    <link href="https://ycchen00.github.io/2021/05/12/Travel/Hubei/"/>
+    <id>https://ycchen00.github.io/2021/05/12/Travel/Hubei/</id>
+    <published>2021-05-12T14:01:05.647Z</published>
+    <updated>2021-06-03T15:24:51.600Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;PayPal账号的国家/地区信息与付款资料中的国家/地区信息不符。请使用其他付款方式。&lt;/p&gt;
+&lt;p&gt;记21年5月湖北5日三人游~&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Life" scheme="https://ycchen00.github.io/categories/Life/"/>
+    
+    <category term="Travel" scheme="https://ycchen00.github.io/categories/Life/Travel/"/>
+    
+    <category term="湖北" scheme="https://ycchen00.github.io/categories/Life/Travel/%E6%B9%96%E5%8C%97/"/>
+    
+    
+    <category term="Travel" scheme="https://ycchen00.github.io/tags/Travel/"/>
+    
+    <category term="湖北" scheme="https://ycchen00.github.io/tags/%E6%B9%96%E5%8C%97/"/>
+    
+    <category term="恩施" scheme="https://ycchen00.github.io/tags/%E6%81%A9%E6%96%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tip | 管理员权限打开CMD 快捷键</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Tip/%E7%AE%A1%E7%90%86%E5%91%98CMD_%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Tip/%E7%AE%A1%E7%90%86%E5%91%98CMD_%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+    <published>2021-03-27T14:43:28.904Z</published>
+    <updated>2021-03-27T14:43:28.904Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Ctrl + Shift + Enter&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
@@ -33,93 +61,22 @@
     <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
     
     
-    <category term="PayPal" scheme="https://ycchen00.github.io/tags/PayPal/"/>
+    <category term="shortcuts" scheme="https://ycchen00.github.io/tags/shortcuts/"/>
+    
+    <category term="cmd" scheme="https://ycchen00.github.io/tags/cmd/"/>
     
   </entry>
   
   <entry>
-    <title>Debug | AttributeError： module ‘keras.backend‘ has no attribute ‘image_dim_ordering</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Debug/%E2%80%98image_dim_ordering%E2%80%98/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Debug/%E2%80%98image_dim_ordering%E2%80%98/</id>
-    <published>2021-02-04T03:26:06.839Z</published>
-    <updated>2021-02-04T07:44:22.365Z</updated>
+    <title>Tip | 佳能(EOS 750D) USB无法连接电脑</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/</id>
+    <published>2021-03-27T14:43:28.904Z</published>
+    <updated>2021-03-27T14:43:28.904Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;AttributeError: module ‘keras.backend’ has no attribute ‘image_dim_ordering’&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Debug" scheme="https://ycchen00.github.io/categories/Debug/"/>
-    
-    
-    <category term="Debug" scheme="https://ycchen00.github.io/tags/Debug/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Coursera | Using Python to Access Web Data (University of Michigan) | Quiz</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Coursera/P2Web-Quiz/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Coursera/P2Web-Quiz/</id>
-    <published>2021-02-04T03:23:26.702Z</published>
-    <updated>2021-02-04T06:40:26.845Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;经典密歇根python课程Python for Everybody Specialization的第三门。缘由是之前学的爬虫有点忘了，打算复习下。&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/Coursera/"/>
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/"/>
-    
-    
-    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="crawler" scheme="https://ycchen00.github.io/tags/crawler/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Python | pip设置代理 &amp; 更换镜像</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Python/pip%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86%20&amp;%20%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Python/pip%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86%20&amp;%20%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F/</id>
-    <published>2021-02-04T03:23:17.061Z</published>
-    <updated>2021-02-04T07:15:03.080Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;pip设置代理或者更换国内镜像源&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Python" scheme="https://ycchen00.github.io/categories/Python/"/>
-    
-    
-    <category term="pip" scheme="https://ycchen00.github.io/tags/pip/"/>
-    
-    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tip | cmder安装与常用配置</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Tip/cmder%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Tip/cmder%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/</id>
-    <published>2021-02-04T03:23:09.253Z</published>
-    <updated>2021-02-04T08:42:43.590Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;cmder安装与常用配置，cmd和Powershell替代&lt;/p&gt;
+&lt;p&gt;终于解决了！巨坑！&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
@@ -127,16 +84,43 @@
     <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
     
     
-    <category term="cmder" scheme="https://ycchen00.github.io/tags/cmder/"/>
+    <category term="Photography" scheme="https://ycchen00.github.io/tags/Photography/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>云南旅游</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Travel/Yunnan/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Travel/Yunnan/</id>
+    <published>2021-03-27T14:43:28.904Z</published>
+    <updated>2021-03-27T14:43:28.904Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;记21年初云南5日游~&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Life" scheme="https://ycchen00.github.io/categories/Life/"/>
+    
+    <category term="Travel" scheme="https://ycchen00.github.io/categories/Life/Travel/"/>
+    
+    <category term="云南" scheme="https://ycchen00.github.io/categories/Life/Travel/%E4%BA%91%E5%8D%97/"/>
+    
+    
+    <category term="Travel" scheme="https://ycchen00.github.io/tags/Travel/"/>
+    
+    <category term="云南" scheme="https://ycchen00.github.io/tags/%E4%BA%91%E5%8D%97/"/>
     
   </entry>
   
   <entry>
     <title>Tip | Git复制粘贴 快捷键</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Tip/Git%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4_%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Tip/Git%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4_%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
-    <published>2021-02-04T03:22:58.895Z</published>
-    <updated>2021-02-04T05:40:58.400Z</updated>
+    <link href="https://ycchen00.github.io/2021/03/27/Tip/Git%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4_%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Tip/Git%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4_%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+    <published>2021-03-27T14:43:28.899Z</published>
+    <updated>2021-03-27T14:43:28.899Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -155,102 +139,170 @@
   </entry>
   
   <entry>
-    <title>SQL | SQL+Python API相关入门教程</title>
-    <link href="https://ycchen00.github.io/2021/02/04/DSci/SQL/SQL+Python%20API%E7%9B%B8%E5%85%B3%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B(SQL4DS%E7%AC%94%E8%AE%B0)/"/>
-    <id>https://ycchen00.github.io/2021/02/04/DSci/SQL/SQL+Python%20API%E7%9B%B8%E5%85%B3%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B(SQL4DS%E7%AC%94%E8%AE%B0)/</id>
-    <published>2021-02-04T03:22:48.421Z</published>
-    <updated>2021-02-04T09:04:56.757Z</updated>
+    <title>PayPal大陆付款问题</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Tip/PayPal%E4%BB%98%E6%AC%BE/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Tip/PayPal%E4%BB%98%E6%AC%BE/</id>
+    <published>2021-03-27T14:43:28.899Z</published>
+    <updated>2021-03-27T14:43:28.899Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;介绍了SQL基本用法以及相关Python API的用法，同SQL4DS笔记~&lt;/p&gt;
+&lt;p&gt;PayPal账号的国家/地区信息与付款资料中的国家/地区信息不符。请使用其他付款方式。&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="DSci" scheme="https://ycchen00.github.io/categories/DSci/"/>
-    
-    <category term="SQL" scheme="https://ycchen00.github.io/categories/DSci/SQL/"/>
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
     
     
-    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Visualization" scheme="https://ycchen00.github.io/tags/Visualization/"/>
-    
-    <category term="SQL" scheme="https://ycchen00.github.io/tags/SQL/"/>
+    <category term="PayPal" scheme="https://ycchen00.github.io/tags/PayPal/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Databases and SQL for Data Science (IBM) | Assignment</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Coursera/SQL4DS/Assignment/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Coursera/SQL4DS/Assignment/</id>
-    <published>2021-02-04T03:22:38.429Z</published>
-    <updated>2021-02-04T09:05:40.976Z</updated>
+    <title>Tip | cmder安装与常用配置</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Tip/cmder%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Tip/cmder%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/</id>
+    <published>2021-03-27T14:43:28.899Z</published>
+    <updated>2021-03-27T14:43:28.899Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;IBM下Databases and SQL for Data Science的Assignments答案~&lt;/p&gt;
+&lt;p&gt;cmder安装与常用配置，cmd和Powershell替代&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/Coursera/"/>
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/"/>
-    
-    <category term="SQL4DS" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/SQL4DS/"/>
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
     
     
-    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
-    
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="SQL" scheme="https://ycchen00.github.io/tags/SQL/"/>
+    <category term="cmder" scheme="https://ycchen00.github.io/tags/cmder/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Databases and SQL for Data Science (IBM) | Quiz</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Coursera/SQL4DS/Quiz/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Coursera/SQL4DS/Quiz/</id>
-    <published>2021-02-04T03:21:57.970Z</published>
-    <updated>2021-02-04T09:05:36.722Z</updated>
+    <title>Tip | iPhone照片按相册导入电脑</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Tip/iPhone%E5%AF%BC%E5%85%A5/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Tip/iPhone%E5%AF%BC%E5%85%A5/</id>
+    <published>2021-03-27T14:43:28.899Z</published>
+    <updated>2021-03-27T14:43:28.899Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;IBM下Databases and SQL for Data Science的Quiz答案~&lt;/p&gt;
+&lt;p&gt;iPhone照片按相册导入电脑&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/Coursera/"/>
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/"/>
     
-    <category term="SQL4DS" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/SQL4DS/"/>
+    <category term="iPhone" scheme="https://ycchen00.github.io/tags/iPhone/"/>
+    
+    <category term="Photography" scheme="https://ycchen00.github.io/tags/Photography/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows | 蓝牙忽然消失</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Tip/Windows/Windows%20%E8%93%9D%E7%89%99%E6%B6%88%E5%A4%B1/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Tip/Windows/Windows%20%E8%93%9D%E7%89%99%E6%B6%88%E5%A4%B1/</id>
+    <published>2021-03-27T14:43:28.899Z</published>
+    <updated>2021-03-28T11:38:03.923Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Windows总是没事跳出个问题刷存在感 :(&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
+    
+    <category term="Windows" scheme="https://ycchen00.github.io/categories/Tip/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://ycchen00.github.io/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python | pip设置代理 &amp; 更换镜像</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Python/pip%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86%20&amp;%20%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Python/pip%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86%20&amp;%20%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F/</id>
+    <published>2021-03-27T14:43:28.894Z</published>
+    <updated>2021-03-27T14:43:28.894Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;pip设置代理或者更换国内镜像源&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Python" scheme="https://ycchen00.github.io/categories/Python/"/>
     
     
     <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
+    <category term="pip" scheme="https://ycchen00.github.io/tags/pip/"/>
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
+  </entry>
+  
+  <entry>
+    <title>Python | 读取 json 文件</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Python/%E8%AF%BB%E5%8F%96%20json%20%E6%96%87%E4%BB%B6/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Python/%E8%AF%BB%E5%8F%96%20json%20%E6%96%87%E4%BB%B6/</id>
+    <published>2021-03-27T14:43:28.894Z</published>
+    <updated>2021-03-27T14:43:28.899Z</updated>
     
-    <category term="SQL" scheme="https://ycchen00.github.io/tags/SQL/"/>
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;介绍下json文件以及python读取方法~&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Python" scheme="https://ycchen00.github.io/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
+    
+    <category term="json" scheme="https://ycchen00.github.io/tags/json/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jupyter Notebook | Magic-Timing运行时间</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Python/JupyterNotebook/Jupyter%20Magic%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Python/JupyterNotebook/Jupyter%20Magic%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4/</id>
+    <published>2021-03-27T14:43:28.894Z</published>
+    <updated>2021-03-27T14:43:28.894Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Jupyter Notebook系列，关于如何使用magic去记录运行时间~&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Python" scheme="https://ycchen00.github.io/categories/Python/"/>
+    
+    <category term="Jupyter Notebook" scheme="https://ycchen00.github.io/categories/Python/Jupyter-Notebook/"/>
+    
+    
+    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
+    
+    <category term="Jupyter Notebook" scheme="https://ycchen00.github.io/tags/Jupyter-Notebook/"/>
     
   </entry>
   
   <entry>
     <title>Jupyter Notebook | Markdown隐藏内容</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Python/JupyterNotebook/Markdown%E9%9A%90%E8%97%8F%E5%86%85%E5%AE%B9/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Python/JupyterNotebook/Markdown%E9%9A%90%E8%97%8F%E5%86%85%E5%AE%B9/</id>
-    <published>2021-02-04T03:21:49.302Z</published>
-    <updated>2021-02-04T07:25:56.330Z</updated>
+    <link href="https://ycchen00.github.io/2021/03/27/Python/JupyterNotebook/Markdown%E9%9A%90%E8%97%8F%E5%86%85%E5%AE%B9/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Python/JupyterNotebook/Markdown%E9%9A%90%E8%97%8F%E5%86%85%E5%AE%B9/</id>
+    <published>2021-03-27T14:43:28.894Z</published>
+    <updated>2021-03-27T14:43:28.894Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -273,86 +325,11 @@
   </entry>
   
   <entry>
-    <title>Folium | Tutorials</title>
-    <link href="https://ycchen00.github.io/2021/02/04/DSci/Visualization/Folium%E6%95%99%E7%A8%8B(DVwP%E7%AC%94%E8%AE%B0)/"/>
-    <id>https://ycchen00.github.io/2021/02/04/DSci/Visualization/Folium%E6%95%99%E7%A8%8B(DVwP%E7%AC%94%E8%AE%B0)/</id>
-    <published>2021-02-04T03:21:38.850Z</published>
-    <updated>2021-02-04T08:35:40.135Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Folium基础教程，同DVwP笔记~&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="DSci" scheme="https://ycchen00.github.io/categories/DSci/"/>
-    
-    <category term="Visualization" scheme="https://ycchen00.github.io/categories/DSci/Visualization/"/>
-    
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Visualization" scheme="https://ycchen00.github.io/tags/Visualization/"/>
-    
-    <category term="Folium" scheme="https://ycchen00.github.io/tags/Folium/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tip | windows蓝牙忽然消失</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Tip/windows%E8%93%9D%E7%89%99%E6%B6%88%E5%A4%B1/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Tip/windows%E8%93%9D%E7%89%99%E6%B6%88%E5%A4%B1/</id>
-    <published>2021-02-04T03:21:30.779Z</published>
-    <updated>2021-02-04T08:45:04.557Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Windows总是没事跳出个问题刷存在感 :(&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
-    
-    
-    <category term="Windows" scheme="https://ycchen00.github.io/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Matplotlib | 架构概述</title>
-    <link href="https://ycchen00.github.io/2021/02/04/DSci/Visualization/Matplotlib%E6%9E%B6%E6%9E%84%E6%A6%82%E8%BF%B0/"/>
-    <id>https://ycchen00.github.io/2021/02/04/DSci/Visualization/Matplotlib%E6%9E%B6%E6%9E%84%E6%A6%82%E8%BF%B0/</id>
-    <published>2021-02-04T03:21:20.383Z</published>
-    <updated>2021-02-04T08:23:31.590Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;这里记下关于Matplotlib体系结构的笔记，主要是上课内容加上自己找的资料，夹英夹中，大家可以当个参考。&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="DSci" scheme="https://ycchen00.github.io/categories/DSci/"/>
-    
-    <category term="Visualization" scheme="https://ycchen00.github.io/categories/DSci/Visualization/"/>
-    
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Visualization" scheme="https://ycchen00.github.io/tags/Visualization/"/>
-    
-    <category term="Matplotlib" scheme="https://ycchen00.github.io/tags/Matplotlib/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Jupyter Notebook | 扩展插件安装与推荐</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Python/JupyterNotebook/%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E6%8E%A8%E8%8D%90/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Python/JupyterNotebook/%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E6%8E%A8%E8%8D%90/</id>
-    <published>2021-02-04T03:21:02.319Z</published>
-    <updated>2021-02-04T07:23:51.289Z</updated>
+    <link href="https://ycchen00.github.io/2021/03/27/Python/JupyterNotebook/%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E6%8E%A8%E8%8D%90/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Python/JupyterNotebook/%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E6%8E%A8%E8%8D%90/</id>
+    <published>2021-03-27T14:43:28.894Z</published>
+    <updated>2021-03-27T14:43:28.894Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -374,10 +351,10 @@
   
   <entry>
     <title>Jupyter Notebook | 更改默认目录、浏览器</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Python/JupyterNotebook/%E6%9B%B4%E6%94%B9%E9%BB%98%E8%AE%A4%E7%9B%AE%E5%BD%95%E3%80%81%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Python/JupyterNotebook/%E6%9B%B4%E6%94%B9%E9%BB%98%E8%AE%A4%E7%9B%AE%E5%BD%95%E3%80%81%E6%B5%8F%E8%A7%88%E5%99%A8/</id>
-    <published>2021-02-04T03:20:50.194Z</published>
-    <updated>2021-02-04T07:23:51.277Z</updated>
+    <link href="https://ycchen00.github.io/2021/03/27/Python/JupyterNotebook/%E6%9B%B4%E6%94%B9%E9%BB%98%E8%AE%A4%E7%9B%AE%E5%BD%95%E3%80%81%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Python/JupyterNotebook/%E6%9B%B4%E6%94%B9%E9%BB%98%E8%AE%A4%E7%9B%AE%E5%BD%95%E3%80%81%E6%B5%8F%E8%A7%88%E5%99%A8/</id>
+    <published>2021-03-27T14:43:28.894Z</published>
+    <updated>2021-03-27T14:43:28.894Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -398,131 +375,125 @@
   </entry>
   
   <entry>
-    <title>Tip | iPhone照片按相册导入电脑</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Tip/iPhone%E5%AF%BC%E5%85%A5/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Tip/iPhone%E5%AF%BC%E5%85%A5/</id>
-    <published>2021-02-04T03:20:42.709Z</published>
-    <updated>2021-02-04T08:50:20.147Z</updated>
+    <title>GRE备考攻略</title>
+    <link href="https://ycchen00.github.io/2021/03/27/GRE%E5%A4%87%E8%80%83/"/>
+    <id>https://ycchen00.github.io/2021/03/27/GRE%E5%A4%87%E8%80%83/</id>
+    <published>2021-03-27T14:43:28.889Z</published>
+    <updated>2021-03-27T14:43:28.889Z</updated>
     
     
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;iPhone照片按相册导入电脑&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
-    
-    
-    <category term="iPhone" scheme="https://ycchen00.github.io/tags/iPhone/"/>
-    
-    <category term="Photography" scheme="https://ycchen00.github.io/tags/Photography/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tip | 佳能(EOS 750D) USB无法连接电脑</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/</id>
-    <published>2021-02-04T03:20:30.827Z</published>
-    <updated>2021-02-04T05:40:58.419Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;终于解决了！巨坑！&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
+    <summary type="html">叨下GRE备考策略(暂时空的)</summary>
     
     
     
-    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
+    <category term="出国考试" scheme="https://ycchen00.github.io/categories/%E5%87%BA%E5%9B%BD%E8%80%83%E8%AF%95/"/>
+    
+    <category term="GRE" scheme="https://ycchen00.github.io/categories/%E5%87%BA%E5%9B%BD%E8%80%83%E8%AF%95/GRE/"/>
     
     
-    <category term="Photography" scheme="https://ycchen00.github.io/tags/Photography/"/>
+    <category term="出国" scheme="https://ycchen00.github.io/tags/%E5%87%BA%E5%9B%BD/"/>
+    
+    <category term="英语" scheme="https://ycchen00.github.io/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+    <category term="GRE" scheme="https://ycchen00.github.io/tags/GRE/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Introduction to Data Analytics (IBM) | Quiz</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Coursera/Intro2DA/Quiz/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Coursera/Intro2DA/Quiz/</id>
-    <published>2021-02-04T03:20:19.971Z</published>
-    <updated>2021-02-04T07:04:04.743Z</updated>
+    <title>Google Clolab | GPU 资源限制</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Google/Colab%20GPU%E5%90%8E%E7%AB%AF/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Google/Colab%20GPU%E5%90%8E%E7%AB%AF/</id>
+    <published>2021-03-27T14:43:28.889Z</published>
+    <updated>2021-03-27T14:43:28.889Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;IBM下Introduction to Data Analytics的Quiz答案，课程挺好~&lt;/p&gt;
+&lt;p&gt;白嫖有限，小心使用~&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/Coursera/"/>
+    <category term="Google" scheme="https://ycchen00.github.io/categories/Google/"/>
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/"/>
-    
-    <category term="Intro2DA" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/Intro2DA/"/>
+    <category term="Google Colab" scheme="https://ycchen00.github.io/categories/Google/Google-Colab/"/>
     
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
+    <category term="Google" scheme="https://ycchen00.github.io/tags/Google/"/>
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
+    <category term="Colab" scheme="https://ycchen00.github.io/tags/Colab/"/>
     
-    <category term="Data analytics" scheme="https://ycchen00.github.io/tags/Data-analytics/"/>
+    <category term="GPU" scheme="https://ycchen00.github.io/tags/GPU/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Introduction to Data Analytics (IBM) | Final Assignment</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Coursera/Intro2DA/Assignment/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Coursera/Intro2DA/Assignment/</id>
-    <published>2021-02-04T03:20:06.810Z</published>
-    <updated>2021-02-04T07:04:04.735Z</updated>
+    <title>OneNote | 复制粘贴文本输出图片解决方案</title>
+    <link href="https://ycchen00.github.io/2021/03/27/OneNote/%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E6%96%87%E6%9C%AC%E8%BE%93%E5%87%BA%E5%9B%BE%E7%89%87%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    <id>https://ycchen00.github.io/2021/03/27/OneNote/%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E6%96%87%E6%9C%AC%E8%BE%93%E5%87%BA%E5%9B%BE%E7%89%87%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
+    <published>2021-03-27T14:43:28.889Z</published>
+    <updated>2021-03-27T14:43:28.889Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;IBM下Introduction to Data Analytics的Final Assignment答案~&lt;/p&gt;
+&lt;p&gt;论如何解决又爱又恨的OneNote复制文本粘贴为图片的问题 :)&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/Coursera/"/>
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/"/>
-    
-    <category term="Intro2DA" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/Intro2DA/"/>
+    <category term="OneNote" scheme="https://ycchen00.github.io/categories/OneNote/"/>
     
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
-    
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
-    
-    <category term="Data analytics" scheme="https://ycchen00.github.io/tags/Data-analytics/"/>
+    <category term="OneNote" scheme="https://ycchen00.github.io/tags/OneNote/"/>
     
   </entry>
   
   <entry>
-    <title>Coursera | Introduction to Data Analysis Using Excel (Rice University) | Quiz</title>
-    <link href="https://ycchen00.github.io/2021/02/04/Coursera/DAuE-Quiz/"/>
-    <id>https://ycchen00.github.io/2021/02/04/Coursera/DAuE-Quiz/</id>
-    <published>2021-02-04T03:19:55.226Z</published>
-    <updated>2021-02-04T09:02:15.970Z</updated>
+    <title>GEE实战 | 窗口拆分(split panel)可视化</title>
+    <link href="https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    <id>https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/</id>
+    <published>2021-03-27T14:43:28.885Z</published>
+    <updated>2021-03-27T14:43:28.885Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Coursera平台Introduction to Data Analysis Using Excel，Excel复习/入门课程。&lt;/p&gt;
+&lt;p&gt;GEE实践系列，介绍如何在GEE上窗口拆分(split panel)可视化图片。&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/categories/Coursera/"/>
+    <category term="GEE" scheme="https://ycchen00.github.io/categories/GEE/"/>
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/categories/Coursera/DataScience/"/>
+    <category term="GEE实战" scheme="https://ycchen00.github.io/categories/GEE/GEE%E5%AE%9E%E6%88%98/"/>
     
     
-    <category term="Coursera" scheme="https://ycchen00.github.io/tags/Coursera/"/>
+    <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>
     
-    <category term="DataScience" scheme="https://ycchen00.github.io/tags/DataScience/"/>
+    <category term="Remote sensing" scheme="https://ycchen00.github.io/tags/Remote-sensing/"/>
     
-    <category term="Excel" scheme="https://ycchen00.github.io/tags/Excel/"/>
+  </entry>
+  
+  <entry>
+    <title>GEE实战 | 计算NDVI &amp; NDWI</title>
+    <link href="https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E8%AE%A1%E7%AE%97NDVI&amp;NDWI/"/>
+    <id>https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E8%AE%A1%E7%AE%97NDVI&amp;NDWI/</id>
+    <published>2021-03-27T14:43:28.885Z</published>
+    <updated>2021-03-27T14:43:28.885Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;介绍了如何通过GEE计算NDVI和NDWI&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="GEE" scheme="https://ycchen00.github.io/categories/GEE/"/>
+    
+    <category term="GEE实战" scheme="https://ycchen00.github.io/categories/GEE/GEE%E5%AE%9E%E6%88%98/"/>
+    
+    
+    <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>
+    
+    <category term="Remote sensing" scheme="https://ycchen00.github.io/tags/Remote-sensing/"/>
     
   </entry>
   

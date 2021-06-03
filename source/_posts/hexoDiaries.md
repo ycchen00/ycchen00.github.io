@@ -16,7 +16,7 @@
 ## 搭建日志
 
 	待解决：
-	
+	202104?? : 猫top换成动态
 	202011?? ：多级目录/https://guanqr.com/tech/website/hexo-theme-next-customization/#
 	
 	20210204 ：修改busuanzi无法统计人数的问题(放弃统计:))
