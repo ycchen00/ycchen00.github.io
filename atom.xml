@@ -6,7 +6,7 @@
   <link href="https://ycchen00.github.io/atom.xml" rel="self"/>
   
   <link href="https://ycchen00.github.io/"/>
-  <updated>2021-03-27T14:43:28.904Z</updated>
+  <updated>2021-06-03T15:24:51.600Z</updated>
   <id>https://ycchen00.github.io/</id>
   
   <author>
@@ -17,23 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Tip | 佳能(EOS 750D) USB无法连接电脑</title>
-    <link href="https://ycchen00.github.io/2021/03/27/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/"/>
-    <id>https://ycchen00.github.io/2021/03/27/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/</id>
-    <published>2021-03-27T14:43:28.904Z</published>
-    <updated>2021-03-27T14:43:28.904Z</updated>
+    <title>湖北三人游</title>
+    <link href="https://ycchen00.github.io/2021/05/12/Travel/Hubei/"/>
+    <id>https://ycchen00.github.io/2021/05/12/Travel/Hubei/</id>
+    <published>2021-05-12T14:01:05.647Z</published>
+    <updated>2021-06-03T15:24:51.600Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;终于解决了！巨坑！&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
+&lt;p&gt;记21年5月湖北5日三人游~&lt;/p&gt;</summary>
     
     
     
-    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
+    <category term="Life" scheme="https://ycchen00.github.io/categories/Life/"/>
+    
+    <category term="Travel" scheme="https://ycchen00.github.io/categories/Life/Travel/"/>
+    
+    <category term="湖北" scheme="https://ycchen00.github.io/categories/Life/Travel/%E6%B9%96%E5%8C%97/"/>
     
     
-    <category term="Photography" scheme="https://ycchen00.github.io/tags/Photography/"/>
+    <category term="Travel" scheme="https://ycchen00.github.io/tags/Travel/"/>
+    
+    <category term="湖北" scheme="https://ycchen00.github.io/tags/%E6%B9%96%E5%8C%97/"/>
+    
+    <category term="恩施" scheme="https://ycchen00.github.io/tags/%E6%81%A9%E6%96%BD/"/>
     
   </entry>
   
@@ -57,6 +64,27 @@
     <category term="shortcuts" scheme="https://ycchen00.github.io/tags/shortcuts/"/>
     
     <category term="cmd" scheme="https://ycchen00.github.io/tags/cmd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tip | 佳能(EOS 750D) USB无法连接电脑</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/</id>
+    <published>2021-03-27T14:43:28.904Z</published>
+    <updated>2021-03-27T14:43:28.904Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;终于解决了！巨坑！&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
+    
+    
+    <category term="Photography" scheme="https://ycchen00.github.io/tags/Photography/"/>
     
   </entry>
   
@@ -169,9 +197,9 @@
     <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
     
     
-    <category term="Photography" scheme="https://ycchen00.github.io/tags/Photography/"/>
-    
     <category term="iPhone" scheme="https://ycchen00.github.io/tags/iPhone/"/>
+    
+    <category term="Photography" scheme="https://ycchen00.github.io/tags/Photography/"/>
     
   </entry>
   
@@ -436,29 +464,6 @@
     <category term="GEE" scheme="https://ycchen00.github.io/categories/GEE/"/>
     
     <category term="GEE实战" scheme="https://ycchen00.github.io/categories/GEE/GEE%E5%AE%9E%E6%88%98/"/>
-    
-    
-    <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>
-    
-    <category term="Remote sensing" scheme="https://ycchen00.github.io/tags/Remote-sensing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GEE(Google Earth Engine)目录</title>
-    <link href="https://ycchen00.github.io/2021/03/27/GEE/GEE%E7%9B%AE%E5%BD%95/"/>
-    <id>https://ycchen00.github.io/2021/03/27/GEE/GEE%E7%9B%AE%E5%BD%95/</id>
-    <published>2021-03-27T14:43:28.885Z</published>
-    <updated>2021-03-27T14:43:28.885Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;GEE系列目录&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="GEE" scheme="https://ycchen00.github.io/categories/GEE/"/>
     
     
     <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>
