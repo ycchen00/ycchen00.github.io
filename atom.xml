@@ -454,29 +454,6 @@
   </entry>
   
   <entry>
-    <title>GEE(Google Earth Engine)目录</title>
-    <link href="https://ycchen00.github.io/2021/03/27/GEE/GEE%E7%9B%AE%E5%BD%95/"/>
-    <id>https://ycchen00.github.io/2021/03/27/GEE/GEE%E7%9B%AE%E5%BD%95/</id>
-    <published>2021-03-27T14:43:28.885Z</published>
-    <updated>2021-03-27T14:43:28.885Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;GEE系列目录&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="GEE" scheme="https://ycchen00.github.io/categories/GEE/"/>
-    
-    
-    <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>
-    
-    <category term="Remote sensing" scheme="https://ycchen00.github.io/tags/Remote-sensing/"/>
-    
-  </entry>
-  
-  <entry>
     <title>GEE实战 | 窗口拆分(split panel)可视化</title>
     <link href="https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
     <id>https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/</id>
@@ -486,6 +463,31 @@
     
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;GEE实践系列，介绍如何在GEE上窗口拆分(split panel)可视化图片。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="GEE" scheme="https://ycchen00.github.io/categories/GEE/"/>
+    
+    <category term="GEE实战" scheme="https://ycchen00.github.io/categories/GEE/GEE%E5%AE%9E%E6%88%98/"/>
+    
+    
+    <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>
+    
+    <category term="Remote sensing" scheme="https://ycchen00.github.io/tags/Remote-sensing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GEE实战 | 计算NDVI &amp; NDWI</title>
+    <link href="https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E8%AE%A1%E7%AE%97NDVI&amp;NDWI/"/>
+    <id>https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E8%AE%A1%E7%AE%97NDVI&amp;NDWI/</id>
+    <published>2021-03-27T14:43:28.885Z</published>
+    <updated>2021-03-27T14:43:28.885Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;介绍了如何通过GEE计算NDVI和NDWI&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
