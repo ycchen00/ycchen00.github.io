@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ycchen00.github.io/2021/03/27/Travel/Yunnan/</loc>
+    <lastmod>2021-06-28</lastmod>
+  </url>
+  <url>
     <loc>https://ycchen00.github.io/2021/05/12/Travel/Hubei/</loc>
     <lastmod>2021-06-03</lastmod>
   </url>
@@ -17,15 +21,11 @@
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
-    <loc>https://ycchen00.github.io/2021/03/27/Tip/%E7%AE%A1%E7%90%86%E5%91%98CMD_%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
-    <lastmod>2021-03-27</lastmod>
-  </url>
-  <url>
     <loc>https://ycchen00.github.io/2021/03/27/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/</loc>
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
-    <loc>https://ycchen00.github.io/2021/03/27/Travel/Yunnan/</loc>
+    <loc>https://ycchen00.github.io/2021/03/27/Tip/%E7%AE%A1%E7%90%86%E5%91%98CMD_%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
@@ -149,11 +149,11 @@
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
-    <loc>https://ycchen00.github.io/2021/03/27/DSci/Visualization/Matplotlib%E6%9E%B6%E6%9E%84%E6%A6%82%E8%BF%B0/</loc>
+    <loc>https://ycchen00.github.io/2021/03/27/DSci/Visualization/Matplotlib%E5%8D%8E%E5%A4%AB%E9%A5%BC%E5%9B%BE(Waffle%20Charts)%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
-    <loc>https://ycchen00.github.io/2021/03/27/DSci/Visualization/Matplotlib%E5%8D%8E%E5%A4%AB%E9%A5%BC%E5%9B%BE(Waffle%20Charts)%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://ycchen00.github.io/2021/03/27/DSci/Visualization/Matplotlib%E6%9E%B6%E6%9E%84%E6%A6%82%E8%BF%B0/</loc>
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
@@ -173,7 +173,7 @@
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
-    <loc>https://ycchen00.github.io/2021/03/27/DSci/Excel/DAExcel%E6%95%99%E7%A8%8B(DAuE%E7%AC%94%E8%AE%B0)/</loc>
+    <loc>https://ycchen00.github.io/2021/03/27/Coursera/Intro2DS/Quiz/</loc>
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
@@ -181,7 +181,7 @@
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
-    <loc>https://ycchen00.github.io/2021/03/27/Coursera/Intro2DS/Quiz/</loc>
+    <loc>https://ycchen00.github.io/2021/03/27/DSci/Excel/DAExcel%E6%95%99%E7%A8%8B(DAuE%E7%AC%94%E8%AE%B0)/</loc>
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
@@ -221,7 +221,7 @@
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
-    <loc>https://ycchen00.github.io/2021/03/27/Coursera/DS4BI-Quiz/</loc>
+    <loc>https://ycchen00.github.io/2021/03/27/Coursera/Coursera_Financial_Aid/</loc>
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
@@ -229,7 +229,7 @@
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
-    <loc>https://ycchen00.github.io/2021/03/27/Coursera/Coursera_Financial_Aid/</loc>
+    <loc>https://ycchen00.github.io/2021/03/27/Coursera/DS4BI-Quiz/</loc>
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
@@ -249,11 +249,11 @@
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
-    <loc>https://ycchen00.github.io/2021/03/27/Coursera/AppliedML/Quiz/</loc>
+    <loc>https://ycchen00.github.io/2021/03/27/Coursera/AppliedML/Assignment4/</loc>
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>
-    <loc>https://ycchen00.github.io/2021/03/27/Coursera/AppliedML/Assignment4/</loc>
+    <loc>https://ycchen00.github.io/2021/03/27/Coursera/AppliedML/Quiz/</loc>
     <lastmod>2021-03-27</lastmod>
   </url>
   <url>

@@ -45,6 +45,27 @@
   </entry>
   
   <entry>
+    <title>Tip | 佳能(EOS 750D) USB无法连接电脑</title>
+    <link href="https://ycchen00.github.io/2021/03/27/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/"/>
+    <id>https://ycchen00.github.io/2021/03/27/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/</id>
+    <published>2021-03-27T14:43:28.904Z</published>
+    <updated>2021-03-27T14:43:28.904Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;终于解决了！巨坑！&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
+    
+    
+    <category term="Photography" scheme="https://ycchen00.github.io/tags/Photography/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Tip | 管理员权限打开CMD 快捷键</title>
     <link href="https://ycchen00.github.io/2021/03/27/Tip/%E7%AE%A1%E7%90%86%E5%91%98CMD_%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
     <id>https://ycchen00.github.io/2021/03/27/Tip/%E7%AE%A1%E7%90%86%E5%91%98CMD_%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
@@ -68,32 +89,11 @@
   </entry>
   
   <entry>
-    <title>Tip | 佳能(EOS 750D) USB无法连接电脑</title>
-    <link href="https://ycchen00.github.io/2021/03/27/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/"/>
-    <id>https://ycchen00.github.io/2021/03/27/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/</id>
-    <published>2021-03-27T14:43:28.904Z</published>
-    <updated>2021-03-27T14:43:28.904Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;终于解决了！巨坑！&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
-    
-    
-    <category term="Photography" scheme="https://ycchen00.github.io/tags/Photography/"/>
-    
-  </entry>
-  
-  <entry>
     <title>云南旅游</title>
     <link href="https://ycchen00.github.io/2021/03/27/Travel/Yunnan/"/>
     <id>https://ycchen00.github.io/2021/03/27/Travel/Yunnan/</id>
     <published>2021-03-27T14:43:28.904Z</published>
-    <updated>2021-03-27T14:43:28.904Z</updated>
+    <updated>2021-06-28T11:18:19.815Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -112,6 +112,12 @@
     <category term="Travel" scheme="https://ycchen00.github.io/tags/Travel/"/>
     
     <category term="云南" scheme="https://ycchen00.github.io/tags/%E4%BA%91%E5%8D%97/"/>
+    
+    <category term="昆明" scheme="https://ycchen00.github.io/tags/%E6%98%86%E6%98%8E/"/>
+    
+    <category term="大理" scheme="https://ycchen00.github.io/tags/%E5%A4%A7%E7%90%86/"/>
+    
+    <category term="丽江" scheme="https://ycchen00.github.io/tags/%E4%B8%BD%E6%B1%9F/"/>
     
   </entry>
   
@@ -448,22 +454,20 @@
   </entry>
   
   <entry>
-    <title>GEE实战 | 窗口拆分(split panel)可视化</title>
-    <link href="https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
-    <id>https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/</id>
+    <title>GEE(Google Earth Engine)目录</title>
+    <link href="https://ycchen00.github.io/2021/03/27/GEE/GEE%E7%9B%AE%E5%BD%95/"/>
+    <id>https://ycchen00.github.io/2021/03/27/GEE/GEE%E7%9B%AE%E5%BD%95/</id>
     <published>2021-03-27T14:43:28.885Z</published>
     <updated>2021-03-27T14:43:28.885Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;GEE实践系列，介绍如何在GEE上窗口拆分(split panel)可视化图片。&lt;/p&gt;
+&lt;p&gt;GEE系列目录&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
     <category term="GEE" scheme="https://ycchen00.github.io/categories/GEE/"/>
-    
-    <category term="GEE实战" scheme="https://ycchen00.github.io/categories/GEE/GEE%E5%AE%9E%E6%88%98/"/>
     
     
     <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>
@@ -473,15 +477,15 @@
   </entry>
   
   <entry>
-    <title>GEE实战 | 计算NDVI &amp; NDWI</title>
-    <link href="https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E8%AE%A1%E7%AE%97NDVI&amp;NDWI/"/>
-    <id>https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E8%AE%A1%E7%AE%97NDVI&amp;NDWI/</id>
+    <title>GEE实战 | 窗口拆分(split panel)可视化</title>
+    <link href="https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    <id>https://ycchen00.github.io/2021/03/27/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/</id>
     <published>2021-03-27T14:43:28.885Z</published>
     <updated>2021-03-27T14:43:28.885Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;介绍了如何通过GEE计算NDVI和NDWI&lt;/p&gt;
+&lt;p&gt;GEE实践系列，介绍如何在GEE上窗口拆分(split panel)可视化图片。&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
