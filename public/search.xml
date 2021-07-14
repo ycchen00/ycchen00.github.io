@@ -281,20 +281,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Tip | 管理员权限打开CMD 快捷键</title>
-    <url>/2021/03/27/Tip/%E7%AE%A1%E7%90%86%E5%91%98CMD_%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
-    <content><![CDATA[<p>大家打开CMD一般用<code>windows + R</code>，然后在运行框中输入<code>cmd</code>，接着<code>Enter</code>就好啦。<br><img src="https://img-blog.csdnimg.cn/20201220112212531.png#pic_center"></p>
-<p>有时候安装啥东西需要管理员权限，运气不好，需要多次使用，每次操作都相比较麻烦，于是找了快捷键。</p>
-<p><strong>解决方法</strong><br>和打开普通权限的CMD一样，<code>windows + R</code>，然后在运行输入<code>cmd</code>，接着<code>Ctrl + Shift + Enter</code>就会以管理员权限打开了~</p>]]></content>
-      <categories>
-        <category>Tip</category>
-      </categories>
-      <tags>
-        <tag>shortcuts</tag>
-        <tag>cmd</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Tip | 佳能(EOS 750D) USB无法连接电脑</title>
     <url>/2021/03/27/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/</url>
     <content><![CDATA[<p>对于将佳能相机的照片导出，可以用WIFI无线传输到手机等。传到电脑上时，平时用SD插卡直接传输。但是对于没有USD插口的电脑来说怎么有线导入相册呢。</p>
@@ -324,6 +310,20 @@
       </categories>
       <tags>
         <tag>Photography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Tip | 管理员权限打开CMD 快捷键</title>
+    <url>/2021/03/27/Tip/%E7%AE%A1%E7%90%86%E5%91%98CMD_%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
+    <content><![CDATA[<p>大家打开CMD一般用<code>windows + R</code>，然后在运行框中输入<code>cmd</code>，接着<code>Enter</code>就好啦。<br><img src="https://img-blog.csdnimg.cn/20201220112212531.png#pic_center"></p>
+<p>有时候安装啥东西需要管理员权限，运气不好，需要多次使用，每次操作都相比较麻烦，于是找了快捷键。</p>
+<p><strong>解决方法</strong><br>和打开普通权限的CMD一样，<code>windows + R</code>，然后在运行输入<code>cmd</code>，接着<code>Ctrl + Shift + Enter</code>就会以管理员权限打开了~</p>]]></content>
+      <categories>
+        <category>Tip</category>
+      </categories>
+      <tags>
+        <tag>shortcuts</tag>
+        <tag>cmd</tag>
       </tags>
   </entry>
   <entry>
@@ -447,7 +447,7 @@
 <p>云南大学后面园西路的烧豆腐、烤猪蹄</p>
 <h2 id="住"><a href="#住" class="headerlink" title="住"></a>住</h2><p>市区为主，我们住在火车站旁的清枫徐来酒店，差强人意，有免费早餐，交通方便，房间不大，空调效果一般（貌似是小米的锅</p>
 <p>携程订的，158￥大床房</p>
-<h2 id="游玩"><a href="#游玩" class="headerlink" title="游玩"></a>游玩</h2><ul>
+<h2 id="游玩记录"><a href="#游玩记录" class="headerlink" title="游玩记录"></a>游玩记录</h2><ul>
 <li><p><input disabled type="checkbox">  翠湖公园 </p>
 </li>
 <li><p><input checked disabled type="checkbox">  金马碧鸡坊</p>
@@ -534,7 +534,7 @@
 <p>爱彼迎订的，忘拍照片了，可以直接去看，与图片一致。</p>
 <p>160￥大床房一晚</p>
 <p>P.S. 如果玩的时间久点，可以环海，在洱海周围订民宿，靠海近，玩到就可以就地休息~</p>
-<h2 id="游玩-1"><a href="#游玩-1" class="headerlink" title="游玩"></a>游玩</h2><h3 id="0111-洱海、大理古城"><a href="#0111-洱海、大理古城" class="headerlink" title="0111 - 洱海、大理古城"></a>0111 - 洱海、大理古城</h3><ul>
+<h2 id="游玩"><a href="#游玩" class="headerlink" title="游玩"></a>游玩</h2><h3 id="0111-洱海、大理古城"><a href="#0111-洱海、大理古城" class="headerlink" title="0111 - 洱海、大理古城"></a>0111 - 洱海、大理古城</h3><ul>
 <li><p><del>酒吧</del></p>
 </li>
 <li><p><del>双廊古镇</del></p>
@@ -656,7 +656,7 @@
 <p>爱彼迎订的，忘拍照片了，可以直接去看，与图片一致。</p>
 <p>382￥大床房三晚（爱彼迎折扣</p>
 <p>P.S. 其实可以考虑在泸沽湖住一晚看日出~ 由于我们不好退房就选择1日游</p>
-<h2 id="游玩-2"><a href="#游玩-2" class="headerlink" title="游玩"></a>游玩</h2><img src="/2021/03/27/Travel/Yunnan/6.png" width="50%">
+<h2 id="游玩-1"><a href="#游玩-1" class="headerlink" title="游玩"></a>游玩</h2><img src="/2021/03/27/Travel/Yunnan/6.png" width="50%">
 
 
 
@@ -919,6 +919,9 @@
       <tags>
         <tag>Travel</tag>
         <tag>云南</tag>
+        <tag>昆明</tag>
+        <tag>大理</tag>
+        <tag>丽江</tag>
       </tags>
   </entry>
   <entry>
@@ -1953,67 +1956,6 @@ ls=ls     --show-control-chars -F</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>Matplotlib | 架构概述</title>
-    <url>/2021/03/27/DSci/Visualization/Matplotlib%E6%9E%B6%E6%9E%84%E6%A6%82%E8%BF%B0/</url>
-    <content><![CDATA[<p>Less is more effective<br>Less is more attractive<br>Less is more impactive </p>
-<h1 id="Matplotlib-architecture"><a href="#Matplotlib-architecture" class="headerlink" title="Matplotlib architecture"></a>Matplotlib architecture</h1><p><a href="http://aosabook.org/en/matplotlib.html">for more info</a></p>
-<p>Matplotlib体系结构分为三层，可以将其视为堆栈。位于另一层之上的每一层都知道如何与它下面的层进行通信，但是下层却不知道它上面的层。从下到上的三层是：Backend, Artist, Scripting Layer.</p>
-<h2 id="Backend-Layer-FigureCanvas-Renderer-Event"><a href="#Backend-Layer-FigureCanvas-Renderer-Event" class="headerlink" title="Backend Layer (FigureCanvas, Renderer, Event)"></a>Backend Layer (FigureCanvas, Renderer, Event)</h2><p>Has three built-in abstract interface classes:</p>
-<ul>
-<li>FigureCanvas: matplotlib.backened_bases.FigureCnvas<ul>
-<li>Encompasses the area onto which the figure is drawn</li>
-<li>例如画纸</li>
-</ul>
-</li>
-<li>Renderer: matplotlib.backened_bases.Renderer<ul>
-<li>Knows how to draw on the FigureCanvas<ul>
-<li>例如画笔</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Event: matplotlib.backend_bases.Event<ul>
-<li>Handles user inputs such as keyboard strokes and mouse clicks</li>
-</ul>
-</li>
-</ul>
-<h2 id="Artist-Layer-Artist"><a href="#Artist-Layer-Artist" class="headerlink" title="Artist Layer (Artist)"></a>Artist Layer (Artist)</h2><ul>
-<li>Comprised of one main object - Artist:<ul>
-<li>Knows how to use the Renderer to draw on the canvas.</li>
-<li>在matplotlib中看到的所有内容Figure都是一个 Artist实例。</li>
-</ul>
-</li>
-<li>Title, lines, tick labels, and images, all correspond to individual Artist instances.</li>
-<li>Two types of Artist objects:<ul>
-<li>Primitive: Line2D, Rectangle, Circle, and Text</li>
-<li>Composite: Axis, Tick, Axes, and Figure</li>
-</ul>
-</li>
-<li>Each  artist may contain other composite artists as well as primitive artists.</li>
-</ul>
-<p>一个用Artist作图例子~</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Putting the Artist Layer to Use</span></span><br><span class="line"><span class="comment"># generate a histogram of some data using the Artist layer</span></span><br><span class="line"><span class="keyword">from</span> matplotlib.backends.backend_agg <span class="keyword">import</span> FigureCanvasAgg <span class="keyword">as</span> FigureCanvas <span class="comment"># import FigureCanvas</span></span><br><span class="line"><span class="keyword">from</span> matplotlib.figure <span class="keyword">import</span> Figure <span class="comment"># import Figure artist</span></span><br><span class="line">fig = Figure()</span><br><span class="line">canvas = FigureCanvas(fig)</span><br><span class="line"></span><br><span class="line"><span class="comment"># create 10000 random numbers using numpy</span></span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line">x = np.random.randn(<span class="number">10000</span>)</span><br><span class="line"></span><br><span class="line">ax = fig.add_subplot(<span class="number">111</span>) <span class="comment"># create an axes artist</span></span><br><span class="line"></span><br><span class="line">ax.hist(x, <span class="number">100</span>) <span class="comment"># generate a histgram of the 10000 numbers</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># add a little to the figure and save it</span></span><br><span class="line">ax.set_title(<span class="string">&#x27;Normal distribution with $\mu=0, \sigma=1$&#x27;</span>)</span><br><span class="line">fig.savefig(<span class="string">&#x27;matplotlib_histogram.png&#x27;</span>)</span><br></pre></td></tr></table></figure>
-
-<p><img src="https://img-blog.csdnimg.cn/20210121222149735.png#pic_center"></p>
-<h2 id="Scripting-Layer-pyplot"><a href="#Scripting-Layer-pyplot" class="headerlink" title="Scripting Layer (pyplot)"></a>Scripting Layer (pyplot)</h2><ul>
-<li>日常用途，更简洁</li>
-<li>Comprised mainly of <strong>pyplot</strong>, a scripting interface that is lighter that the <strong>Artist</strong> layer.</li>
-<li>Let’s see how we can generate the same histogram of 10000 random values using the <strong>pyplot</strong> interface</li>
-</ul>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> matplotlib.pyplot <span class="keyword">as</span> plt</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"></span><br><span class="line">x = np.random.randn(<span class="number">10000</span>)</span><br><span class="line"></span><br><span class="line">plt.hist(x, <span class="number">100</span>)</span><br><span class="line">plt.title(<span class="string">r&#x27;Normal distribution with $\mu=0, \sigma=1$&#x27;</span>)</span><br><span class="line">plt.savefig(<span class="string">&#x27;matplotlib_histogram.png&#x27;</span>)</span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
-
-<p><img src="https://img-blog.csdnimg.cn/20210122203721967.png#pic_center"></p>]]></content>
-      <categories>
-        <category>DSci</category>
-        <category>Visualization</category>
-      </categories>
-      <tags>
-        <tag>DataScience</tag>
-        <tag>Visualization</tag>
-        <tag>Matplotlib</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Matplotlib | 华夫饼图 Waffle Charts</title>
     <url>/2021/03/27/DSci/Visualization/Matplotlib%E5%8D%8E%E5%A4%AB%E9%A5%BC%E5%9B%BE(Waffle%20Charts)%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<p>more about <a href="https://blog.csdn.net/weixin_43360896/article/details/111874473">Pandas入门 DataFrame的常用函数</a></p>
@@ -2125,6 +2067,67 @@ Sweden: 194</code></pre>
         <tag>Visualization</tag>
         <tag>Matplotlib</tag>
         <tag>Waffle Charts</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Matplotlib | 架构概述</title>
+    <url>/2021/03/27/DSci/Visualization/Matplotlib%E6%9E%B6%E6%9E%84%E6%A6%82%E8%BF%B0/</url>
+    <content><![CDATA[<p>Less is more effective<br>Less is more attractive<br>Less is more impactive </p>
+<h1 id="Matplotlib-architecture"><a href="#Matplotlib-architecture" class="headerlink" title="Matplotlib architecture"></a>Matplotlib architecture</h1><p><a href="http://aosabook.org/en/matplotlib.html">for more info</a></p>
+<p>Matplotlib体系结构分为三层，可以将其视为堆栈。位于另一层之上的每一层都知道如何与它下面的层进行通信，但是下层却不知道它上面的层。从下到上的三层是：Backend, Artist, Scripting Layer.</p>
+<h2 id="Backend-Layer-FigureCanvas-Renderer-Event"><a href="#Backend-Layer-FigureCanvas-Renderer-Event" class="headerlink" title="Backend Layer (FigureCanvas, Renderer, Event)"></a>Backend Layer (FigureCanvas, Renderer, Event)</h2><p>Has three built-in abstract interface classes:</p>
+<ul>
+<li>FigureCanvas: matplotlib.backened_bases.FigureCnvas<ul>
+<li>Encompasses the area onto which the figure is drawn</li>
+<li>例如画纸</li>
+</ul>
+</li>
+<li>Renderer: matplotlib.backened_bases.Renderer<ul>
+<li>Knows how to draw on the FigureCanvas<ul>
+<li>例如画笔</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Event: matplotlib.backend_bases.Event<ul>
+<li>Handles user inputs such as keyboard strokes and mouse clicks</li>
+</ul>
+</li>
+</ul>
+<h2 id="Artist-Layer-Artist"><a href="#Artist-Layer-Artist" class="headerlink" title="Artist Layer (Artist)"></a>Artist Layer (Artist)</h2><ul>
+<li>Comprised of one main object - Artist:<ul>
+<li>Knows how to use the Renderer to draw on the canvas.</li>
+<li>在matplotlib中看到的所有内容Figure都是一个 Artist实例。</li>
+</ul>
+</li>
+<li>Title, lines, tick labels, and images, all correspond to individual Artist instances.</li>
+<li>Two types of Artist objects:<ul>
+<li>Primitive: Line2D, Rectangle, Circle, and Text</li>
+<li>Composite: Axis, Tick, Axes, and Figure</li>
+</ul>
+</li>
+<li>Each  artist may contain other composite artists as well as primitive artists.</li>
+</ul>
+<p>一个用Artist作图例子~</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Putting the Artist Layer to Use</span></span><br><span class="line"><span class="comment"># generate a histogram of some data using the Artist layer</span></span><br><span class="line"><span class="keyword">from</span> matplotlib.backends.backend_agg <span class="keyword">import</span> FigureCanvasAgg <span class="keyword">as</span> FigureCanvas <span class="comment"># import FigureCanvas</span></span><br><span class="line"><span class="keyword">from</span> matplotlib.figure <span class="keyword">import</span> Figure <span class="comment"># import Figure artist</span></span><br><span class="line">fig = Figure()</span><br><span class="line">canvas = FigureCanvas(fig)</span><br><span class="line"></span><br><span class="line"><span class="comment"># create 10000 random numbers using numpy</span></span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line">x = np.random.randn(<span class="number">10000</span>)</span><br><span class="line"></span><br><span class="line">ax = fig.add_subplot(<span class="number">111</span>) <span class="comment"># create an axes artist</span></span><br><span class="line"></span><br><span class="line">ax.hist(x, <span class="number">100</span>) <span class="comment"># generate a histgram of the 10000 numbers</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># add a little to the figure and save it</span></span><br><span class="line">ax.set_title(<span class="string">&#x27;Normal distribution with $\mu=0, \sigma=1$&#x27;</span>)</span><br><span class="line">fig.savefig(<span class="string">&#x27;matplotlib_histogram.png&#x27;</span>)</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://img-blog.csdnimg.cn/20210121222149735.png#pic_center"></p>
+<h2 id="Scripting-Layer-pyplot"><a href="#Scripting-Layer-pyplot" class="headerlink" title="Scripting Layer (pyplot)"></a>Scripting Layer (pyplot)</h2><ul>
+<li>日常用途，更简洁</li>
+<li>Comprised mainly of <strong>pyplot</strong>, a scripting interface that is lighter that the <strong>Artist</strong> layer.</li>
+<li>Let’s see how we can generate the same histogram of 10000 random values using the <strong>pyplot</strong> interface</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> matplotlib.pyplot <span class="keyword">as</span> plt</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"></span><br><span class="line">x = np.random.randn(<span class="number">10000</span>)</span><br><span class="line"></span><br><span class="line">plt.hist(x, <span class="number">100</span>)</span><br><span class="line">plt.title(<span class="string">r&#x27;Normal distribution with $\mu=0, \sigma=1$&#x27;</span>)</span><br><span class="line">plt.savefig(<span class="string">&#x27;matplotlib_histogram.png&#x27;</span>)</span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://img-blog.csdnimg.cn/20210122203721967.png#pic_center"></p>]]></content>
+      <categories>
+        <category>DSci</category>
+        <category>Visualization</category>
+      </categories>
+      <tags>
+        <tag>DataScience</tag>
+        <tag>Visualization</tag>
+        <tag>Matplotlib</tag>
       </tags>
   </entry>
   <entry>
@@ -4042,28 +4045,29 @@ Done.</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>Excel | Data Analysis Excel教程</title>
-    <url>/2021/03/27/DSci/Excel/DAExcel%E6%95%99%E7%A8%8B(DAuE%E7%AC%94%E8%AE%B0)/</url>
-    <content><![CDATA[<p>上了门Coursera，里面介绍了Excel的简单用法，很多之前都学过了，这次做下记录，方便以后查找。</p>
-<h1 id="数据"><a href="#数据" class="headerlink" title="数据"></a>数据</h1><h2 id="打开commas-tab分割的txt"><a href="#打开commas-tab分割的txt" class="headerlink" title="打开commas,tab分割的txt"></a>打开commas,tab分割的txt</h2><p>就使用excel打开即可，具体设置具体分析</p>
-<h2 id="自动列宽"><a href="#自动列宽" class="headerlink" title="自动列宽"></a>自动列宽</h2><p>有时候导入的某些数据因为列宽不够无法显示，可以<code>选择所有列</code>-&gt;<code>双击任意移动符号</code>可以自动换列宽</p>
-<h2 id="移动-选择"><a href="#移动-选择" class="headerlink" title="移动/选择"></a>移动/选择</h2><p>移动到最*一列/行<br><strong>Row</strong>: <code>Ctrl+down/up</code><br><strong>Column</strong>: <code>Ctrl+right/left</code></p>
-<p>选择到最*一列/行<br><strong>Row</strong>: <code>Ctrl+shift+down/up</code><br><strong>Column</strong>: <code>Ctrl+shift+right/left</code></p>
-<h1 id="Function"><a href="#Function" class="headerlink" title="Function"></a>Function</h1><h2 id="公式套用"><a href="#公式套用" class="headerlink" title="公式套用"></a>公式套用</h2><p>在列了一个cell的公式后，<code>双击</code>公式后的小十字符号即可直接套用当前列</p>
-<h2 id="SUMIF"><a href="#SUMIF" class="headerlink" title="SUMIF()"></a>SUMIF()</h2><p><code>SUMIF(range,criteria,[sum_range])</code></p>
-<h2 id="COUNTIF"><a href="#COUNTIF" class="headerlink" title="COUNTIF()"></a>COUNTIF()</h2><p><code>COUNTIF(count_range,condition)</code></p>
-<h2 id="IF"><a href="#IF" class="headerlink" title="IF()"></a>IF()</h2><p><code>IF(loical_test,value_if_true,value_if_false)</code></p>
-<p>Nested IF:<br><code>IF(loical_test,value_if_true,IF(...))</code></p>
-<h2 id="VLOOKUP"><a href="#VLOOKUP" class="headerlink" title="VLOOKUP()"></a>VLOOKUP()</h2><p><code>VLOOKUP(lookup_value,table_array,col_index_num,[range_lookup])</code><br><strong>range_lookup</strong>: TRUE/FALSE<br>TRUE :范围匹配<br>FALSE:完全匹配<br><img src="https://img-blog.csdnimg.cn/20210105121215949.png#pic_center"><br><img src="https://img-blog.csdnimg.cn/20210105121330937.png#pic_center"><br><strong>Across Worksheets</strong>:<br><img src="https://img-blog.csdnimg.cn/20210105121516887.png#pic_center"></p>
-<h2 id="HLOOKUP"><a href="#HLOOKUP" class="headerlink" title="HLOOKUP()"></a>HLOOKUP()</h2><p><code>HLOOKUP(lookup_value,table_array,row_index_num,[range_lookup])</code><br><strong>range_lookup</strong>: TRUE/FALSE<br>TRUE :范围匹配<br>FALSE:完全匹配</p>
-<h1 id="Pivot-table"><a href="#Pivot-table" class="headerlink" title="Pivot table"></a>Pivot table</h1><p>数据透视图，超级有用，其中的pivot charts交互式也很好 :) 多多摸索</p>]]></content>
+    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz</title>
+    <url>/2021/03/27/Coursera/Intro2DS/Quiz/</url>
+    <content><![CDATA[<p>&emsp;&emsp;最后还是把assignment代码放出来了，这门课的assignment还是有点难度的，特别是assigment4（哀怨），放给大家参考啦~<br>&emsp;&emsp; 有时间（需求）就把所有代码放到github上（好担心被河蟹啊）<br>&emsp;&emsp; 相关链接：<br>&emsp;&emsp; <a href="https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Quiz/">Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz</a><br>&emsp;&emsp; <a href="https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Assignment1/">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment1</a><br>&emsp;&emsp; <a href="https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Assignment2/">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment2</a><br>&emsp;&emsp; <a href="https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Assignment3/">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment3</a><br>&emsp;&emsp; <a href="https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Assignment4/">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment4</a><br>&emsp;&emsp; CSDN链接：<br>&emsp;&emsp; <a href="https://blog.csdn.net/weixin_43360896/article/details/109544058">Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz答案</a><br>&emsp;&emsp; <a href="https://blog.csdn.net/weixin_43360896/article/details/109583609">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment1</a><br>&emsp;&emsp; <a href="https://blog.csdn.net/weixin_43360896/article/details/109577773">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment2</a><br>&emsp;&emsp; <a href="https://blog.csdn.net/weixin_43360896/article/details/109583813">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment3</a><br>&emsp;&emsp; <a href="https://blog.csdn.net/weixin_43360896/article/details/109584609">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment4</a></p>
+<p>&emsp;&emsp; 继续Coursera学习哈，有助学金申请还是比较爽的（有需求下次放个助学金申请模板？）。因为打算往DS靠，找到密歇根大学的 Applied Data Science with Python 专项课程，共有5门课程，目前用了5天薅完了第一门Introduction to Data Science in Python。<br><img src="https://img-blog.csdnimg.cn/20201107110233146.png"></p>
+<p><img src="https://img-blog.csdnimg.cn/20201107110218196.png"></p>
+<p>&emsp;&emsp; 不愧是密歇根大学，感觉质量很高，原本还打算和离散数学那个一样划水摸鱼过的，结果被编程assignment按在地上摩擦，还是很刺激的。这里放上每个quiz的答案。assignment的代码嘛，看情况，想要的可以评论区留言，多的话我就把整个上课资源上传到Github，包括Quiz编程实现，Assignment代码，上课代码等，貌似容易被和谐掉。因为比起前不久，quiz和assignment都更新了挺多，不知道放上来会不会被和谐(特别是最后一个assignment，新题，没有往届参考快猝死了)，讨论参考肯定没问题 :)<br>&emsp;&emsp; Anway，想自学的推荐哈，Introduction to Data Science in Python这门课程学完能学会很多，包括Pandas的用法以及实例实践等。</p>
+<h1 id="quiz答案"><a href="#quiz答案" class="headerlink" title="quiz答案"></a>quiz答案</h1><p>&emsp;&emsp;U1S1，这个课程是真的严谨，题目换的那叫个快，最近是直接第三方平台，连上密歇根自己的学校网站，做题然后提交。不过值得吐槽的是，每次提交到出成绩要24h，一般也就10道选择题啊，气(•́へ•́╬)。而且要求是低于70%正确率可以反复做，但是一旦高于70%就不能反复提交刷分了，所以博主第一个quiz粗心错了一个，非常后悔。<br>&emsp;&emsp;不废话了，放答案，总共4周，前三周都是第三方平台，最后一周是Coursera自己的平台。</p>
+<h2 id="Week1-Fundamentals-of-Data-Manipulation-with-Python"><a href="#Week1-Fundamentals-of-Data-Manipulation-with-Python" class="headerlink" title="Week1 : Fundamentals of Data Manipulation with Python"></a>Week1 : Fundamentals of Data Manipulation with Python</h2><p>&emsp;&emsp;第一周的，下面这个就是密歇根的平台啦，没错，我就是第一题就错了，o(╥﹏╥)o，然后也放下批改后会告诉你错在哪了，还是挺人性化的。</p>
+<p><img src="https://img-blog.csdnimg.cn/20201107110942876.png"><br>&emsp;&emsp; 如果做错了，会显示正确答案和解释。<br><img src="https://img-blog.csdnimg.cn/20201107110949320.png"></p>
+<p>&emsp;&emsp;其他都没问题啦。<br><img src="https://img-blog.csdnimg.cn/20201107111055589.png"><img src="https://img-blog.csdnimg.cn/20201107111059370.png"><img src="https://img-blog.csdnimg.cn/20201107111113142.png"><img src="https://img-blog.csdnimg.cn/20201107111120540.png"><img src="https://img-blog.csdnimg.cn/20201107111127751.png"><img src="https://img-blog.csdnimg.cn/20201107111133810.png"><img src="https://img-blog.csdnimg.cn/20201107111138183.png"><img src="https://img-blog.csdnimg.cn/2020110711114326.png"><img src="https://img-blog.csdnimg.cn/20201107111148404.png"></p>
+<h2 id="Week2-Basic-Data-Processing-with-Pandas"><a href="#Week2-Basic-Data-Processing-with-Pandas" class="headerlink" title="Week2 : Basic Data Processing with Pandas"></a>Week2 : Basic Data Processing with Pandas</h2><p><img src="https://img-blog.csdnimg.cn/20201107111220234.png"><img src="https://img-blog.csdnimg.cn/20201107111225223.png"><img src="https://img-blog.csdnimg.cn/20201107111231749.png"><img src="https://img-blog.csdnimg.cn/2020110711130620.png"><img src="https://img-blog.csdnimg.cn/20201107111311780.png"><img src="https://img-blog.csdnimg.cn/20201107111317739.png"><img src="https://img-blog.csdnimg.cn/20201107111327139.png"><img src="https://img-blog.csdnimg.cn/20201107111952781.png"><img src="https://img-blog.csdnimg.cn/20201107111336815.png"><img src="https://img-blog.csdnimg.cn/20201107111342674.png"></p>
+<h2 id="Week3-More-Data-Processing-with-Pandas"><a href="#Week3-More-Data-Processing-with-Pandas" class="headerlink" title="Week3 : More Data Processing with Pandas"></a>Week3 : More Data Processing with Pandas</h2><p><img src="https://img-blog.csdnimg.cn/20201107112051583.png"><img src="https://img-blog.csdnimg.cn/20201107112219521.png"><img src="https://img-blog.csdnimg.cn/20201107112230793.png"><img src="https://img-blog.csdnimg.cn/20201107112235981.png"><img src="https://img-blog.csdnimg.cn/20201107112242658.png"><img src="https://img-blog.csdnimg.cn/20201107112247270.png"><img src="https://img-blog.csdnimg.cn/20201107112253186.png"><img src="https://img-blog.csdnimg.cn/20201107112257585.png"><img src="https://img-blog.csdnimg.cn/2020110711230320.png"><img src="https://img-blog.csdnimg.cn/20201107112313865.png"></p>
+<h2 id="Week4-Answering-Questions-with-Messy-Data"><a href="#Week4-Answering-Questions-with-Messy-Data" class="headerlink" title="Week4 : Answering Questions with Messy Data"></a>Week4 : Answering Questions with Messy Data</h2><p><img src="https://img-blog.csdnimg.cn/20201107112356488.png"><img src="https://img-blog.csdnimg.cn/20201107112402351.png"><img src="https://img-blog.csdnimg.cn/20201107112407693.png"><img src="https://img-blog.csdnimg.cn/20201107112412858.png"><img src="https://img-blog.csdnimg.cn/20201107112420955.png"><img src="https://img-blog.csdnimg.cn/20201107112429840.png"><img src="https://img-blog.csdnimg.cn/2020110711243871.png"><img src="https://img-blog.csdnimg.cn/20201107112443963.png"><img src="https://img-blog.csdnimg.cn/20201107112450774.png"><img src="https://img-blog.csdnimg.cn/20201107112459810.png"><img src="https://img-blog.csdnimg.cn/20201107112506153.png"></p>
+<p>&emsp;&emsp; 过段时间再薅后续课程（缓下）<br>&emsp;&emsp; 欢迎评论区讨论呀</p>]]></content>
       <categories>
-        <category>DSci</category>
-        <category>Excel</category>
+        <category>Coursera</category>
+        <category>DataScience</category>
+        <category>Intro2DS</category>
       </categories>
       <tags>
+        <tag>Coursera</tag>
         <tag>DataScience</tag>
-        <tag>Excel</tag>
+        <tag>Pandas</tag>
       </tags>
   </entry>
   <entry>
@@ -4092,29 +4096,28 @@ Done.</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz</title>
-    <url>/2021/03/27/Coursera/Intro2DS/Quiz/</url>
-    <content><![CDATA[<p>&emsp;&emsp;最后还是把assignment代码放出来了，这门课的assignment还是有点难度的，特别是assigment4（哀怨），放给大家参考啦~<br>&emsp;&emsp; 有时间（需求）就把所有代码放到github上（好担心被河蟹啊）<br>&emsp;&emsp; 相关链接：<br>&emsp;&emsp; <a href="https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Quiz/">Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz</a><br>&emsp;&emsp; <a href="https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Assignment1/">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment1</a><br>&emsp;&emsp; <a href="https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Assignment2/">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment2</a><br>&emsp;&emsp; <a href="https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Assignment3/">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment3</a><br>&emsp;&emsp; <a href="https://ycchen00.github.io/2020/12/07/Coursera/Intro2DS/Assignment4/">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment4</a><br>&emsp;&emsp; CSDN链接：<br>&emsp;&emsp; <a href="https://blog.csdn.net/weixin_43360896/article/details/109544058">Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz答案</a><br>&emsp;&emsp; <a href="https://blog.csdn.net/weixin_43360896/article/details/109583609">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment1</a><br>&emsp;&emsp; <a href="https://blog.csdn.net/weixin_43360896/article/details/109577773">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment2</a><br>&emsp;&emsp; <a href="https://blog.csdn.net/weixin_43360896/article/details/109583813">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment3</a><br>&emsp;&emsp; <a href="https://blog.csdn.net/weixin_43360896/article/details/109584609">Coursera | Introduction to Data Science in Python（University of Michigan）| Assignment4</a></p>
-<p>&emsp;&emsp; 继续Coursera学习哈，有助学金申请还是比较爽的（有需求下次放个助学金申请模板？）。因为打算往DS靠，找到密歇根大学的 Applied Data Science with Python 专项课程，共有5门课程，目前用了5天薅完了第一门Introduction to Data Science in Python。<br><img src="https://img-blog.csdnimg.cn/20201107110233146.png"></p>
-<p><img src="https://img-blog.csdnimg.cn/20201107110218196.png"></p>
-<p>&emsp;&emsp; 不愧是密歇根大学，感觉质量很高，原本还打算和离散数学那个一样划水摸鱼过的，结果被编程assignment按在地上摩擦，还是很刺激的。这里放上每个quiz的答案。assignment的代码嘛，看情况，想要的可以评论区留言，多的话我就把整个上课资源上传到Github，包括Quiz编程实现，Assignment代码，上课代码等，貌似容易被和谐掉。因为比起前不久，quiz和assignment都更新了挺多，不知道放上来会不会被和谐(特别是最后一个assignment，新题，没有往届参考快猝死了)，讨论参考肯定没问题 :)<br>&emsp;&emsp; Anway，想自学的推荐哈，Introduction to Data Science in Python这门课程学完能学会很多，包括Pandas的用法以及实例实践等。</p>
-<h1 id="quiz答案"><a href="#quiz答案" class="headerlink" title="quiz答案"></a>quiz答案</h1><p>&emsp;&emsp;U1S1，这个课程是真的严谨，题目换的那叫个快，最近是直接第三方平台，连上密歇根自己的学校网站，做题然后提交。不过值得吐槽的是，每次提交到出成绩要24h，一般也就10道选择题啊，气(•́へ•́╬)。而且要求是低于70%正确率可以反复做，但是一旦高于70%就不能反复提交刷分了，所以博主第一个quiz粗心错了一个，非常后悔。<br>&emsp;&emsp;不废话了，放答案，总共4周，前三周都是第三方平台，最后一周是Coursera自己的平台。</p>
-<h2 id="Week1-Fundamentals-of-Data-Manipulation-with-Python"><a href="#Week1-Fundamentals-of-Data-Manipulation-with-Python" class="headerlink" title="Week1 : Fundamentals of Data Manipulation with Python"></a>Week1 : Fundamentals of Data Manipulation with Python</h2><p>&emsp;&emsp;第一周的，下面这个就是密歇根的平台啦，没错，我就是第一题就错了，o(╥﹏╥)o，然后也放下批改后会告诉你错在哪了，还是挺人性化的。</p>
-<p><img src="https://img-blog.csdnimg.cn/20201107110942876.png"><br>&emsp;&emsp; 如果做错了，会显示正确答案和解释。<br><img src="https://img-blog.csdnimg.cn/20201107110949320.png"></p>
-<p>&emsp;&emsp;其他都没问题啦。<br><img src="https://img-blog.csdnimg.cn/20201107111055589.png"><img src="https://img-blog.csdnimg.cn/20201107111059370.png"><img src="https://img-blog.csdnimg.cn/20201107111113142.png"><img src="https://img-blog.csdnimg.cn/20201107111120540.png"><img src="https://img-blog.csdnimg.cn/20201107111127751.png"><img src="https://img-blog.csdnimg.cn/20201107111133810.png"><img src="https://img-blog.csdnimg.cn/20201107111138183.png"><img src="https://img-blog.csdnimg.cn/2020110711114326.png"><img src="https://img-blog.csdnimg.cn/20201107111148404.png"></p>
-<h2 id="Week2-Basic-Data-Processing-with-Pandas"><a href="#Week2-Basic-Data-Processing-with-Pandas" class="headerlink" title="Week2 : Basic Data Processing with Pandas"></a>Week2 : Basic Data Processing with Pandas</h2><p><img src="https://img-blog.csdnimg.cn/20201107111220234.png"><img src="https://img-blog.csdnimg.cn/20201107111225223.png"><img src="https://img-blog.csdnimg.cn/20201107111231749.png"><img src="https://img-blog.csdnimg.cn/2020110711130620.png"><img src="https://img-blog.csdnimg.cn/20201107111311780.png"><img src="https://img-blog.csdnimg.cn/20201107111317739.png"><img src="https://img-blog.csdnimg.cn/20201107111327139.png"><img src="https://img-blog.csdnimg.cn/20201107111952781.png"><img src="https://img-blog.csdnimg.cn/20201107111336815.png"><img src="https://img-blog.csdnimg.cn/20201107111342674.png"></p>
-<h2 id="Week3-More-Data-Processing-with-Pandas"><a href="#Week3-More-Data-Processing-with-Pandas" class="headerlink" title="Week3 : More Data Processing with Pandas"></a>Week3 : More Data Processing with Pandas</h2><p><img src="https://img-blog.csdnimg.cn/20201107112051583.png"><img src="https://img-blog.csdnimg.cn/20201107112219521.png"><img src="https://img-blog.csdnimg.cn/20201107112230793.png"><img src="https://img-blog.csdnimg.cn/20201107112235981.png"><img src="https://img-blog.csdnimg.cn/20201107112242658.png"><img src="https://img-blog.csdnimg.cn/20201107112247270.png"><img src="https://img-blog.csdnimg.cn/20201107112253186.png"><img src="https://img-blog.csdnimg.cn/20201107112257585.png"><img src="https://img-blog.csdnimg.cn/2020110711230320.png"><img src="https://img-blog.csdnimg.cn/20201107112313865.png"></p>
-<h2 id="Week4-Answering-Questions-with-Messy-Data"><a href="#Week4-Answering-Questions-with-Messy-Data" class="headerlink" title="Week4 : Answering Questions with Messy Data"></a>Week4 : Answering Questions with Messy Data</h2><p><img src="https://img-blog.csdnimg.cn/20201107112356488.png"><img src="https://img-blog.csdnimg.cn/20201107112402351.png"><img src="https://img-blog.csdnimg.cn/20201107112407693.png"><img src="https://img-blog.csdnimg.cn/20201107112412858.png"><img src="https://img-blog.csdnimg.cn/20201107112420955.png"><img src="https://img-blog.csdnimg.cn/20201107112429840.png"><img src="https://img-blog.csdnimg.cn/2020110711243871.png"><img src="https://img-blog.csdnimg.cn/20201107112443963.png"><img src="https://img-blog.csdnimg.cn/20201107112450774.png"><img src="https://img-blog.csdnimg.cn/20201107112459810.png"><img src="https://img-blog.csdnimg.cn/20201107112506153.png"></p>
-<p>&emsp;&emsp; 过段时间再薅后续课程（缓下）<br>&emsp;&emsp; 欢迎评论区讨论呀</p>]]></content>
+    <title>Excel | Data Analysis Excel教程</title>
+    <url>/2021/03/27/DSci/Excel/DAExcel%E6%95%99%E7%A8%8B(DAuE%E7%AC%94%E8%AE%B0)/</url>
+    <content><![CDATA[<p>上了门Coursera，里面介绍了Excel的简单用法，很多之前都学过了，这次做下记录，方便以后查找。</p>
+<h1 id="数据"><a href="#数据" class="headerlink" title="数据"></a>数据</h1><h2 id="打开commas-tab分割的txt"><a href="#打开commas-tab分割的txt" class="headerlink" title="打开commas,tab分割的txt"></a>打开commas,tab分割的txt</h2><p>就使用excel打开即可，具体设置具体分析</p>
+<h2 id="自动列宽"><a href="#自动列宽" class="headerlink" title="自动列宽"></a>自动列宽</h2><p>有时候导入的某些数据因为列宽不够无法显示，可以<code>选择所有列</code>-&gt;<code>双击任意移动符号</code>可以自动换列宽</p>
+<h2 id="移动-选择"><a href="#移动-选择" class="headerlink" title="移动/选择"></a>移动/选择</h2><p>移动到最*一列/行<br><strong>Row</strong>: <code>Ctrl+down/up</code><br><strong>Column</strong>: <code>Ctrl+right/left</code></p>
+<p>选择到最*一列/行<br><strong>Row</strong>: <code>Ctrl+shift+down/up</code><br><strong>Column</strong>: <code>Ctrl+shift+right/left</code></p>
+<h1 id="Function"><a href="#Function" class="headerlink" title="Function"></a>Function</h1><h2 id="公式套用"><a href="#公式套用" class="headerlink" title="公式套用"></a>公式套用</h2><p>在列了一个cell的公式后，<code>双击</code>公式后的小十字符号即可直接套用当前列</p>
+<h2 id="SUMIF"><a href="#SUMIF" class="headerlink" title="SUMIF()"></a>SUMIF()</h2><p><code>SUMIF(range,criteria,[sum_range])</code></p>
+<h2 id="COUNTIF"><a href="#COUNTIF" class="headerlink" title="COUNTIF()"></a>COUNTIF()</h2><p><code>COUNTIF(count_range,condition)</code></p>
+<h2 id="IF"><a href="#IF" class="headerlink" title="IF()"></a>IF()</h2><p><code>IF(loical_test,value_if_true,value_if_false)</code></p>
+<p>Nested IF:<br><code>IF(loical_test,value_if_true,IF(...))</code></p>
+<h2 id="VLOOKUP"><a href="#VLOOKUP" class="headerlink" title="VLOOKUP()"></a>VLOOKUP()</h2><p><code>VLOOKUP(lookup_value,table_array,col_index_num,[range_lookup])</code><br><strong>range_lookup</strong>: TRUE/FALSE<br>TRUE :范围匹配<br>FALSE:完全匹配<br><img src="https://img-blog.csdnimg.cn/20210105121215949.png#pic_center"><br><img src="https://img-blog.csdnimg.cn/20210105121330937.png#pic_center"><br><strong>Across Worksheets</strong>:<br><img src="https://img-blog.csdnimg.cn/20210105121516887.png#pic_center"></p>
+<h2 id="HLOOKUP"><a href="#HLOOKUP" class="headerlink" title="HLOOKUP()"></a>HLOOKUP()</h2><p><code>HLOOKUP(lookup_value,table_array,row_index_num,[range_lookup])</code><br><strong>range_lookup</strong>: TRUE/FALSE<br>TRUE :范围匹配<br>FALSE:完全匹配</p>
+<h1 id="Pivot-table"><a href="#Pivot-table" class="headerlink" title="Pivot table"></a>Pivot table</h1><p>数据透视图，超级有用，其中的pivot charts交互式也很好 :) 多多摸索</p>]]></content>
       <categories>
-        <category>Coursera</category>
-        <category>DataScience</category>
-        <category>Intro2DS</category>
+        <category>DSci</category>
+        <category>Excel</category>
       </categories>
       <tags>
-        <tag>Coursera</tag>
         <tag>DataScience</tag>
-        <tag>Pandas</tag>
+        <tag>Excel</tag>
       </tags>
   </entry>
   <entry>
@@ -6019,29 +6022,53 @@ It would be interesting to see if there is any evidence of a link between vaccin
       </tags>
   </entry>
   <entry>
-    <title>Coursera | Data Science for Business Innovation (EIT) | Quiz</title>
-    <url>/2021/03/27/Coursera/DS4BI-Quiz/</url>
-    <content><![CDATA[<h1 id="Data-Science-for-Business-Innovation"><a href="#Data-Science-for-Business-Innovation" class="headerlink" title="Data Science for Business Innovation"></a>Data Science for Business Innovation</h1><p><img src="https://img-blog.csdnimg.cn/20210204142832110.png#pic_center"><br>就个人感受来说这门课一般，只能说适合初学者吧，上课体验不佳，特别是每节课开头那个叮铃铃铃声，上完整个人仿佛丧失了生活希望(也不是针对这门课 :()。anyway，简单介绍了下DS，初学者可以试下，花点时间，一天就搞定了，还是不够UMich的舒服，以后上多了可以来个评分~</p>
-<h1 id="Quiz-答案"><a href="#Quiz-答案" class="headerlink" title="Quiz 答案"></a>Quiz 答案</h1><p>这里放下各个Quiz答案，Quiz也有一些槽点，主要是问题和上课内容关系不大，也不具有启发性，不过也不难，做做就行。</p>
-<h2 id="Week1"><a href="#Week1" class="headerlink" title="Week1"></a>Week1</h2><h3 id="Data-driven-Decision"><a href="#Data-driven-Decision" class="headerlink" title="Data-driven Decision"></a>Data-driven Decision</h3><p><img src="https://img-blog.csdnimg.cn/20210103122846399.png#pic_center"></p>
-<h3 id="Big-Data"><a href="#Big-Data" class="headerlink" title="Big Data"></a>Big Data</h3><p><img src="https://img-blog.csdnimg.cn/20210103122915562.png#pic_center"></p>
-<h2 id="Week2"><a href="#Week2" class="headerlink" title="Week2"></a>Week2</h2><h3 id="Netflix-succes-story"><a href="#Netflix-succes-story" class="headerlink" title="Netflix succes story"></a>Netflix succes story</h3><p><img src="https://img-blog.csdnimg.cn/20210103122946879.png#pic_center"></p>
-<h3 id="Machine-Learning"><a href="#Machine-Learning" class="headerlink" title="Machine Learning"></a>Machine Learning</h3><p><img src="https://img-blog.csdnimg.cn/20210103123058687.png#pic_center"></p>
-<h3 id="Solving-Problems-P-VS-ML"><a href="#Solving-Problems-P-VS-ML" class="headerlink" title="Solving Problems P VS ML"></a>Solving Problems P VS ML</h3><p><img src="https://img-blog.csdnimg.cn/20210103123116127.png#pic_center"></p>
-<h2 id="Week3"><a href="#Week3" class="headerlink" title="Week3"></a>Week3</h2><h3 id="Linear-Regression"><a href="#Linear-Regression" class="headerlink" title="Linear Regression"></a>Linear Regression</h3><p><img src="https://img-blog.csdnimg.cn/20210103123230614.png#pic_center"></p>
-<h3 id="Naive-Bayes-Classification"><a href="#Naive-Bayes-Classification" class="headerlink" title="Naive Bayes Classification"></a>Naive Bayes Classification</h3><p><img src="https://img-blog.csdnimg.cn/20210103123252862.png#pic_center"></p>
-<h3 id="Decision-Trees-and-Random-Forests"><a href="#Decision-Trees-and-Random-Forests" class="headerlink" title="Decision Trees and Random Forests"></a>Decision Trees and Random Forests</h3><p><img src="https://img-blog.csdnimg.cn/20210103123312147.png#pic_center"></p>
-<h3 id="Logistic-Regression"><a href="#Logistic-Regression" class="headerlink" title="Logistic Regression"></a>Logistic Regression</h3><p>这里叨下，第2题怎么都选不对，其实一开始觉得都错来着，该课程的quiz貌似经常出问题，nvm~<br><img src="https://img-blog.csdnimg.cn/20210103123721285.png#pic_center"></p>
-<h3 id="K-means-Clustering"><a href="#K-means-Clustering" class="headerlink" title="K-means Clustering"></a>K-means Clustering</h3><p><img src="https://img-blog.csdnimg.cn/20210103123457115.png#pic_center"></p>
-<h2 id="Week4"><a href="#Week4" class="headerlink" title="Week4"></a>Week4</h2><h3 id="Data-Science-Challenges"><a href="#Data-Science-Challenges" class="headerlink" title="Data Science Challenges"></a>Data Science Challenges</h3><p><img src="https://img-blog.csdnimg.cn/20210103123512183.png#pic_center"></p>]]></content>
+    <title>Coursera | 助学金申请流程</title>
+    <url>/2021/03/27/Coursera/Coursera_Financial_Aid/</url>
+    <content><![CDATA[<p>Coursera一直是一个很好的线上学习视频，从中获益良多。Coursera可以免费旁听，也可以付费学习获得学位，但是旁听是无法参加作业批改的，包括编程Autograder和peer review。这里介绍下如何免费上Coursera，作为学生，如何白嫖是门学问$_$</p>
+<h1 id="Coursera-旁听"><a href="#Coursera-旁听" class="headerlink" title="Coursera 旁听"></a>Coursera 旁听</h1><p>先介绍下怎么免费旁听，这个在漫长的助学金申请季可以先学习或者不在意证书以及批改作业功能的孩子可以用 :)<br>P.S.这里教程就方便大部分人，换成中文网页，英文网页一样</p>
+<ol>
+<li>选择想学习的课程，选择<code>免费注册</code><br><img src="https://img-blog.csdnimg.cn/20201228175037510.png"></li>
+<li>然后Coursera提供7天免费试用，但是我们在下角可以看到<code>旁听</code>按钮，就可以开始免费上课了<br><img src="https://img-blog.csdnimg.cn/2020122817514313.png"></li>
+<li>但是作业，包括Quiz、Assignment这些可以做，但是无法批改<br><img src="https://img-blog.csdnimg.cn/2020122817550072.png"></li>
+</ol>
+<h1 id="Coursera-助学金申请"><a href="#Coursera-助学金申请" class="headerlink" title="Coursera 助学金申请"></a>Coursera 助学金申请</h1><p>所以，如果想看看自己学习结果，追求更好上课体验的可以申请助学金啦。</p>
+<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申请流程</h2><ol>
+<li>在刚才看到的课程网站，免费注册旁边有着<code>有助学金</code>的就是可以申请助学金的，如果没有就是不可以申请，很多Coursera自己搞的课貌似就不行，只能乖乖交钱，毕竟平台还是要恰饭的嘛<br><img src="https://img-blog.csdnimg.cn/20201228175636704.png"></li>
+<li>审阅申请需要15天，申请成功会邮件通知，点击<code>继续申请</code><br><img src="https://img-blog.csdnimg.cn/20201228175805699.png"></li>
+<li>然后两个√上，以及复制粘贴一下，英文页面也是，只是换了英文，点击<code>继续</code><br><img src="https://img-blog.csdnimg.cn/20201228175908124.png"></li>
+<li>然后界面是这样，教育背景、年收入、工作情况这些不需要纠结，填填就好。<br><img src="https://img-blog.csdnimg.cn/20201228180254934.png"></li>
+<li>我就填0了，当然别填那些分分钟几百万的 :)<br>背景我就这样了，一般没影响<br><img src="https://img-blog.csdnimg.cn/20201228180424765.png"></li>
+<li>然后是重头戏，主要是两个，为什么申请，申请有什么用。分别要150w+，<strong>英文</strong>！！！！<br>这里放下我自己的模板，然后也会放上网上找到的模板，如有侵权，非常抱歉，请联系我删掉~<br>然后建议就是仅供参考哦，毕竟Coursera提供助学金是非常感激的，如果大家用同一个模板，整个助学金申请因此受到负面影响就不好了 :)</li>
+</ol>
+<h2 id="小作文1：为何申请助学金"><a href="#小作文1：为何申请助学金" class="headerlink" title="小作文1：为何申请助学金"></a>小作文1：为何申请助学金</h2><h3 id="思路"><a href="#思路" class="headerlink" title="思路"></a>思路</h3><p>主要是这几点<br>1）我穷你贵，小猫咪又有什么钱呢<br>2）我很喜欢这门课，能帮我学到什么，短期利益远期利益，不用太详细<br>3）我真的很穷，我也真的很喜欢这门课<br>4）审批官大人请可怜可怜我吧</p>
+<h3 id="模板"><a href="#模板" class="headerlink" title="模板"></a>模板</h3><p>放我自己的模板，由于我自己主要都是申请DS方面的，所以每次其实只要改下课程名字(斜线部分)就好了，如果是其他方向的，其实也只要改改中间几句话。</p>
+<blockquote>
+<p>Dear reviewers, I am a college student at Wuhan University which located in China. As a student, I am dependent on my family and have no income. My income is barely enough to cover my living expense, which means that I don’t have extra money to register for the class. However, this course <em>(Applied Machine Learning in Python)</em> really attracts me because I want to learn more about data science and how to become a data scientist while my department does not offer such courses. Furthermore, I want to apply for a program related to data science. Such courses will make sense during application. Without a job, I don’t want to put more financial burden on my family. I really appreciate Coursera offering such an opportunity for financial aid and I promise to finish my course if admitted.<br>Thank you for your consideration. I hope you can consider my application. Looking forward to your reply.</p>
+</blockquote>
+<h2 id="小作文2：如何帮助实现职业目标"><a href="#小作文2：如何帮助实现职业目标" class="headerlink" title="小作文2：如何帮助实现职业目标"></a>小作文2：如何帮助实现职业目标</h2><h3 id="思路-1"><a href="#思路-1" class="headerlink" title="思路"></a>思路</h3><p>我的主要是这几点<br>1）该课程我其他地方学不到<br>2）该课程质量高，自学效率低<br>3）讲下目前或者未来职业规划，课程相关程度高<br>4）也可以提下职业特性，比如前景好，发展迅速，需要学习新知识<br>5）自己学了这个能怎么用，其实也可以提下对研究方面的作用<br>anway,可以写的点很多，大家自己发挥~</p>
+<h3 id="模板-1"><a href="#模板-1" class="headerlink" title="模板"></a>模板</h3><p>其实偷懒每次可能直接套用，或者稍微改下即可。所以建议还是有自己的模板，方便自己有针对性的改。</p>
+<blockquote>
+<p>Dear reviewers, though I major in remote sensing information science and learn something related to data science and something about python during my research, I have not learned data science systematically. After realizing self-learning may cost a lot of unnecessary time and energy, I turn to online courses for help, where such a course is one of them. Moreover, I want to apply to a program related to data science and maybe become a data scientist for my career. Such a course may help me have a better understanding of data science and how to use it properly with Python.<br>What is equally worth mentioning is that data science, as a new field, is becoming a new trend for the whole world. After my preliminary learning with data science, it really attracts me by its amazing abilities to deal with big data, which can be used in all aspects of life. Furthermore, it helps in my recent research, which focuses on the big data of geoscience.<br>As I have learned the related courses at the University of Michigan and I really learn a lot from these courses, I want to obtain more knowledge. </p>
+</blockquote>
+<ol start="7">
+<li>最后一步就是是否考虑使用低息贷款支付课程费用？其实直接选是就就好了，如果选否还需要继续写原因 :) 文章最后面也给几个选否的网上模板~</li>
+</ol>
+<ol start="8">
+<li>然后点击提交申请就好啦，过一段时间会收到邮件，等待15天即可，一般都会批准的~<br><img src="https://img-blog.csdnimg.cn/20201228183009883.png"></li>
+</ol>
+<h2 id="其他模板"><a href="#其他模板" class="headerlink" title="其他模板"></a>其他模板</h2><p>放下网上大佬们的模板~ 如有侵权，非常抱歉，请联系我删掉~<br>再次建议有自己的模板更利于可持续性发展哦</p>
+<h3 id="为何申请助学金"><a href="#为何申请助学金" class="headerlink" title="为何申请助学金"></a>为何申请助学金</h3><p><img src="https://img-blog.csdnimg.cn/20201228182129995.png"></p>
+<p><img src="https://img-blog.csdnimg.cn/2020122818221738.png"></p>
+<p><img src="https://img-blog.csdnimg.cn/20201228182223509.png"><br><img src="https://img-blog.csdnimg.cn/20201228182254186.png"><br><img src="https://img-blog.csdnimg.cn/20201228182519533.png"><br><img src="https://img-blog.csdnimg.cn/20201228182533477.png"><br><img src="https://img-blog.csdnimg.cn/20201228182622418.png"></p>
+<h3 id="如何实现职业目标"><a href="#如何实现职业目标" class="headerlink" title="如何实现职业目标"></a>如何实现职业目标</h3><p><img src="https://img-blog.csdnimg.cn/20201228182137320.png"><br><img src="https://img-blog.csdnimg.cn/20201228182233209.png"><br><img src="https://img-blog.csdnimg.cn/20201228182548806.png"></p>
+<h3 id="是否考虑低息贷款"><a href="#是否考虑低息贷款" class="headerlink" title="是否考虑低息贷款"></a>是否考虑低息贷款</h3><p><img src="https://img-blog.csdnimg.cn/20201228182818598.png"></p>
+<p><img src="https://img-blog.csdnimg.cn/20201228182455134.png"></p>
+<p>最后说下，大家有经济实力还是可以直接给钱~毕竟质量高，值得这些钱。</p>]]></content>
       <categories>
         <category>Coursera</category>
-        <category>DataScience</category>
       </categories>
       <tags>
         <tag>Coursera</tag>
-        <tag>DataScience</tag>
-        <tag>Business</tag>
       </tags>
   </entry>
   <entry>
@@ -6091,53 +6118,29 @@ It would be interesting to see if there is any evidence of a link between vaccin
       </tags>
   </entry>
   <entry>
-    <title>Coursera | 助学金申请流程</title>
-    <url>/2021/03/27/Coursera/Coursera_Financial_Aid/</url>
-    <content><![CDATA[<p>Coursera一直是一个很好的线上学习视频，从中获益良多。Coursera可以免费旁听，也可以付费学习获得学位，但是旁听是无法参加作业批改的，包括编程Autograder和peer review。这里介绍下如何免费上Coursera，作为学生，如何白嫖是门学问$_$</p>
-<h1 id="Coursera-旁听"><a href="#Coursera-旁听" class="headerlink" title="Coursera 旁听"></a>Coursera 旁听</h1><p>先介绍下怎么免费旁听，这个在漫长的助学金申请季可以先学习或者不在意证书以及批改作业功能的孩子可以用 :)<br>P.S.这里教程就方便大部分人，换成中文网页，英文网页一样</p>
-<ol>
-<li>选择想学习的课程，选择<code>免费注册</code><br><img src="https://img-blog.csdnimg.cn/20201228175037510.png"></li>
-<li>然后Coursera提供7天免费试用，但是我们在下角可以看到<code>旁听</code>按钮，就可以开始免费上课了<br><img src="https://img-blog.csdnimg.cn/2020122817514313.png"></li>
-<li>但是作业，包括Quiz、Assignment这些可以做，但是无法批改<br><img src="https://img-blog.csdnimg.cn/2020122817550072.png"></li>
-</ol>
-<h1 id="Coursera-助学金申请"><a href="#Coursera-助学金申请" class="headerlink" title="Coursera 助学金申请"></a>Coursera 助学金申请</h1><p>所以，如果想看看自己学习结果，追求更好上课体验的可以申请助学金啦。</p>
-<h2 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申请流程</h2><ol>
-<li>在刚才看到的课程网站，免费注册旁边有着<code>有助学金</code>的就是可以申请助学金的，如果没有就是不可以申请，很多Coursera自己搞的课貌似就不行，只能乖乖交钱，毕竟平台还是要恰饭的嘛<br><img src="https://img-blog.csdnimg.cn/20201228175636704.png"></li>
-<li>审阅申请需要15天，申请成功会邮件通知，点击<code>继续申请</code><br><img src="https://img-blog.csdnimg.cn/20201228175805699.png"></li>
-<li>然后两个√上，以及复制粘贴一下，英文页面也是，只是换了英文，点击<code>继续</code><br><img src="https://img-blog.csdnimg.cn/20201228175908124.png"></li>
-<li>然后界面是这样，教育背景、年收入、工作情况这些不需要纠结，填填就好。<br><img src="https://img-blog.csdnimg.cn/20201228180254934.png"></li>
-<li>我就填0了，当然别填那些分分钟几百万的 :)<br>背景我就这样了，一般没影响<br><img src="https://img-blog.csdnimg.cn/20201228180424765.png"></li>
-<li>然后是重头戏，主要是两个，为什么申请，申请有什么用。分别要150w+，<strong>英文</strong>！！！！<br>这里放下我自己的模板，然后也会放上网上找到的模板，如有侵权，非常抱歉，请联系我删掉~<br>然后建议就是仅供参考哦，毕竟Coursera提供助学金是非常感激的，如果大家用同一个模板，整个助学金申请因此受到负面影响就不好了 :)</li>
-</ol>
-<h2 id="小作文1：为何申请助学金"><a href="#小作文1：为何申请助学金" class="headerlink" title="小作文1：为何申请助学金"></a>小作文1：为何申请助学金</h2><h3 id="思路"><a href="#思路" class="headerlink" title="思路"></a>思路</h3><p>主要是这几点<br>1）我穷你贵，小猫咪又有什么钱呢<br>2）我很喜欢这门课，能帮我学到什么，短期利益远期利益，不用太详细<br>3）我真的很穷，我也真的很喜欢这门课<br>4）审批官大人请可怜可怜我吧</p>
-<h3 id="模板"><a href="#模板" class="headerlink" title="模板"></a>模板</h3><p>放我自己的模板，由于我自己主要都是申请DS方面的，所以每次其实只要改下课程名字(斜线部分)就好了，如果是其他方向的，其实也只要改改中间几句话。</p>
-<blockquote>
-<p>Dear reviewers, I am a college student at Wuhan University which located in China. As a student, I am dependent on my family and have no income. My income is barely enough to cover my living expense, which means that I don’t have extra money to register for the class. However, this course <em>(Applied Machine Learning in Python)</em> really attracts me because I want to learn more about data science and how to become a data scientist while my department does not offer such courses. Furthermore, I want to apply for a program related to data science. Such courses will make sense during application. Without a job, I don’t want to put more financial burden on my family. I really appreciate Coursera offering such an opportunity for financial aid and I promise to finish my course if admitted.<br>Thank you for your consideration. I hope you can consider my application. Looking forward to your reply.</p>
-</blockquote>
-<h2 id="小作文2：如何帮助实现职业目标"><a href="#小作文2：如何帮助实现职业目标" class="headerlink" title="小作文2：如何帮助实现职业目标"></a>小作文2：如何帮助实现职业目标</h2><h3 id="思路-1"><a href="#思路-1" class="headerlink" title="思路"></a>思路</h3><p>我的主要是这几点<br>1）该课程我其他地方学不到<br>2）该课程质量高，自学效率低<br>3）讲下目前或者未来职业规划，课程相关程度高<br>4）也可以提下职业特性，比如前景好，发展迅速，需要学习新知识<br>5）自己学了这个能怎么用，其实也可以提下对研究方面的作用<br>anway,可以写的点很多，大家自己发挥~</p>
-<h3 id="模板-1"><a href="#模板-1" class="headerlink" title="模板"></a>模板</h3><p>其实偷懒每次可能直接套用，或者稍微改下即可。所以建议还是有自己的模板，方便自己有针对性的改。</p>
-<blockquote>
-<p>Dear reviewers, though I major in remote sensing information science and learn something related to data science and something about python during my research, I have not learned data science systematically. After realizing self-learning may cost a lot of unnecessary time and energy, I turn to online courses for help, where such a course is one of them. Moreover, I want to apply to a program related to data science and maybe become a data scientist for my career. Such a course may help me have a better understanding of data science and how to use it properly with Python.<br>What is equally worth mentioning is that data science, as a new field, is becoming a new trend for the whole world. After my preliminary learning with data science, it really attracts me by its amazing abilities to deal with big data, which can be used in all aspects of life. Furthermore, it helps in my recent research, which focuses on the big data of geoscience.<br>As I have learned the related courses at the University of Michigan and I really learn a lot from these courses, I want to obtain more knowledge. </p>
-</blockquote>
-<ol start="7">
-<li>最后一步就是是否考虑使用低息贷款支付课程费用？其实直接选是就就好了，如果选否还需要继续写原因 :) 文章最后面也给几个选否的网上模板~</li>
-</ol>
-<ol start="8">
-<li>然后点击提交申请就好啦，过一段时间会收到邮件，等待15天即可，一般都会批准的~<br><img src="https://img-blog.csdnimg.cn/20201228183009883.png"></li>
-</ol>
-<h2 id="其他模板"><a href="#其他模板" class="headerlink" title="其他模板"></a>其他模板</h2><p>放下网上大佬们的模板~ 如有侵权，非常抱歉，请联系我删掉~<br>再次建议有自己的模板更利于可持续性发展哦</p>
-<h3 id="为何申请助学金"><a href="#为何申请助学金" class="headerlink" title="为何申请助学金"></a>为何申请助学金</h3><p><img src="https://img-blog.csdnimg.cn/20201228182129995.png"></p>
-<p><img src="https://img-blog.csdnimg.cn/2020122818221738.png"></p>
-<p><img src="https://img-blog.csdnimg.cn/20201228182223509.png"><br><img src="https://img-blog.csdnimg.cn/20201228182254186.png"><br><img src="https://img-blog.csdnimg.cn/20201228182519533.png"><br><img src="https://img-blog.csdnimg.cn/20201228182533477.png"><br><img src="https://img-blog.csdnimg.cn/20201228182622418.png"></p>
-<h3 id="如何实现职业目标"><a href="#如何实现职业目标" class="headerlink" title="如何实现职业目标"></a>如何实现职业目标</h3><p><img src="https://img-blog.csdnimg.cn/20201228182137320.png"><br><img src="https://img-blog.csdnimg.cn/20201228182233209.png"><br><img src="https://img-blog.csdnimg.cn/20201228182548806.png"></p>
-<h3 id="是否考虑低息贷款"><a href="#是否考虑低息贷款" class="headerlink" title="是否考虑低息贷款"></a>是否考虑低息贷款</h3><p><img src="https://img-blog.csdnimg.cn/20201228182818598.png"></p>
-<p><img src="https://img-blog.csdnimg.cn/20201228182455134.png"></p>
-<p>最后说下，大家有经济实力还是可以直接给钱~毕竟质量高，值得这些钱。</p>]]></content>
+    <title>Coursera | Data Science for Business Innovation (EIT) | Quiz</title>
+    <url>/2021/03/27/Coursera/DS4BI-Quiz/</url>
+    <content><![CDATA[<h1 id="Data-Science-for-Business-Innovation"><a href="#Data-Science-for-Business-Innovation" class="headerlink" title="Data Science for Business Innovation"></a>Data Science for Business Innovation</h1><p><img src="https://img-blog.csdnimg.cn/20210204142832110.png#pic_center"><br>就个人感受来说这门课一般，只能说适合初学者吧，上课体验不佳，特别是每节课开头那个叮铃铃铃声，上完整个人仿佛丧失了生活希望(也不是针对这门课 :()。anyway，简单介绍了下DS，初学者可以试下，花点时间，一天就搞定了，还是不够UMich的舒服，以后上多了可以来个评分~</p>
+<h1 id="Quiz-答案"><a href="#Quiz-答案" class="headerlink" title="Quiz 答案"></a>Quiz 答案</h1><p>这里放下各个Quiz答案，Quiz也有一些槽点，主要是问题和上课内容关系不大，也不具有启发性，不过也不难，做做就行。</p>
+<h2 id="Week1"><a href="#Week1" class="headerlink" title="Week1"></a>Week1</h2><h3 id="Data-driven-Decision"><a href="#Data-driven-Decision" class="headerlink" title="Data-driven Decision"></a>Data-driven Decision</h3><p><img src="https://img-blog.csdnimg.cn/20210103122846399.png#pic_center"></p>
+<h3 id="Big-Data"><a href="#Big-Data" class="headerlink" title="Big Data"></a>Big Data</h3><p><img src="https://img-blog.csdnimg.cn/20210103122915562.png#pic_center"></p>
+<h2 id="Week2"><a href="#Week2" class="headerlink" title="Week2"></a>Week2</h2><h3 id="Netflix-succes-story"><a href="#Netflix-succes-story" class="headerlink" title="Netflix succes story"></a>Netflix succes story</h3><p><img src="https://img-blog.csdnimg.cn/20210103122946879.png#pic_center"></p>
+<h3 id="Machine-Learning"><a href="#Machine-Learning" class="headerlink" title="Machine Learning"></a>Machine Learning</h3><p><img src="https://img-blog.csdnimg.cn/20210103123058687.png#pic_center"></p>
+<h3 id="Solving-Problems-P-VS-ML"><a href="#Solving-Problems-P-VS-ML" class="headerlink" title="Solving Problems P VS ML"></a>Solving Problems P VS ML</h3><p><img src="https://img-blog.csdnimg.cn/20210103123116127.png#pic_center"></p>
+<h2 id="Week3"><a href="#Week3" class="headerlink" title="Week3"></a>Week3</h2><h3 id="Linear-Regression"><a href="#Linear-Regression" class="headerlink" title="Linear Regression"></a>Linear Regression</h3><p><img src="https://img-blog.csdnimg.cn/20210103123230614.png#pic_center"></p>
+<h3 id="Naive-Bayes-Classification"><a href="#Naive-Bayes-Classification" class="headerlink" title="Naive Bayes Classification"></a>Naive Bayes Classification</h3><p><img src="https://img-blog.csdnimg.cn/20210103123252862.png#pic_center"></p>
+<h3 id="Decision-Trees-and-Random-Forests"><a href="#Decision-Trees-and-Random-Forests" class="headerlink" title="Decision Trees and Random Forests"></a>Decision Trees and Random Forests</h3><p><img src="https://img-blog.csdnimg.cn/20210103123312147.png#pic_center"></p>
+<h3 id="Logistic-Regression"><a href="#Logistic-Regression" class="headerlink" title="Logistic Regression"></a>Logistic Regression</h3><p>这里叨下，第2题怎么都选不对，其实一开始觉得都错来着，该课程的quiz貌似经常出问题，nvm~<br><img src="https://img-blog.csdnimg.cn/20210103123721285.png#pic_center"></p>
+<h3 id="K-means-Clustering"><a href="#K-means-Clustering" class="headerlink" title="K-means Clustering"></a>K-means Clustering</h3><p><img src="https://img-blog.csdnimg.cn/20210103123457115.png#pic_center"></p>
+<h2 id="Week4"><a href="#Week4" class="headerlink" title="Week4"></a>Week4</h2><h3 id="Data-Science-Challenges"><a href="#Data-Science-Challenges" class="headerlink" title="Data Science Challenges"></a>Data Science Challenges</h3><p><img src="https://img-blog.csdnimg.cn/20210103123512183.png#pic_center"></p>]]></content>
       <categories>
         <category>Coursera</category>
+        <category>DataScience</category>
       </categories>
       <tags>
         <tag>Coursera</tag>
+        <tag>DataScience</tag>
+        <tag>Business</tag>
       </tags>
   </entry>
   <entry>
@@ -6349,29 +6352,6 @@ It would be interesting to see if there is any evidence of a link between vaccin
       </tags>
   </entry>
   <entry>
-    <title>Coursera | Applied Machine Learning in Python（University of Michigan）| Quiz</title>
-    <url>/2021/03/27/Coursera/AppliedML/Quiz/</url>
-    <content><![CDATA[<p>&emsp;&emsp; 所有quiz和assignment链接：<br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Quiz/">Coursera | Applied Machine Learning in Python（University of Michigan）| Quiz</a><br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment1/">Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment1</a><br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment2/">Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment2</a><br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment3/">Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment3</a><br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment4/">Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment4</a><br><br></p>
-<h1 id="Quiz答案"><a href="#Quiz答案" class="headerlink" title="Quiz答案"></a>Quiz答案</h1><p>&emsp;&emsp;不同于<a href="https://ycchen00.github.io/2020/11/09/Intro2DS/Quiz+Assignment1-4/">Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz答案</a>。该课程Quiz是coursera平台改，当场出成绩，然后可以刷到满分为止~</p>
-<h2 id="Module1-Fundamentals-of-Machine-Learning-Intro-to-Scikit-Learn"><a href="#Module1-Fundamentals-of-Machine-Learning-Intro-to-Scikit-Learn" class="headerlink" title="Module1 : Fundamentals of Machine Learning - Intro to Scikit Learn"></a>Module1 : Fundamentals of Machine Learning - Intro to Scikit Learn</h2><p>&emsp;&emsp;叨下被坑经历，这里的多选题是不定项选择，也就是只选一个也是可以的。<br><img src="https://img-blog.csdnimg.cn/20201122123118309.png#pic_center"></p>
-<h2 id="Module2-Supervised-Machine-Learning-Part-1"><a href="#Module2-Supervised-Machine-Learning-Part-1" class="headerlink" title="Module2 : Supervised Machine Learning - Part 1"></a>Module2 : Supervised Machine Learning - Part 1</h2><p>&emsp;&emsp;继续叨下被坑经历，第10题有两种问题啊，大家仔细看题。</p>
-<p><img src="https://img-blog.csdnimg.cn/20201123132523640.png#pic_center"></p>
-<h2 id="Module3-Evaluation"><a href="#Module3-Evaluation" class="headerlink" title="Module3 : Evaluation"></a>Module3 : Evaluation</h2><p>&emsp;&emsp;叨下可能的坑，第8题有两种问题啊，大家仔细看题，注意’micro’还是’macro’，第9题，做错了好几次才做出来，气到昏厥。<br><img src="https://img-blog.csdnimg.cn/20201126192836810.png#pic_center"></p>
-<h2 id="Module4-Supervised-Machine-Learning-Part-2"><a href="#Module4-Supervised-Machine-Learning-Part-2" class="headerlink" title="Module4 : Supervised Machine Learning - Part 2"></a>Module4 : Supervised Machine Learning - Part 2</h2><p><img src="https://img-blog.csdnimg.cn/20201129175946600.png"></p>
-<p>&emsp;&emsp; 欢迎评论区讨论呀~</p>]]></content>
-      <categories>
-        <category>Coursera</category>
-        <category>DataScience</category>
-        <category>AppliedML</category>
-      </categories>
-      <tags>
-        <tag>Coursera</tag>
-        <tag>DataScience</tag>
-        <tag>Pandas</tag>
-        <tag>Machine learning</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment4</title>
     <url>/2021/03/27/Coursera/AppliedML/Assignment4/</url>
     <content><![CDATA[<p>&emsp;&emsp; 所有quiz和assignment链接：<br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Quiz/">Coursera | Applied Machine Learning in Python（University of Michigan）| Quiz</a><br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment1/">Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment1</a><br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment2/">Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment2</a><br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment3/">Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment3</a><br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment4/">Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment4</a><br><br></p>
@@ -6481,6 +6461,29 @@ ticket_id
 Name: compliance, Length: 61001, dtype: float64</code></pre>
 <h2 id="AutoGrader-Result"><a href="#AutoGrader-Result" class="headerlink" title="AutoGrader Result"></a>AutoGrader Result</h2><hr>
 <p>Your AUC of 0.787592334899 was awarded a value of 1.0 out of 1.0 total grades</p>]]></content>
+      <categories>
+        <category>Coursera</category>
+        <category>DataScience</category>
+        <category>AppliedML</category>
+      </categories>
+      <tags>
+        <tag>Coursera</tag>
+        <tag>DataScience</tag>
+        <tag>Pandas</tag>
+        <tag>Machine learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Coursera | Applied Machine Learning in Python（University of Michigan）| Quiz</title>
+    <url>/2021/03/27/Coursera/AppliedML/Quiz/</url>
+    <content><![CDATA[<p>&emsp;&emsp; 所有quiz和assignment链接：<br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Quiz/">Coursera | Applied Machine Learning in Python（University of Michigan）| Quiz</a><br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment1/">Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment1</a><br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment2/">Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment2</a><br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment3/">Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment3</a><br>&emsp;&emsp;<a href="https://ycchen00.github.io/2020/12/12/Coursera/AppliedML/Assignment4/">Coursera | Applied Machine Learning in Python（University of Michigan）| Assignment4</a><br><br></p>
+<h1 id="Quiz答案"><a href="#Quiz答案" class="headerlink" title="Quiz答案"></a>Quiz答案</h1><p>&emsp;&emsp;不同于<a href="https://ycchen00.github.io/2020/11/09/Intro2DS/Quiz+Assignment1-4/">Coursera | Introduction to Data Science in Python（University of Michigan）| Quiz答案</a>。该课程Quiz是coursera平台改，当场出成绩，然后可以刷到满分为止~</p>
+<h2 id="Module1-Fundamentals-of-Machine-Learning-Intro-to-Scikit-Learn"><a href="#Module1-Fundamentals-of-Machine-Learning-Intro-to-Scikit-Learn" class="headerlink" title="Module1 : Fundamentals of Machine Learning - Intro to Scikit Learn"></a>Module1 : Fundamentals of Machine Learning - Intro to Scikit Learn</h2><p>&emsp;&emsp;叨下被坑经历，这里的多选题是不定项选择，也就是只选一个也是可以的。<br><img src="https://img-blog.csdnimg.cn/20201122123118309.png#pic_center"></p>
+<h2 id="Module2-Supervised-Machine-Learning-Part-1"><a href="#Module2-Supervised-Machine-Learning-Part-1" class="headerlink" title="Module2 : Supervised Machine Learning - Part 1"></a>Module2 : Supervised Machine Learning - Part 1</h2><p>&emsp;&emsp;继续叨下被坑经历，第10题有两种问题啊，大家仔细看题。</p>
+<p><img src="https://img-blog.csdnimg.cn/20201123132523640.png#pic_center"></p>
+<h2 id="Module3-Evaluation"><a href="#Module3-Evaluation" class="headerlink" title="Module3 : Evaluation"></a>Module3 : Evaluation</h2><p>&emsp;&emsp;叨下可能的坑，第8题有两种问题啊，大家仔细看题，注意’micro’还是’macro’，第9题，做错了好几次才做出来，气到昏厥。<br><img src="https://img-blog.csdnimg.cn/20201126192836810.png#pic_center"></p>
+<h2 id="Module4-Supervised-Machine-Learning-Part-2"><a href="#Module4-Supervised-Machine-Learning-Part-2" class="headerlink" title="Module4 : Supervised Machine Learning - Part 2"></a>Module4 : Supervised Machine Learning - Part 2</h2><p><img src="https://img-blog.csdnimg.cn/20201129175946600.png"></p>
+<p>&emsp;&emsp; 欢迎评论区讨论呀~</p>]]></content>
       <categories>
         <category>Coursera</category>
         <category>DataScience</category>
