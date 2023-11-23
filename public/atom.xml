@@ -6,7 +6,7 @@
   <link href="https://ycchen00.github.io/atom.xml" rel="self"/>
   
   <link href="https://ycchen00.github.io/"/>
-  <updated>2021-06-28T11:18:19.815Z</updated>
+  <updated>2023-11-23T20:34:39.417Z</updated>
   <id>https://ycchen00.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>CFA level 1 总结</title>
+    <link href="https://ycchen00.github.io/2023/11/23/CFA%20level%201/"/>
+    <id>https://ycchen00.github.io/2023/11/23/CFA%20level%201/</id>
+    <published>2023-11-23T20:28:59.908Z</published>
+    <updated>2023-11-23T20:34:39.417Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;CFA level 1 考后感想与总结&lt;br&gt;时隔两年半的更新 doge 感恩节快乐！&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="CFA" scheme="https://ycchen00.github.io/categories/CFA/"/>
+    
+    
+    <category term="CFA" scheme="https://ycchen00.github.io/tags/CFA/"/>
+    
+    <category term="CFA level 1" scheme="https://ycchen00.github.io/tags/CFA-level-1/"/>
+    
+  </entry>
+  
+  <entry>
     <title>云南旅游</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Travel/Yunnan/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Travel/Yunnan/</id>
-    <published>2021-08-18T06:54:27.153Z</published>
-    <updated>2021-06-28T11:18:19.815Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/Travel/Yunnan/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Travel/Yunnan/</id>
+    <published>2023-11-23T20:15:20.082Z</published>
+    <updated>2023-11-23T20:15:20.082Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -51,10 +74,10 @@
   
   <entry>
     <title>湖北三人游</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Travel/Hubei/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Travel/Hubei/</id>
-    <published>2021-08-18T06:54:27.140Z</published>
-    <updated>2021-06-03T15:24:51.600Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/Travel/Hubei/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Travel/Hubei/</id>
+    <published>2023-11-23T20:15:19.836Z</published>
+    <updated>2023-11-23T20:15:19.836Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -78,34 +101,11 @@
   </entry>
   
   <entry>
-    <title>Windows | 蓝牙忽然消失</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Tip/Windows/Windows%20%E8%93%9D%E7%89%99%E6%B6%88%E5%A4%B1/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Tip/Windows/Windows%20%E8%93%9D%E7%89%99%E6%B6%88%E5%A4%B1/</id>
-    <published>2021-08-18T06:54:27.110Z</published>
-    <updated>2021-03-28T11:38:03.923Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Windows总是没事跳出个问题刷存在感 :(&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
-    
-    <category term="Windows" scheme="https://ycchen00.github.io/categories/Tip/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://ycchen00.github.io/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Tip | 管理员权限打开CMD 快捷键</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Tip/%E7%AE%A1%E7%90%86%E5%91%98CMD_%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Tip/%E7%AE%A1%E7%90%86%E5%91%98CMD_%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
-    <published>2021-08-18T06:54:27.083Z</published>
-    <updated>2021-03-27T14:43:28.904Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/Tip/%E7%AE%A1%E7%90%86%E5%91%98CMD_%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Tip/%E7%AE%A1%E7%90%86%E5%91%98CMD_%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+    <published>2023-11-23T20:15:19.828Z</published>
+    <updated>2023-11-23T20:15:19.829Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -125,10 +125,10 @@
   
   <entry>
     <title>Tip | 佳能(EOS 750D) USB无法连接电脑</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/</id>
-    <published>2021-08-18T06:54:27.069Z</published>
-    <updated>2021-03-27T14:43:28.904Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Tip/%E4%BD%B3%E8%83%BD(EOS%20750D)_USB%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91/</id>
+    <published>2023-11-23T20:15:19.826Z</published>
+    <updated>2023-11-23T20:15:19.826Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -145,32 +145,11 @@
   </entry>
   
   <entry>
-    <title>PayPal大陆付款问题</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Tip/PayPal%E4%BB%98%E6%AC%BE/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Tip/PayPal%E4%BB%98%E6%AC%BE/</id>
-    <published>2021-08-18T06:54:27.054Z</published>
-    <updated>2021-03-27T14:43:28.899Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;PayPal账号的国家/地区信息与付款资料中的国家/地区信息不符。请使用其他付款方式。&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
-    
-    
-    <category term="PayPal" scheme="https://ycchen00.github.io/tags/PayPal/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Tip | iPhone照片按相册导入电脑</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Tip/iPhone%E5%AF%BC%E5%85%A5/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Tip/iPhone%E5%AF%BC%E5%85%A5/</id>
-    <published>2021-08-18T06:54:27.041Z</published>
-    <updated>2021-03-27T14:43:28.899Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/Tip/iPhone%E5%AF%BC%E5%85%A5/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Tip/iPhone%E5%AF%BC%E5%85%A5/</id>
+    <published>2023-11-23T20:15:19.824Z</published>
+    <updated>2023-11-23T20:15:19.825Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -189,11 +168,76 @@
   </entry>
   
   <entry>
+    <title>Tip | cmder安装与常用配置</title>
+    <link href="https://ycchen00.github.io/2023/11/23/Tip/cmder%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Tip/cmder%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/</id>
+    <published>2023-11-23T20:15:19.822Z</published>
+    <updated>2023-11-23T20:15:19.823Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;cmder安装与常用配置，cmd和Powershell替代&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
+    
+    
+    <category term="cmder" scheme="https://ycchen00.github.io/tags/cmder/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows | 蓝牙忽然消失</title>
+    <link href="https://ycchen00.github.io/2023/11/23/Tip/Windows/Windows%20%E8%93%9D%E7%89%99%E6%B6%88%E5%A4%B1/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Tip/Windows/Windows%20%E8%93%9D%E7%89%99%E6%B6%88%E5%A4%B1/</id>
+    <published>2023-11-23T20:15:19.820Z</published>
+    <updated>2023-11-23T20:15:19.820Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Windows总是没事跳出个问题刷存在感 :(&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
+    
+    <category term="Windows" scheme="https://ycchen00.github.io/categories/Tip/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://ycchen00.github.io/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PayPal大陆付款问题</title>
+    <link href="https://ycchen00.github.io/2023/11/23/Tip/PayPal%E4%BB%98%E6%AC%BE/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Tip/PayPal%E4%BB%98%E6%AC%BE/</id>
+    <published>2023-11-23T20:15:19.818Z</published>
+    <updated>2023-11-23T20:15:19.818Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;PayPal账号的国家/地区信息与付款资料中的国家/地区信息不符。请使用其他付款方式。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
+    
+    
+    <category term="PayPal" scheme="https://ycchen00.github.io/tags/PayPal/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Tip | Git复制粘贴 快捷键</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Tip/Git%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4_%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Tip/Git%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4_%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
-    <published>2021-08-18T06:54:27.028Z</published>
-    <updated>2021-03-27T14:43:28.899Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/Tip/Git%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4_%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Tip/Git%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4_%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+    <published>2023-11-23T20:15:19.816Z</published>
+    <updated>2023-11-23T20:15:19.816Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -212,32 +256,57 @@
   </entry>
   
   <entry>
-    <title>Tip | cmder安装与常用配置</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Tip/cmder%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Tip/cmder%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/</id>
-    <published>2021-08-18T06:54:27.013Z</published>
-    <updated>2021-03-27T14:43:28.899Z</updated>
+    <title>Python | 读取 json 文件</title>
+    <link href="https://ycchen00.github.io/2023/11/23/Python/%E8%AF%BB%E5%8F%96%20json%20%E6%96%87%E4%BB%B6/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Python/%E8%AF%BB%E5%8F%96%20json%20%E6%96%87%E4%BB%B6/</id>
+    <published>2023-11-23T20:15:19.814Z</published>
+    <updated>2023-11-23T20:15:19.814Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;cmder安装与常用配置，cmd和Powershell替代&lt;/p&gt;
+&lt;p&gt;介绍下json文件以及python读取方法~&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
     
     
     
-    <category term="Tip" scheme="https://ycchen00.github.io/categories/Tip/"/>
+    <category term="Python" scheme="https://ycchen00.github.io/categories/Python/"/>
     
     
-    <category term="cmder" scheme="https://ycchen00.github.io/tags/cmder/"/>
+    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
+    
+    <category term="json" scheme="https://ycchen00.github.io/tags/json/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python | pip设置代理 &amp; 更换镜像</title>
+    <link href="https://ycchen00.github.io/2023/11/23/Python/pip%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86%20&amp;%20%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Python/pip%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86%20&amp;%20%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F/</id>
+    <published>2023-11-23T20:15:19.812Z</published>
+    <updated>2023-11-23T20:15:19.812Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;pip设置代理或者更换国内镜像源&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Python" scheme="https://ycchen00.github.io/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
+    
+    <category term="pip" scheme="https://ycchen00.github.io/tags/pip/"/>
     
   </entry>
   
   <entry>
     <title>Jupyter Notebook | 更改默认目录、浏览器</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Python/JupyterNotebook/%E6%9B%B4%E6%94%B9%E9%BB%98%E8%AE%A4%E7%9B%AE%E5%BD%95%E3%80%81%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Python/JupyterNotebook/%E6%9B%B4%E6%94%B9%E9%BB%98%E8%AE%A4%E7%9B%AE%E5%BD%95%E3%80%81%E6%B5%8F%E8%A7%88%E5%99%A8/</id>
-    <published>2021-08-18T06:54:26.984Z</published>
-    <updated>2021-03-27T14:43:28.894Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/Python/JupyterNotebook/%E6%9B%B4%E6%94%B9%E9%BB%98%E8%AE%A4%E7%9B%AE%E5%BD%95%E3%80%81%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Python/JupyterNotebook/%E6%9B%B4%E6%94%B9%E9%BB%98%E8%AE%A4%E7%9B%AE%E5%BD%95%E3%80%81%E6%B5%8F%E8%A7%88%E5%99%A8/</id>
+    <published>2023-11-23T20:15:19.810Z</published>
+    <updated>2023-11-23T20:15:19.810Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -259,10 +328,10 @@
   
   <entry>
     <title>Jupyter Notebook | 扩展插件安装与推荐</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Python/JupyterNotebook/%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E6%8E%A8%E8%8D%90/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Python/JupyterNotebook/%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E6%8E%A8%E8%8D%90/</id>
-    <published>2021-08-18T06:54:26.972Z</published>
-    <updated>2021-03-27T14:43:28.894Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/Python/JupyterNotebook/%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E6%8E%A8%E8%8D%90/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Python/JupyterNotebook/%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E6%8E%A8%E8%8D%90/</id>
+    <published>2023-11-23T20:15:19.808Z</published>
+    <updated>2023-11-23T20:15:19.808Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -284,10 +353,10 @@
   
   <entry>
     <title>Jupyter Notebook | Markdown隐藏内容</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Python/JupyterNotebook/Markdown%E9%9A%90%E8%97%8F%E5%86%85%E5%AE%B9/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Python/JupyterNotebook/Markdown%E9%9A%90%E8%97%8F%E5%86%85%E5%AE%B9/</id>
-    <published>2021-08-18T06:54:26.959Z</published>
-    <updated>2021-03-27T14:43:28.894Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/Python/JupyterNotebook/Markdown%E9%9A%90%E8%97%8F%E5%86%85%E5%AE%B9/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Python/JupyterNotebook/Markdown%E9%9A%90%E8%97%8F%E5%86%85%E5%AE%B9/</id>
+    <published>2023-11-23T20:15:19.806Z</published>
+    <updated>2023-11-23T20:15:19.807Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -311,10 +380,10 @@
   
   <entry>
     <title>Jupyter Notebook | Magic-Timing运行时间</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Python/JupyterNotebook/Jupyter%20Magic%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Python/JupyterNotebook/Jupyter%20Magic%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4/</id>
-    <published>2021-08-18T06:54:26.947Z</published>
-    <updated>2021-03-27T14:43:28.894Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/Python/JupyterNotebook/Jupyter%20Magic%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Python/JupyterNotebook/Jupyter%20Magic%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4/</id>
+    <published>2023-11-23T20:15:19.788Z</published>
+    <updated>2023-11-23T20:15:19.788Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -335,57 +404,11 @@
   </entry>
   
   <entry>
-    <title>Python | 读取 json 文件</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Python/%E8%AF%BB%E5%8F%96%20json%20%E6%96%87%E4%BB%B6/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Python/%E8%AF%BB%E5%8F%96%20json%20%E6%96%87%E4%BB%B6/</id>
-    <published>2021-08-18T06:54:26.920Z</published>
-    <updated>2021-03-27T14:43:28.899Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;介绍下json文件以及python读取方法~&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Python" scheme="https://ycchen00.github.io/categories/Python/"/>
-    
-    
-    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
-    
-    <category term="json" scheme="https://ycchen00.github.io/tags/json/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Python | pip设置代理 &amp; 更换镜像</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Python/pip%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86%20&amp;%20%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Python/pip%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86%20&amp;%20%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F/</id>
-    <published>2021-08-18T06:54:26.907Z</published>
-    <updated>2021-03-27T14:43:28.894Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;pip设置代理或者更换国内镜像源&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Python" scheme="https://ycchen00.github.io/categories/Python/"/>
-    
-    
-    <category term="Python" scheme="https://ycchen00.github.io/tags/Python/"/>
-    
-    <category term="pip" scheme="https://ycchen00.github.io/tags/pip/"/>
-    
-  </entry>
-  
-  <entry>
     <title>OneNote | 复制粘贴文本输出图片解决方案</title>
-    <link href="https://ycchen00.github.io/2021/08/18/OneNote/%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E6%96%87%E6%9C%AC%E8%BE%93%E5%87%BA%E5%9B%BE%E7%89%87%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
-    <id>https://ycchen00.github.io/2021/08/18/OneNote/%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E6%96%87%E6%9C%AC%E8%BE%93%E5%87%BA%E5%9B%BE%E7%89%87%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
-    <published>2021-08-18T06:54:26.879Z</published>
-    <updated>2021-03-27T14:43:28.889Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/OneNote/%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E6%96%87%E6%9C%AC%E8%BE%93%E5%87%BA%E5%9B%BE%E7%89%87%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    <id>https://ycchen00.github.io/2023/11/23/OneNote/%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E6%96%87%E6%9C%AC%E8%BE%93%E5%87%BA%E5%9B%BE%E7%89%87%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
+    <published>2023-11-23T20:15:19.687Z</published>
+    <updated>2023-11-23T20:15:19.687Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -403,10 +426,10 @@
   
   <entry>
     <title>Google Clolab | GPU 资源限制</title>
-    <link href="https://ycchen00.github.io/2021/08/18/Google/Colab%20GPU%E5%90%8E%E7%AB%AF/"/>
-    <id>https://ycchen00.github.io/2021/08/18/Google/Colab%20GPU%E5%90%8E%E7%AB%AF/</id>
-    <published>2021-08-18T06:54:26.853Z</published>
-    <updated>2021-03-27T14:43:28.889Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/Google/Colab%20GPU%E5%90%8E%E7%AB%AF/"/>
+    <id>https://ycchen00.github.io/2023/11/23/Google/Colab%20GPU%E5%90%8E%E7%AB%AF/</id>
+    <published>2023-11-23T20:15:19.684Z</published>
+    <updated>2023-11-23T20:15:19.685Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -429,11 +452,36 @@
   </entry>
   
   <entry>
+    <title>GRE备考攻略</title>
+    <link href="https://ycchen00.github.io/2023/11/23/GRE%E5%A4%87%E8%80%83/"/>
+    <id>https://ycchen00.github.io/2023/11/23/GRE%E5%A4%87%E8%80%83/</id>
+    <published>2023-11-23T20:15:19.682Z</published>
+    <updated>2023-11-23T20:15:19.682Z</updated>
+    
+    
+    <summary type="html">叨下GRE备考策略(暂时空的)</summary>
+    
+    
+    
+    <category term="出国考试" scheme="https://ycchen00.github.io/categories/%E5%87%BA%E5%9B%BD%E8%80%83%E8%AF%95/"/>
+    
+    <category term="GRE" scheme="https://ycchen00.github.io/categories/%E5%87%BA%E5%9B%BD%E8%80%83%E8%AF%95/GRE/"/>
+    
+    
+    <category term="出国" scheme="https://ycchen00.github.io/tags/%E5%87%BA%E5%9B%BD/"/>
+    
+    <category term="英语" scheme="https://ycchen00.github.io/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+    <category term="GRE" scheme="https://ycchen00.github.io/tags/GRE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>GEE(Google Earth Engine)目录</title>
-    <link href="https://ycchen00.github.io/2021/08/18/GEE/GEE%E7%9B%AE%E5%BD%95/"/>
-    <id>https://ycchen00.github.io/2021/08/18/GEE/GEE%E7%9B%AE%E5%BD%95/</id>
-    <published>2021-08-18T06:54:26.827Z</published>
-    <updated>2021-03-27T14:43:28.885Z</updated>
+    <link href="https://ycchen00.github.io/2023/11/23/GEE/GEE%E7%9B%AE%E5%BD%95/"/>
+    <id>https://ycchen00.github.io/2023/11/23/GEE/GEE%E7%9B%AE%E5%BD%95/</id>
+    <published>2023-11-23T20:15:19.680Z</published>
+    <updated>2023-11-23T20:34:40.699Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -443,56 +491,6 @@
     
     
     <category term="GEE" scheme="https://ycchen00.github.io/categories/GEE/"/>
-    
-    
-    <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>
-    
-    <category term="Remote sensing" scheme="https://ycchen00.github.io/tags/Remote-sensing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GEE实战 | 计算NDVI &amp; NDWI</title>
-    <link href="https://ycchen00.github.io/2021/08/18/GEE/GEE%E5%AE%9E%E6%88%98%20%E8%AE%A1%E7%AE%97NDVI&amp;NDWI/"/>
-    <id>https://ycchen00.github.io/2021/08/18/GEE/GEE%E5%AE%9E%E6%88%98%20%E8%AE%A1%E7%AE%97NDVI&amp;NDWI/</id>
-    <published>2021-08-18T06:54:26.816Z</published>
-    <updated>2021-03-27T14:43:28.885Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;介绍了如何通过GEE计算NDVI和NDWI&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="GEE" scheme="https://ycchen00.github.io/categories/GEE/"/>
-    
-    <category term="GEE实战" scheme="https://ycchen00.github.io/categories/GEE/GEE%E5%AE%9E%E6%88%98/"/>
-    
-    
-    <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>
-    
-    <category term="Remote sensing" scheme="https://ycchen00.github.io/tags/Remote-sensing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GEE实战 | 窗口拆分(split panel)可视化</title>
-    <link href="https://ycchen00.github.io/2021/08/18/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
-    <id>https://ycchen00.github.io/2021/08/18/GEE/GEE%E5%AE%9E%E6%88%98%20%E7%AA%97%E5%8F%A3%E6%8B%86%E5%88%86(split%20panel)%E5%8F%AF%E8%A7%86%E5%8C%96/</id>
-    <published>2021-08-18T06:54:26.805Z</published>
-    <updated>2021-03-27T14:43:28.885Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;GEE实践系列，介绍如何在GEE上窗口拆分(split panel)可视化图片。&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="GEE" scheme="https://ycchen00.github.io/categories/GEE/"/>
-    
-    <category term="GEE实战" scheme="https://ycchen00.github.io/categories/GEE/GEE%E5%AE%9E%E6%88%98/"/>
     
     
     <category term="Google Earth Engine" scheme="https://ycchen00.github.io/tags/Google-Earth-Engine/"/>

@@ -9,10 +9,10 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "5.2.0"
+    "version": "5.4.2"
   },
   "dependencies": {
-    "hexo": "^5.0.0",
+    "hexo": "^5.4.2",
     "hexo-asset-image": "git+https://github.com/CodeFalling/hexo-asset-image.git",
     "hexo-baidu-url-submit": "0.0.6",
     "hexo-blog-encrypt": "^3.0.13",
